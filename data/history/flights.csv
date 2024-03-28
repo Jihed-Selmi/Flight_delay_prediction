@@ -1,404 +1,1339 @@
-aae,3:05 AM,PC282,Istanbul (SAW),Pegasus,B738 (TC-CRE),,Departed 4:05 AM,Sunday Mar 17,departures
-aae,1:45 PM,,Milan (MXP),Wizz Air,A21N (9H-WDP),,Departed 1:52 PM,Sunday Mar 17,departures
-aae,4:55 AM,OS850,Vienna (VIE),Austrian Airlines,A320 (OE-LBN),,Departed 4:49 AM,Sunday Mar 17,departures
-aae,6:00 AM,W43841,Dortmund (DTM),Wizz Air,A21N (HA-LZK),,Departed 7:01 AM,Sunday Mar 17,departures
-aae,6:00 AM,W46625,Brussels (CRL),Wizz Air,A321 (HA-LXA),,Departed 6:14 AM,Sunday Mar 17,departures
-aae,6:10 AM,W43845,Milan (BGY),Wizz Air,A321 (HA-LXR),,Departed 6:17 AM,Sunday Mar 17,departures
-aae,6:10 AM,W43857,Rome (FCO),Wizz Air,A321 (HA-LXK),,Departed 6:25 AM,Sunday Mar 17,departures
-aae,6:20 AM,W46607,Milan (MXP),Wizz Air,A321 (HA-LXE),,Departed 6:28 AM,Sunday Mar 17,departures
-aae,6:25 AM,LH1455,Frankfurt (FRA),Lufthansa,A320 (D-AIQW),,Departed 6:30 AM,Sunday Mar 17,departures
-aae,6:50 AM,W43851,Venice (TSF),Wizz Air,A321 (HA-LXY),,Departed 6:51 AM,Sunday Mar 17,departures
-aae,6:50 AM,W43853,Pisa (PSA),Wizz Air,A321 (HA-LXV),,Departed 6:58 AM,Sunday Mar 17,departures
-aae,6:55 AM,W46603,Turin (TRN),Wizz Air,A320 (9H-WZW),,Departed 6:54 AM,Sunday Mar 17,departures
-aae,6:55 AM,W46627,Eindhoven (EIN),Wizz Air,A21N (9H-WDP),,Departed 7:04 AM,Sunday Mar 17,departures
-aae,7:10 AM,W43861,Stockholm (NYO),Wizz Air,A320 (9H-WDC),,Departed 7:14 AM,Sunday Mar 17,departures
-aae,7:25 AM,ZB1001,Istanbul (IST),Air Albania,A320 (ZA-MMK),,Departed 4:18 PM,Sunday Mar 17,departures
-aae,7:30 AM,ZB2009,Pisa (PSA),Air Albania,319,,Unknown,Sunday Mar 17,departures
-aae,8:20 AM,W46605,Catania (CTA),Wizz Air,A21N (9H-WDR),,Departed 8:27 AM,Sunday Mar 17,departures
-aae,9:10 AM,FR8399,Bologna (BLQ),Ryanair,B738 (9H-QCY),,Departed 9:12 AM,Sunday Mar 17,departures
-aae,9:20 AM,W63879,Warsaw (WAW),Wizz Air,A321 (HA-LTE),,Departed 9:23 AM,Sunday Mar 17,departures
-aae,9:40 AM,LX1443,Zurich (ZRH),Swiss,BCS1 (HB-JBA),,Departed 9:52 AM,Sunday Mar 17,departures
-aae,9:45 AM,FR8299,Brussels (CRL),Ryanair,B738 (EI-EVT),,Departed 9:43 AM,Sunday Mar 17,departures
-aae,9:50 AM,A3971,Athens (ATH),Aegean Airlines,-,,Estimated dep. 9:50 AM,Sunday Mar 17,departures
-aae,10:10 AM,FR8356,Milan (BGY),Ryanair,B738 (9H-QEF),,Departed 10:51 AM,Sunday Mar 17,departures
-aae,10:30 AM,W46629,Milan (MXP),Wizz Air,A321 (HA-LXK),,Departed 10:54 AM,Sunday Mar 17,departures
-aae,11:05 AM,RK8289,London (STN),Ryanair,B738 (G-RUKE),,Departed 4:45 PM,Sunday Mar 17,departures
-aae,11:15 AM,W43855,Ancona (AOI),Wizz Air,A321 (HA-LXR),,Departed 11:20 AM,Sunday Mar 17,departures
-aae,11:15 AM,W46691,Rome (FCO),Wizz Air,A321 (HA-LXY),,Departed 11:17 AM,Sunday Mar 17,departures
-aae,11:30 AM,W46679,Pisa (PSA),Wizz Air,A321 (HA-LXV),,Departed 11:54 AM,Sunday Mar 17,departures
-aae,11:35 AM,W46601,Bari (BRI),Wizz Air,A321 (HA-LXE),,Departed 11:48 AM,Sunday Mar 17,departures
-aae,12:00 PM,2B233,Milan (BGY),Albawings,737,,Unknown,Sunday Mar 17,departures
-aae,12:00 PM,FR8333,Weeze (NRN),Ryanair,B738 (9H-QBY),,Departed 12:27 PM,Sunday Mar 17,departures
-aae,12:10 PM,FR8350,Milan (BGY),Ryanair,B738 (9H-QDB),,Departed 12:22 PM,Sunday Mar 17,departures
-aae,12:10 PM,W43885,Milan (BGY),Wizz Air,A320 (9H-WZW),,Departed 12:36 PM,Sunday Mar 17,departures
-aae,12:25 PM,FZ746,Dubai (DXB),flydubai,B38M (A6-FMI),,Departed 12:46 PM,Sunday Mar 17,departures
-aae,12:25 PM,W94466,London (LTN),Wizz Air,A21N (G-WUKU),,Departed 12:38 PM,Sunday Mar 17,departures
-aae,12:30 PM,2B273,Perugia (PEG),Albawings,737,,Unknown,Sunday Mar 17,departures
-aae,12:50 PM,ZB1010,Istanbul (IST),Air Albania,320,,Canceled,Sunday Mar 17,departures
-aae,12:50 PM,ZB2003,Milan (MXP),Air Albania,A320 (ZA-MMK),,Departed 9:08 PM,Sunday Mar 17,departures
-aae,12:55 PM,LO598,Warsaw (WAW),LOT (Warmia Mazury Livery),E195 (SP-LNF),,Departed 1:09 PM,Sunday Mar 17,departures
-aae,1:10 PM,W46613,Hamburg (HAM),Wizz Air,A21N (HA-LZK),,Departed 1:24 PM,Sunday Mar 17,departures
-aae,2:00 PM,W46611,Berlin (BER),Wizz Air,A321 (HA-LXA),,Departed 2:09 PM,Sunday Mar 17,departures
-aae,2:10 PM,W43206,Bucharest (OTP),Wizz Air,A321 (HA-LXH),,Departed 2:06 PM,Sunday Mar 17,departures
-aae,2:10 PM,W46635,Basel (BSL),Wizz Air,A321 (HA-LXE),,Departed 3:15 PM,Sunday Mar 17,departures
-aae,2:20 PM,LH1425,Frankfurt (FRA),Lufthansa,A320 (D-AIUP),,Departed 2:46 PM,Sunday Mar 17,departures
-aae,2:45 PM,W44813,Athens (ATH),Wizz Air,A320 (9H-WDC),,Departed 2:49 PM,Sunday Mar 17,departures
-aae,3:00 PM,JU213,Belgrade (BEG),AirSERBIA,AT76 (YU-ALZ),,Departed 3:06 PM,Sunday Mar 17,departures
-aae,3:00 PM,OS848,Vienna (VIE),Austrian Airlines,A320 (OE-LBP),,Departed 3:01 PM,Sunday Mar 17,departures
-aae,3:15 PM,W43869,Milan (BGY),Wizz Air,A321 (HA-LXR),,Departed 3:24 PM,Sunday Mar 17,departures
-aae,3:40 PM,FR8422,Milan (BGY),Ryanair,B738 (EI-DLX),,Departed 4:13 PM,Sunday Mar 17,departures
-aae,3:40 PM,W43843,Memmingen (FMM),Wizz Air,A321 (HA-LXK),,Departed 4:26 PM,Sunday Mar 17,departures
-aae,4:05 PM,W46649,Pisa (PSA),Wizz Air,A321 (HA-LXY),,Departed 4:03 PM,Sunday Mar 17,departures
-aae,4:15 PM,W44809,Venice (TSF),Wizz Air,A321 (HA-LTA),,Departed 4:21 PM,Sunday Mar 17,departures
-aae,4:55 PM,2B225,Venice (VCE),Albawings,737,,Unknown,Sunday Mar 17,departures
-aae,4:55 PM,AZ585,Rome (FCO),ITA Airways,A20N (EI-HJD),,Departed 4:57 PM,Sunday Mar 17,departures
-aae,5:00 PM,W46633,Paris (BVA),Wizz Air,A321 (HA-LXV),,Departed 5:04 PM,Sunday Mar 17,departures
-aae,5:10 PM,2B231,Pisa (PSA),Albawings,737,,Unknown,Sunday Mar 17,departures
-aae,6:00 PM,W43865,Barcelona (BCN),Wizz Air,A320 (9H-WZW),,Departed 5:57 PM,Sunday Mar 17,departures
-aae,6:10 PM,ZB1003,Istanbul (IST),Air Albania,A320 (ZA-MMK),,Departed 2:27 AM,Sunday Mar 17,departures
-aae,6:10 PM,ZB2001,Rome (FCO),Air Albania,319,,Unknown,Sunday Mar 17,departures
-aae,6:30 PM,A3973,Athens (ATH),Aegean Airlines,A320 (SX-DGZ),,Departed 6:27 PM,Sunday Mar 17,departures
-aae,6:55 PM,FR8420,Rome (CIA),Ryanair,B738 (9H-QAN),,Departed 6:58 PM,Sunday Mar 17,departures
-aae,6:55 PM,W43877,Bologna (BLQ),Wizz Air,A320 (9H-WDC),,Departed 6:51 PM,Sunday Mar 17,departures
-aae,7:00 PM,ZB2005,Bologna (BLQ),Air Albania,319,,Unknown,Sunday Mar 17,departures
-aae,7:45 PM,W46637,Genoa (GOA),Wizz Air,A321 (HA-LXE),,Departed 9:03 PM,Sunday Mar 17,departures
-aae,7:55 PM,W46661,Turin (TRN),Wizz Air,A21N (HA-LZK),,Departed 8:10 PM,Sunday Mar 17,departures
-aae,8:00 PM,W43887,Rome (FCO),Wizz Air,A321 (HA-LXA),,Departed 8:06 PM,Sunday Mar 17,departures
-aae,8:05 PM,FR8403,Krakow (KRK),Ryanair,B738 (SP-RSV),,Departed 8:08 PM,Sunday Mar 17,departures
-aae,8:10 PM,FR8400,Venice (TSF),Ryanair,B738 (9H-QEL),,Departed 8:17 PM,Sunday Mar 17,departures
-aae,8:10 PM,W46609,Milan (MXP),Wizz Air,A321 (HA-LXR),,Departed 8:13 PM,Sunday Mar 17,departures
-aae,8:20 PM,FR8416,Bucharest (OTP),Ryanair,B738 (9H-QBX),,Departed 8:20 PM,Sunday Mar 17,departures
-aae,8:40 PM,RK8291,London (STN),Ryanair,B738 (G-RUKD),,Departed 8:42 PM,Sunday Mar 17,departures
-aae,8:40 PM,W43849,Verona (VRN),Wizz Air,A321 (HA-LTA),,Departed 9:02 PM,Sunday Mar 17,departures
-aae,8:45 PM,W43847,Bologna (BLQ),Wizz Air,A321 (HA-LXY),,Departed 8:54 PM,Sunday Mar 17,departures
-aae,8:50 PM,W94474,London (LTN),Wizz Air,A21N (G-WUKP),,Departed 9:12 PM,Sunday Mar 17,departures
-aae,8:55 PM,W46647,Bari (BRI),Wizz Air,A321 (HA-LXK),,Departed 9:15 PM,Sunday Mar 17,departures
-aae,9:35 PM,W62234,Budapest (BUD),Wizz Air,A21N (HA-LGB),,Departed 10:09 PM,Sunday Mar 17,departures
-aae,9:50 PM,FR8391,Pisa (PSA),Ryanair,B738 (9H-QET),,Departed 10:02 PM,Sunday Mar 17,departures
-aae,10:05 PM,FR8370,Catania (CTA),Ryanair,B738 (9H-QCQ),,Departed 9:54 PM,Sunday Mar 17,departures
-aae,11:05 PM,W94472,London (LTN),Wizz Air,A21N (G-WUNC),,Departed 11:13 PM,Sunday Mar 17,departures
-aae,1:55 AM,PC282,Istanbul (SAW),Pegasus,A21N (TC-RDT),,Departed 4:11 AM,Monday Mar 18,departures
-aae,3:00 AM,ZB1011,Istanbul (IST),Air Albania,A320 (ZA-MMK),,Estimated dep. 3:08 AM,Monday Mar 18,departures
-aae,4:00 AM,JU217,Belgrade (BEG),AirSERBIA,AT76 (YU-ASA),,Departed 4:42 AM,Monday Mar 18,departures
-aae,4:55 AM,OS850,Vienna (VIE),Austrian Airlines (Retro Livery),A320 (OE-LBO),,Departed 4:50 AM,Monday Mar 18,departures
-aae,6:00 AM,W43841,Dortmund (DTM),Wizz Air,A21N (HA-LZK),,Departed 6:10 AM,Monday Mar 18,departures
-aae,6:00 AM,W46611,Berlin (BER),Wizz Air,A321 (HA-LXV),,Departed 6:07 AM,Monday Mar 18,departures
-aae,6:10 AM,W43845,Milan (BGY),Wizz Air,A321 (HA-LTA),,Departed 6:15 AM,Monday Mar 18,departures
-aae,6:20 AM,W46607,Milan (MXP),Wizz Air,A321 (HA-LXR),,Departed 6:24 AM,Monday Mar 18,departures
-aae,6:25 AM,LH1455,Frankfurt (FRA),Lufthansa,A320 (D-AIZI),,Departed 6:34 AM,Monday Mar 18,departures
-aae,6:25 AM,W46603,Turin (TRN),Wizz Air,A321 (HA-LXA),,Departed 6:30 AM,Monday Mar 18,departures
-aae,6:50 AM,W43851,Venice (TSF),Wizz Air,A321 (HA-LXY),,Departed 6:49 AM,Monday Mar 18,departures
-aae,6:50 AM,W46625,Brussels (CRL),Wizz Air,A321 (HA-LXK),,Departed 7:05 AM,Monday Mar 18,departures
-aae,6:55 AM,W43857,Rome (FCO),Wizz Air,A321 (HA-LXE),,Departed 6:58 AM,Monday Mar 18,departures
-aae,6:55 AM,W46627,Eindhoven (EIN),Wizz Air,A320 (9H-WZW),,Departed 7:08 AM,Monday Mar 18,departures
-aae,7:10 AM,W43843,Memmingen (FMM),Wizz Air,A320 (9H-WDC),,Departed 7:20 AM,Monday Mar 18,departures
-aae,7:20 AM,ZB2009,Pisa (PSA),Air Albania,319,,Unknown,Monday Mar 18,departures
-aae,7:25 AM,ZB1001,Istanbul (IST),Air Albania,A320 (ZA-MMK),,Departed 7:42 AM,Monday Mar 18,departures
-aae,8:00 AM,2B195,Ancona (AOI),Albawings,737,,Unknown,Monday Mar 18,departures
-aae,8:25 AM,FR8350,Milan (BGY),Ryanair,B38M (EI-IHZ),,Departed 8:31 AM,Monday Mar 18,departures
-aae,8:30 AM,ZB5001,Dusseldorf (DUS),Air Albania,319,,Unknown,Monday Mar 18,departures
-aae,9:00 AM,FR8400,Venice (TSF),Ryanair,B738 (9H-QCF),,Departed 9:03 AM,Monday Mar 18,departures
-aae,9:25 AM,TB2952,Brussels (BRU),TUI,E295 (OO-ETC),,Departed 9:32 AM,Monday Mar 18,departures
-aae,9:50 AM,A3971,Athens (ATH),Aegean Airlines,A20N (SX-NEG),,Departed 9:55 AM,Monday Mar 18,departures
-aae,10:15 AM,FR8299,Brussels (CRL),Ryanair,B738 (EI-EBK),,Departed 10:32 AM,Monday Mar 18,departures
-aae,10:35 AM,RK8289,London (STN),Ryanair,B738 (G-RUKD),,Departed 10:36 AM,Monday Mar 18,departures
-aae,11:15 AM,W43853,Pisa (PSA),Wizz Air,A321 (HA-LXY),,Departed 11:20 AM,Monday Mar 18,departures
-aae,11:15 AM,W43877,Bologna (BLQ),Wizz Air,A321 (HA-LXB),,Departed 11:22 AM,Monday Mar 18,departures
-aae,11:15 AM,W43885,Milan (BGY),Wizz Air,A321 (HA-LXE),,Departed 11:25 AM,Monday Mar 18,departures
-aae,11:20 AM,MDF9033,Athens (ATH),Swiftair,E120 (SX-AQI),,Departed 11:43 AM,Monday Mar 18,departures
-aae,11:30 AM,2B353,Bari (BRI),Albawings,737,,Unknown,Monday Mar 18,departures
-aae,11:35 AM,W46601,Bari (BRI),Wizz Air,A321 (HA-LXR),,Departed 11:40 AM,Monday Mar 18,departures
-aae,11:50 AM,W44809,Venice (TSF),Wizz Air,A321 (HA-LXA),,Departed 12:00 PM,Monday Mar 18,departures
-aae,12:00 PM,2B229,Bologna (BLQ),Albawings,737,,Unknown,Monday Mar 18,departures
-aae,12:05 PM,2B235,Verona (VRN),Albawings,737,,Unknown,Monday Mar 18,departures
-aae,12:10 PM,W46631,Prague (PRG),Wizz Air,A321 (HA-LXV),,Departed 12:13 PM,Monday Mar 18,departures
-aae,12:15 PM,FR8320,Rome (CIA),Ryanair,B738 (9H-QBW),,Departed 12:28 PM,Monday Mar 18,departures
-aae,12:25 PM,W45100,Krakow (KRK),Wizz Air,A320 (9H-WDC),,Departed 12:47 PM,Monday Mar 18,departures
-aae,12:30 PM,W46633,Paris (BVA),Wizz Air,A21N (HA-LZK),,Departed 12:35 PM,Monday Mar 18,departures
-aae,12:40 PM,ZB1010,Istanbul (IST),Air Albania,320,,Canceled,Monday Mar 18,departures
-aae,12:50 PM,ZB2003,Milan (MXP),Air Albania,A320 (ZA-MMK),,Estimated dep. 1:08 PM,Monday Mar 18,departures
-aae,12:55 PM,W46605,Catania (CTA),Wizz Air,A21N (9H-WDR),,Estimated dep. 1:09 PM,Monday Mar 18,departures
-aae,1:30 PM,LO598,Warsaw (WAW),LOT,E75S (SP-LIC),,Estimated dep. 1:38 PM,Monday Mar 18,departures
-aae,1:35 PM,BA381,London (LHR),Finnair,A320 (OH-LXH),,Estimated dep. 1:35 PM,Monday Mar 18,departures
-aae,1:35 PM,W44813,Athens (ATH),Wizz Air,A321 (HA-LXK),,Estimated dep. 1:49 PM,Monday Mar 18,departures
-aae,2:10 PM,LH1425,Frankfurt (FRA),Lufthansa,A320 (D-AIUD),,Estimated dep. 2:25 PM,Monday Mar 18,departures
-aae,2:20 PM,W46635,Basel (BSL),Wizz Air,A320 (HA-LYK),,Estimated dep. 2:35 PM,Monday Mar 18,departures
-aae,3:00 PM,JU213,Belgrade (BEG),AirSERBIA,A319 (YU-APF),,Estimated dep. 3:10 PM,Monday Mar 18,departures
-aae,3:00 PM,OS848,Vienna (VIE),Austrian Airlines,A320 (OE-LZE),,Estimated dep. 3:08 PM,Monday Mar 18,departures
-aae,3:25 PM,W43869,Milan (BGY),Wizz Air,A321 (HA-LXR),,Estimated dep. 3:39 PM,Monday Mar 18,departures
-aae,4:05 PM,PC284,Istanbul (SAW),Pegasus,A20N (TC-NBA),,Estimated dep. 4:05 PM,Monday Mar 18,departures
-aae,4:05 PM,W46637,Genoa (GOA),Wizz Air,A321 (HA-LXB),,Estimated dep. 4:19 PM,Monday Mar 18,departures
-aae,4:05 PM,MDF9031,Athens (ATH),Swiftair,E120 (SX-AQI),,Estimated dep. 5:03 PM,Monday Mar 18,departures
-aae,4:15 PM,W43887,Rome (FCO),Wizz Air,A321 (HA-LXY),,Estimated dep. 4:29 PM,Monday Mar 18,departures
-aae,4:25 PM,W46688,Catania (CTA),Wizz Air,A321 (HA-LXE),,Estimated dep. 4:39 PM,Monday Mar 18,departures
-aae,4:45 PM,W46649,Pisa (PSA),Wizz Air,A321 (HA-LXA),,Estimated dep. 4:59 PM,Monday Mar 18,departures
-aae,5:10 PM,FR8356,Milan (BGY),Ryanair,B738 (9H-QBI),,Estimated dep. 5:25 PM,Monday Mar 18,departures
-aae,5:30 PM,W46645,Madrid (MAD),Wizz Air,A321 (HA-LXV),,Estimated dep. 5:44 PM,Monday Mar 18,departures
-aae,5:45 PM,W46613,Hamburg (HAM),Wizz Air,A321 (HA-LXK),,Estimated dep. 5:59 PM,Monday Mar 18,departures
-aae,5:45 PM,5W7092,Abu Dhabi (AUH),Wizz Air,A21N (A6-WZB),,Estimated dep. 5:53 PM,Monday Mar 18,departures
-aae,5:50 PM,W43865,Barcelona (BCN),Wizz Air,A320 (9H-WDC),,Estimated dep. 6:05 PM,Monday Mar 18,departures
-aae,6:30 PM,A3973,Athens (ATH),Aegean Airlines,-,,Estimated dep. 6:30 PM,Monday Mar 18,departures
-aae,7:25 PM,FR8399,Bologna (BLQ),Ryanair,B738 (9H-QCG),,Estimated dep. 7:40 PM,Monday Mar 18,departures
-aae,7:35 PM,W43867,Cologne (CGN),Wizz Air,A21N (HA-LZK),,Estimated dep. 7:49 PM,Monday Mar 18,departures
-aae,7:45 PM,FR8360,Rome (CIA),Ryanair,B738 (9H-QAN),,Estimated dep. 8:00 PM,Monday Mar 18,departures
-aae,7:55 PM,W46691,Rome (FCO),Wizz Air,A320 (HA-LYK),,Estimated dep. 8:10 PM,Monday Mar 18,departures
-aae,8:00 PM,RK8291,London (STN),Ryanair,B738 (G-RUKD),,Estimated dep. 8:15 PM,Monday Mar 18,departures
-aae,8:10 PM,W46609,Milan (MXP),Wizz Air,A321 (HA-LXR),,Estimated dep. 8:24 PM,Monday Mar 18,departures
-aae,8:20 PM,W94474,London (LTN),Wizz Air,A21N (G-WUKS),,Estimated dep. 8:34 PM,Monday Mar 18,departures
-aae,8:30 PM,FR8370,Catania (CTA),Ryanair,B738 (9H-QCQ),,Estimated dep. 8:45 PM,Monday Mar 18,departures
-aae,8:30 PM,W46647,Bari (BRI),Wizz Air,A321 (HA-LXY),,Estimated dep. 8:44 PM,Monday Mar 18,departures
-aae,8:35 PM,W43847,Bologna (BLQ),Wizz Air,A321 (HA-LXE),,Estimated dep. 8:49 PM,Monday Mar 18,departures
-aae,9:00 PM,W44817,Brindisi (BDS),Wizz Air,A321 (HA-LXB),,Estimated dep. 9:14 PM,Monday Mar 18,departures
-aae,9:20 PM,W42882,Vienna (VIE),Wizz Air,A321 (HA-LXO),,Estimated dep. 9:34 PM,Monday Mar 18,departures
-aae,9:25 PM,W43849,Verona (VRN),Wizz Air,A321 (HA-LXA),,Estimated dep. 9:39 PM,Monday Mar 18,departures
-aae,9:50 PM,FR8391,Pisa (PSA),Ryanair,B738 (9H-QBV),,Estimated dep. 10:05 PM,Monday Mar 18,departures
-aae,11:05 PM,W94472,London (LTN),Wizz Air,A21N (G-WUKZ),,Estimated dep. 11:19 PM,Monday Mar 18,departures
-aae,2:20 AM,PC282,Istanbul (SAW),Pegasus,320,,Estimated dep. 4:00 AM,Tuesday Mar 19,departures
-aae,5:35 AM,AZ507,Rome (FCO),ITA Airways,32S,,Estimated dep. 5:35 AM,Tuesday Mar 19,departures
-aae,8:25 AM,FR8360,Rome (CIA),Ryanair,73H,,Estimated dep. 8:25 AM,Tuesday Mar 19,departures
-aae,9:25 AM,FR8299,Brussels (CRL),Ryanair,73H,,Estimated dep. 9:25 AM,Tuesday Mar 19,departures
-aae,10:00 AM,FR8418,Stockholm (ARN),Ryanair,73H,,Estimated dep. 10:00 AM,Tuesday Mar 19,departures
-aae,10:15 AM,FR8350,Milan (BGY),Ryanair,73H,,Estimated dep. 10:15 AM,Tuesday Mar 19,departures
-aae,10:15 AM,FR8314,Paris (BVA),Ryanair,7M8,,Estimated dep. 10:15 AM,Tuesday Mar 19,departures
-aae,10:40 AM,RK8293,Manchester (MAN),Ryanair UK,73H,,Estimated dep. 10:40 AM,Tuesday Mar 19,departures
-aae,11:10 AM,RK8289,London (STN),Ryanair UK,73H,,Estimated dep. 11:10 AM,Tuesday Mar 19,departures
-aae,3:45 PM,AZ585,Rome (FCO),ITA Airways,32N,,Estimated dep. 3:45 PM,Tuesday Mar 19,departures
-aae,8:40 PM,RK8291,London (STN),Ryanair UK,73H,,Estimated dep. 8:40 PM,Tuesday Mar 19,departures
-aae,10:05 PM,FR8356,Milan (BGY),Ryanair,73H,,Estimated dep. 10:05 PM,Tuesday Mar 19,departures
-aae,1:10 AM,W46616,Frankfurt (HHN),Wizz Air Malta,321,,Unknown,Sunday Mar 17,arrivals
-aae,5:57 AM,,Budapest (BUD),Wizz Air,A21N (HA-LZK),,Landed 5:48 AM,Sunday Mar 17,arrivals
-aae,7:35 AM,W46606,Catania (CTA),Wizz Air,A21N (9H-WDR),,Landed 7:18 AM,Sunday Mar 17,arrivals
-aae,8:40 AM,FR8398,Bologna (BLQ),Ryanair,B738 (9H-QCY),,Landed 8:21 AM,Sunday Mar 17,arrivals
-aae,8:45 AM,W63880,Warsaw (WAW),Wizz Air,A321 (HA-LTE),,Landed 8:25 AM,Sunday Mar 17,arrivals
-aae,8:55 AM,LX1442,Zurich (ZRH),Swiss,BCS1 (HB-JBA),,Landed 8:37 AM,Sunday Mar 17,arrivals
-aae,9:05 AM,A3970,Athens (ATH),Aegean Airlines,-,,Unknown,Sunday Mar 17,arrivals
-aae,9:20 AM,FR8298,Brussels (CRL),Ryanair,B738 (EI-EVT),,Landed 8:52 AM,Sunday Mar 17,arrivals
-aae,9:40 AM,FR8355,Milan (BGY),Ryanair,B738 (9H-QEF),,Landed 9:49 AM,Sunday Mar 17,arrivals
-aae,9:55 AM,W43858,Rome (FCO),Wizz Air,A321 (HA-LXK),,Landed 9:45 AM,Sunday Mar 17,arrivals
-aae,10:25 AM,RK8288,London (STN),Ryanair,B738 (G-RUKE),,Landed 10:08 AM,Sunday Mar 17,arrivals
-aae,10:40 AM,W43846,Milan (BGY),Wizz Air,A321 (HA-LXR),,Landed 10:18 AM,Sunday Mar 17,arrivals
-aae,10:40 AM,W43852,Venice (TSF),Wizz Air,A321 (HA-LXY),,Landed 10:21 AM,Sunday Mar 17,arrivals
-aae,10:55 AM,W43854,Pisa (PSA),Wizz Air,A321 (HA-LXV),,Landed 10:57 AM,Sunday Mar 17,arrivals
-aae,11:00 AM,W46608,Milan (MXP),Wizz Air,A321 (HA-LXE),,Landed 10:32 AM,Sunday Mar 17,arrivals
-aae,11:25 AM,FZ745,Dubai (DXB),flydubai,B38M (A6-FMI),,Landed 11:28 AM,Sunday Mar 17,arrivals
-aae,11:35 AM,FR8332,Weeze (NRN),Ryanair,B738 (9H-QBY),,Landed 11:03 AM,Sunday Mar 17,arrivals
-aae,11:35 AM,W46604,Turin (TRN),Wizz Air,A320 (9H-WZW),,Landed 11:39 AM,Sunday Mar 17,arrivals
-aae,11:40 AM,W43842,Dortmund (DTM),Wizz Air,A21N (HA-LZK),,Landed 12:19 PM,Sunday Mar 17,arrivals
-aae,11:40 AM,ZB2010,Pisa (PSA),Air Albania,319,,Unknown,Sunday Mar 17,arrivals
-aae,11:45 AM,FR8349,Milan (BGY),Ryanair,B738 (9H-QDB),,Landed 11:32 AM,Sunday Mar 17,arrivals
-aae,11:50 AM,W94465,London (LTN),Wizz Air,A21N (G-WUKU),,Landed 11:36 AM,Sunday Mar 17,arrivals
-aae,11:50 AM,ZB1005,Istanbul (IST),Air Albania,A320 (ZA-MMK),,Landed 7:56 PM,Sunday Mar 17,arrivals
-aae,12:00 PM,W46626,Brussels (CRL),Wizz Air,A321 (HA-LXA),,Landed 11:44 AM,Sunday Mar 17,arrivals
-aae,12:40 PM,ZB2008,Milan (BGY),Air Albania,319,,Unknown,Sunday Mar 17,arrivals
-aae,1:10 PM,W46628,Eindhoven (EIN),Wizz Air,A21N (9H-WDP),,Landed 12:56 PM,Sunday Mar 17,arrivals
-aae,1:30 PM,ZB1004,Istanbul (IST),Air Albania,A320 (ZA-MMK),,Landed 3:22 PM,Sunday Mar 17,arrivals
-aae,1:30 PM,LH1424,Frankfurt (FRA),Lufthansa,A320 (D-AIUP),,Landed 1:39 PM,Sunday Mar 17,arrivals
-aae,1:35 PM,W43205,Bucharest (OTP),Wizz Air,A321 (HA-LXH),,Landed 1:08 PM,Sunday Mar 17,arrivals
-aae,2:00 PM,W43862,Stockholm (NYO),Wizz Air,A320 (9H-WDC),,Landed 1:31 PM,Sunday Mar 17,arrivals
-aae,2:15 PM,OS847,Vienna (VIE),Austrian Airlines,A320 (OE-LBP),,Landed 2:08 PM,Sunday Mar 17,arrivals
-aae,2:30 PM,JU212,Belgrade (BEG),AirSERBIA,AT76 (YU-ALZ),,Landed 2:14 PM,Sunday Mar 17,arrivals
-aae,2:30 PM,W46602,Bari (BRI),Wizz Air,A321 (HA-LXE),,Landed 2:04 PM,Sunday Mar 17,arrivals
-aae,2:40 PM,W43856,Ancona (AOI),Wizz Air,A321 (HA-LXR),,Landed 2:20 PM,Sunday Mar 17,arrivals
-aae,3:00 PM,W46692,Rome (FCO),Wizz Air,A321 (HA-LXY),,Landed 2:45 PM,Sunday Mar 17,arrivals
-aae,3:00 PM,,Frankfurt (HHN),Wizz Air,A321 (HA-LTA),,Landed 3:13 PM,Sunday Mar 17,arrivals
-aae,3:05 PM,FR8421,Milan (BGY),Ryanair,B738 (EI-DLX),,Landed 3:04 PM,Sunday Mar 17,arrivals
-aae,3:10 PM,W46630,Milan (MXP),Wizz Air,A321 (HA-LXK),,Landed 3:17 PM,Sunday Mar 17,arrivals
-aae,3:35 PM,W46680,Pisa (PSA),Wizz Air,A321 (HA-LXV),,Landed 3:45 PM,Sunday Mar 17,arrivals
-aae,4:05 PM,AZ582,Rome (FCO),ITA Airways,A20N (EI-HJD),,Landed 3:49 PM,Sunday Mar 17,arrivals
-aae,4:15 PM,2B274,Perugia (PEG),Albawings,737,,Unknown,Sunday Mar 17,arrivals
-aae,4:20 PM,2B232,Milan (BGY),Albawings,737,,Unknown,Sunday Mar 17,arrivals
-aae,4:30 PM,W43886,Milan (BGY),Wizz Air,A320 (9H-WZW),,Landed 4:50 PM,Sunday Mar 17,arrivals
-aae,5:10 PM,ZB1011,Istanbul (IST),Air Albania,320,,Canceled,Sunday Mar 17,arrivals
-aae,5:40 PM,ZB2012,Verona (VRN),Air Albania,319,,Unknown,Sunday Mar 17,arrivals
-aae,5:50 PM,A3972,Athens (ATH),Aegean Airlines,A320 (SX-DGZ),,Landed 5:37 PM,Sunday Mar 17,arrivals
-aae,5:50 PM,ZB2014,Milan (MXP),Air Albania,A320 (ZA-MMK),,Landed 1:21 AM,Sunday Mar 17,arrivals
-aae,6:20 PM,W44814,Athens (ATH),Wizz Air,A320 (9H-WDC),,Landed 5:52 PM,Sunday Mar 17,arrivals
-aae,6:25 PM,FR8419,Rome (CIA),Ryanair,B738 (9H-QAN),,Landed 5:55 PM,Sunday Mar 17,arrivals
-aae,7:10 PM,W46614,Hamburg (HAM),Wizz Air,A21N (HA-LZK),,Landed 6:57 PM,Sunday Mar 17,arrivals
-aae,7:10 PM,W46636,Basel (BSL),Wizz Air,A321 (HA-LXE),,Landed 8:04 PM,Sunday Mar 17,arrivals
-aae,7:20 PM,FR8402,Krakow (KRK),Ryanair,B738 (SP-RSV),,Landed 7:09 PM,Sunday Mar 17,arrivals
-aae,7:20 PM,W46612,Berlin (BER),Wizz Air,A321 (HA-LXA),,Landed 7:00 PM,Sunday Mar 17,arrivals
-aae,7:35 PM,FR8401,Venice (TSF),Ryanair,B738 (9H-QEL),,Landed 7:27 PM,Sunday Mar 17,arrivals
-aae,7:35 PM,W43870,Milan (BGY),Wizz Air,A321 (HA-LXR),,Landed 7:16 PM,Sunday Mar 17,arrivals
-aae,7:45 PM,FR8415,Bucharest (OTP),Ryanair,B738 (9H-QBX),,Landed 7:31 PM,Sunday Mar 17,arrivals
-aae,8:05 PM,W44810,Venice (TSF),Wizz Air,A321 (HA-LTA),,Landed 8:00 PM,Sunday Mar 17,arrivals
-aae,8:05 PM,RK8290,London (STN),Ryanair,B738 (G-RUKD),,Landed 7:36 PM,Sunday Mar 17,arrivals
-aae,8:10 PM,W46650,Pisa (PSA),Wizz Air,A321 (HA-LXY),,Landed 7:52 PM,Sunday Mar 17,arrivals
-aae,8:15 PM,W94473,London (LTN),Wizz Air,A21N (G-WUKP),,Landed 7:41 PM,Sunday Mar 17,arrivals
-aae,8:20 PM,W43844,Memmingen (FMM),Wizz Air,A321 (HA-LXK),,Landed 8:15 PM,Sunday Mar 17,arrivals
-aae,8:55 PM,2B224,Venice (VCE),Albawings,737,,Unknown,Sunday Mar 17,arrivals
-aae,9:00 PM,W62233,Budapest (BUD),Wizz Air,A21N (HA-LGB),,Landed 9:06 PM,Sunday Mar 17,arrivals
-aae,9:20 PM,2B230,Pisa (PSA),Albawings,737,,Unknown,Sunday Mar 17,arrivals
-aae,9:25 PM,FR8390,Pisa (PSA),Ryanair,B738 (9H-QET),,Landed 9:10 PM,Sunday Mar 17,arrivals
-aae,9:30 PM,FR8369,Catania (CTA),Ryanair,B738 (9H-QCQ),,Landed 8:59 PM,Sunday Mar 17,arrivals
-aae,9:55 PM,PC281,Istanbul (SAW),Pegasus,A21N (TC-RDT),,Landed 9:41 PM,Sunday Mar 17,arrivals
-aae,9:55 PM,ZB2002,Rome (FCO),Air Albania,319,,Unknown,Sunday Mar 17,arrivals
-aae,10:30 PM,W94471,London (LTN),Wizz Air,A21N (G-WUNC),,Landed 10:00 PM,Sunday Mar 17,arrivals
-aae,10:30 PM,ZB1002,Istanbul (IST),Air Albania,A320 (ZA-MMK),,Landed 6:39 AM,Sunday Mar 17,arrivals
-aae,10:40 PM,LH1454,Frankfurt (FRA),Lufthansa,A320 (D-AIZI),,Landed 10:22 PM,Sunday Mar 17,arrivals
-aae,10:50 PM,W43878,Bologna (BLQ),Wizz Air,A320 (9H-WDC),,Landed 10:27 PM,Sunday Mar 17,arrivals
-aae,11:10 PM,W46634,Paris (BVA),Wizz Air,A321 (HA-LXV),,Landed 10:43 PM,Sunday Mar 17,arrivals
-aae,11:20 PM,ZB2006,Bologna (BLQ),Air Albania,319,,Unknown,Sunday Mar 17,arrivals
-aae,11:30 PM,W46648,Bari (BRI),Wizz Air,A321 (HA-LXK),,Landed 11:10 PM,Sunday Mar 17,arrivals
-aae,11:45 PM,W43888,Rome (FCO),Wizz Air,A321 (HA-LXA),,Landed 11:32 PM,Sunday Mar 17,arrivals
-aae,12:05 AM,W43866,Barcelona (BCN),Wizz Air,A320 (9H-WZW),,Landed 11:47 PM,Monday Mar 18,arrivals
-aae,12:05 AM,W46638,Genoa (GOA),Wizz Air,A321 (HA-LXE),,Landed 12:50 AM,Monday Mar 18,arrivals
-aae,12:35 AM,W46662,Turin (TRN),Wizz Air,A21N (HA-LZK),,Landed 12:31 AM,Monday Mar 18,arrivals
-aae,12:40 AM,W43848,Bologna (BLQ),Wizz Air,A321 (HA-LXY),,Landed 12:20 AM,Monday Mar 18,arrivals
-aae,12:45 AM,W43850,Verona (VRN),Wizz Air,A321 (HA-LTA),,Landed 12:26 AM,Monday Mar 18,arrivals
-aae,12:50 AM,OS849,Vienna (VIE),Austrian Airlines (Retro Livery),A320 (OE-LBO),,Landed 12:45 AM,Monday Mar 18,arrivals
-aae,12:50 AM,W46610,Milan (MXP),Wizz Air,A321 (HA-LXR),,Landed 12:15 AM,Monday Mar 18,arrivals
-aae,1:16 AM,ZB2014,Milan (MXP),Air Albania,A320 (ZA-MMK),,Unknown,Monday Mar 18,arrivals
-aae,2:15 AM,ZB2002,Rome (FCO),Air Albania,319,,Unknown,Monday Mar 18,arrivals
-aae,2:20 AM,JU216,Belgrade (BEG),AirSERBIA,AT76 (YU-ASA),,Landed 3:59 AM,Monday Mar 18,arrivals
-aae,8:00 AM,FR8349,Milan (BGY),Ryanair,B38M (EI-IHZ),,Landed 7:36 AM,Monday Mar 18,arrivals
-aae,8:35 AM,FR8401,Venice (TSF),Ryanair,B738 (9H-QCF),,Landed 8:16 AM,Monday Mar 18,arrivals
-aae,8:50 AM,TB2951,Brussels (BRU),TUI,E295 (OO-ETC),,Landed 8:11 AM,Monday Mar 18,arrivals
-aae,9:05 AM,A3970,Athens (ATH),Aegean Airlines,A20N (SX-NEG),,Landed 8:46 AM,Monday Mar 18,arrivals
-aae,9:50 AM,FR8298,Brussels (CRL),Ryanair,B738 (EI-EBK),,Landed 9:38 AM,Monday Mar 18,arrivals
-aae,9:50 AM,RK8288,London (STN),Ryanair,B738 (G-RUKD),,Landed 9:29 AM,Monday Mar 18,arrivals
-aae,10:40 AM,W43846,Milan (BGY),Wizz Air,A321 (HA-LXB),,Landed 10:25 AM,Monday Mar 18,arrivals
-aae,10:40 AM,W43852,Venice (TSF),Wizz Air,A321 (HA-LXY),,Landed 10:22 AM,Monday Mar 18,arrivals
-aae,10:40 AM,W43858,Rome (FCO),Wizz Air,A321 (HA-LXE),,Landed 10:31 AM,Monday Mar 18,arrivals
-aae,10:45 AM,MDF9030,Athens (ATH),Swiftair,E120 (SX-AQI),,Unknown,Monday Mar 18,arrivals
-aae,11:00 AM,W46608,Milan (MXP),Wizz Air,A321 (HA-LXR),,Landed 10:39 AM,Monday Mar 18,arrivals
-aae,11:05 AM,W46604,Turin (TRN),Wizz Air,A321 (HA-LXA),,Landed 11:03 AM,Monday Mar 18,arrivals
-aae,11:20 AM,W46612,Berlin (BER),Wizz Air,A321 (HA-LXV),,Landed 10:56 AM,Monday Mar 18,arrivals
-aae,11:20 AM,2B196,Ancona (AOI),Albawings,737,,Unknown,Monday Mar 18,arrivals
-aae,11:35 AM,ZB2008,Milan (BGY),Air Albania,319,,Unknown,Monday Mar 18,arrivals
-aae,11:40 AM,W43842,Dortmund (DTM),Wizz Air,A21N (HA-LZK),,Landed 11:28 AM,Monday Mar 18,arrivals
-aae,11:40 AM,ZB2010,Pisa (PSA),Air Albania,319,,Unknown,Monday Mar 18,arrivals
-aae,11:50 AM,FR8319,Rome (CIA),Ryanair,B738 (9H-QBW),,Landed 11:46 AM,Monday Mar 18,arrivals
-aae,11:50 AM,W43844,Memmingen (FMM),Wizz Air,A320 (9H-WDC),,Landed 12:04 PM,Monday Mar 18,arrivals
-aae,11:50 AM,ZB1005,Istanbul (IST),Air Albania,A320 (ZA-MMK),,Landed 12:11 PM,Monday Mar 18,arrivals
-aae,12:20 PM,W46606,Catania (CTA),Wizz Air,A21N (9H-WDR),,Landed 12:26 PM,Monday Mar 18,arrivals
-aae,12:35 PM,BA380,London (LHR),Finnair,A320 (OH-LXH),,Landed 12:21 PM,Monday Mar 18,arrivals
-aae,12:40 PM,LO597,Warsaw (WAW),LOT,E75S (SP-LIC),,Landed 12:37 PM,Monday Mar 18,arrivals
-aae,12:50 PM,W46626,Brussels (CRL),Wizz Air,A321 (HA-LXK),,Landed 12:34 PM,Monday Mar 18,arrivals
-aae,1:20 PM,LH1424,Frankfurt (FRA),Lufthansa,A320 (D-AIUD),,Estimated 1:20 PM,Monday Mar 18,arrivals
-aae,1:30 PM,W46628,Eindhoven (EIN),Wizz Air,A320 (HA-LYK),,Landed 12:58 PM,Monday Mar 18,arrivals
-aae,2:15 PM,OS847,Vienna (VIE),Austrian Airlines,A320 (OE-LZE),,Estimated 2:09 PM,Monday Mar 18,arrivals
-aae,4:55 PM,ZB1011,Istanbul (IST),Air Albania,320,,Canceled,Monday Mar 18,arrivals
-aae,5:10 PM,5W7091,Abu Dhabi (AUH),Wizz Air,A21N (A6-WZB),,Estimated 5:02 PM,Monday Mar 18,arrivalsaae,,,,,,,,,arrivals
-aae,5:57 AM,,Budapest (BUD),Wizz Air,A21N (HA-LZK),,Landed 5:48 AM,Sunday Mar 17,arrivals
-aae,7:35 AM,W46606,Catania (CTA),Wizz Air,A21N (9H-WDR),,Landed 7:18 AM,Sunday Mar 17,arrivals
-aae,8:40 AM,FR8398,Bologna (BLQ),Ryanair,B738 (9H-QCY),,Landed 8:21 AM,Sunday Mar 17,arrivals
-aae,8:45 AM,W63880,Warsaw (WAW),Wizz Air,A321 (HA-LTE),,Landed 8:25 AM,Sunday Mar 17,arrivals
-aae,8:55 AM,LX1442,Zurich (ZRH),Swiss,BCS1 (HB-JBA),,Landed 8:37 AM,Sunday Mar 17,arrivals
-aae,9:05 AM,A3970,Athens (ATH),Aegean Airlines,-,,Unknown,Sunday Mar 17,arrivals
-aae,9:20 AM,FR8298,Brussels (CRL),Ryanair,B738 (EI-EVT),,Landed 8:52 AM,Sunday Mar 17,arrivals
-aae,9:40 AM,FR8355,Milan (BGY),Ryanair,B738 (9H-QEF),,Landed 9:49 AM,Sunday Mar 17,arrivals
-aae,9:55 AM,W43858,Rome (FCO),Wizz Air,A321 (HA-LXK),,Landed 9:45 AM,Sunday Mar 17,arrivals
-aae,10:25 AM,RK8288,London (STN),Ryanair,B738 (G-RUKE),,Landed 10:08 AM,Sunday Mar 17,arrivals
-aae,10:40 AM,W43846,Milan (BGY),Wizz Air,A321 (HA-LXR),,Landed 10:18 AM,Sunday Mar 17,arrivals
-aae,10:40 AM,W43852,Venice (TSF),Wizz Air,A321 (HA-LXY),,Landed 10:21 AM,Sunday Mar 17,arrivals
-aae,10:55 AM,W43854,Pisa (PSA),Wizz Air,A321 (HA-LXV),,Landed 10:57 AM,Sunday Mar 17,arrivals
-aae,11:00 AM,W46608,Milan (MXP),Wizz Air,A321 (HA-LXE),,Landed 10:32 AM,Sunday Mar 17,arrivals
-aae,11:25 AM,FZ745,Dubai (DXB),flydubai,B38M (A6-FMI),,Landed 11:28 AM,Sunday Mar 17,arrivals
-aae,11:35 AM,FR8332,Weeze (NRN),Ryanair,B738 (9H-QBY),,Landed 11:03 AM,Sunday Mar 17,arrivals
-aae,11:35 AM,W46604,Turin (TRN),Wizz Air,A320 (9H-WZW),,Landed 11:39 AM,Sunday Mar 17,arrivals
-aae,11:40 AM,W43842,Dortmund (DTM),Wizz Air,A21N (HA-LZK),,Landed 12:19 PM,Sunday Mar 17,arrivals
-aae,11:40 AM,ZB2010,Pisa (PSA),Air Albania,319,,Unknown,Sunday Mar 17,arrivals
-aae,11:45 AM,FR8349,Milan (BGY),Ryanair,B738 (9H-QDB),,Landed 11:32 AM,Sunday Mar 17,arrivals
-aae,11:50 AM,W94465,London (LTN),Wizz Air,A21N (G-WUKU),,Landed 11:36 AM,Sunday Mar 17,arrivals
-aae,11:50 AM,ZB1005,Istanbul (IST),Air Albania,A320 (ZA-MMK),,Landed 7:56 PM,Sunday Mar 17,arrivals
-aae,12:00 PM,W46626,Brussels (CRL),Wizz Air,A321 (HA-LXA),,Landed 11:44 AM,Sunday Mar 17,arrivals
-aae,12:40 PM,ZB2008,Milan (BGY),Air Albania,319,,Unknown,Sunday Mar 17,arrivals
-aae,1:10 PM,W46628,Eindhoven (EIN),Wizz Air,A21N (9H-WDP),,Landed 12:56 PM,Sunday Mar 17,arrivals
-aae,1:30 PM,ZB1004,Istanbul (IST),Air Albania,A320 (ZA-MMK),,Landed 3:22 PM,Sunday Mar 17,arrivals
-aae,1:30 PM,LH1424,Frankfurt (FRA),Lufthansa,A320 (D-AIUP),,Landed 1:39 PM,Sunday Mar 17,arrivals
-aae,1:35 PM,W43205,Bucharest (OTP),Wizz Air,A321 (HA-LXH),,Landed 1:08 PM,Sunday Mar 17,arrivals
-aae,2:00 PM,W43862,Stockholm (NYO),Wizz Air,A320 (9H-WDC),,Landed 1:31 PM,Sunday Mar 17,arrivals
-aae,2:15 PM,OS847,Vienna (VIE),Austrian Airlines,A320 (OE-LBP),,Landed 2:08 PM,Sunday Mar 17,arrivals
-aae,2:30 PM,JU212,Belgrade (BEG),AirSERBIA,AT76 (YU-ALZ),,Landed 2:14 PM,Sunday Mar 17,arrivals
-aae,2:30 PM,W46602,Bari (BRI),Wizz Air,A321 (HA-LXE),,Landed 2:04 PM,Sunday Mar 17,arrivals
-aae,2:40 PM,W43856,Ancona (AOI),Wizz Air,A321 (HA-LXR),,Landed 2:20 PM,Sunday Mar 17,arrivals
-aae,3:00 PM,W46692,Rome (FCO),Wizz Air,A321 (HA-LXY),,Landed 2:45 PM,Sunday Mar 17,arrivals
-aae,3:00 PM,,Frankfurt (HHN),Wizz Air,A321 (HA-LTA),,Landed 3:13 PM,Sunday Mar 17,arrivals
-aae,3:05 PM,FR8421,Milan (BGY),Ryanair,B738 (EI-DLX),,Landed 3:04 PM,Sunday Mar 17,arrivals
-aae,3:10 PM,W46630,Milan (MXP),Wizz Air,A321 (HA-LXK),,Landed 3:17 PM,Sunday Mar 17,arrivals
-aae,3:35 PM,W46680,Pisa (PSA),Wizz Air,A321 (HA-LXV),,Landed 3:45 PM,Sunday Mar 17,arrivals
-aae,4:05 PM,AZ582,Rome (FCO),ITA Airways,A20N (EI-HJD),,Landed 3:49 PM,Sunday Mar 17,arrivals
-aae,4:15 PM,2B274,Perugia (PEG),Albawings,737,,Unknown,Sunday Mar 17,arrivals
-aae,4:20 PM,2B232,Milan (BGY),Albawings,737,,Unknown,Sunday Mar 17,arrivals
-aae,4:30 PM,W43886,Milan (BGY),Wizz Air,A320 (9H-WZW),,Landed 4:50 PM,Sunday Mar 17,arrivals
-aae,5:10 PM,ZB1011,Istanbul (IST),Air Albania,320,,Canceled,Sunday Mar 17,arrivals
-aae,5:40 PM,ZB2012,Verona (VRN),Air Albania,319,,Unknown,Sunday Mar 17,arrivals
-aae,5:50 PM,A3972,Athens (ATH),Aegean Airlines,A320 (SX-DGZ),,Landed 5:37 PM,Sunday Mar 17,arrivals
-aae,5:50 PM,ZB2014,Milan (MXP),Air Albania,A320 (ZA-MMK),,Landed 1:21 AM,Sunday Mar 17,arrivals
-aae,6:20 PM,W44814,Athens (ATH),Wizz Air,A320 (9H-WDC),,Landed 5:52 PM,Sunday Mar 17,arrivals
-aae,6:25 PM,FR8419,Rome (CIA),Ryanair,B738 (9H-QAN),,Landed 5:55 PM,Sunday Mar 17,arrivals
-aae,7:10 PM,W46614,Hamburg (HAM),Wizz Air,A21N (HA-LZK),,Landed 6:57 PM,Sunday Mar 17,arrivals
-aae,7:10 PM,W46636,Basel (BSL),Wizz Air,A321 (HA-LXE),,Landed 8:04 PM,Sunday Mar 17,arrivals
-aae,7:20 PM,FR8402,Krakow (KRK),Ryanair,B738 (SP-RSV),,Landed 7:09 PM,Sunday Mar 17,arrivals
-aae,7:20 PM,W46612,Berlin (BER),Wizz Air,A321 (HA-LXA),,Landed 7:00 PM,Sunday Mar 17,arrivals
-aae,7:35 PM,FR8401,Venice (TSF),Ryanair,B738 (9H-QEL),,Landed 7:27 PM,Sunday Mar 17,arrivals
-aae,7:35 PM,W43870,Milan (BGY),Wizz Air,A321 (HA-LXR),,Landed 7:16 PM,Sunday Mar 17,arrivals
-aae,7:45 PM,FR8415,Bucharest (OTP),Ryanair,B738 (9H-QBX),,Landed 7:31 PM,Sunday Mar 17,arrivals
-aae,8:05 PM,W44810,Venice (TSF),Wizz Air,A321 (HA-LTA),,Landed 8:00 PM,Sunday Mar 17,arrivals
-aae,8:05 PM,RK8290,London (STN),Ryanair,B738 (G-RUKD),,Landed 7:36 PM,Sunday Mar 17,arrivals
-aae,8:10 PM,W46650,Pisa (PSA),Wizz Air,A321 (HA-LXY),,Landed 7:52 PM,Sunday Mar 17,arrivals
-aae,8:15 PM,W94473,London (LTN),Wizz Air,A21N (G-WUKP),,Landed 7:41 PM,Sunday Mar 17,arrivals
-aae,8:20 PM,W43844,Memmingen (FMM),Wizz Air,A321 (HA-LXK),,Landed 8:15 PM,Sunday Mar 17,arrivals
-aae,8:55 PM,2B224,Venice (VCE),Albawings,737,,Unknown,Sunday Mar 17,arrivals
-aae,9:00 PM,W62233,Budapest (BUD),Wizz Air,A21N (HA-LGB),,Landed 9:06 PM,Sunday Mar 17,arrivals
-aae,9:20 PM,2B230,Pisa (PSA),Albawings,737,,Unknown,Sunday Mar 17,arrivals
-aae,9:25 PM,FR8390,Pisa (PSA),Ryanair,B738 (9H-QET),,Landed 9:10 PM,Sunday Mar 17,arrivals
-aae,9:30 PM,FR8369,Catania (CTA),Ryanair,B738 (9H-QCQ),,Landed 8:59 PM,Sunday Mar 17,arrivals
-aae,9:55 PM,PC281,Istanbul (SAW),Pegasus,A21N (TC-RDT),,Landed 9:41 PM,Sunday Mar 17,arrivals
-aae,9:55 PM,ZB2002,Rome (FCO),Air Albania,319,,Unknown,Sunday Mar 17,arrivals
-aae,10:30 PM,W94471,London (LTN),Wizz Air,A21N (G-WUNC),,Landed 10:00 PM,Sunday Mar 17,arrivals
-aae,10:30 PM,ZB1002,Istanbul (IST),Air Albania,A320 (ZA-MMK),,Landed 6:39 AM,Sunday Mar 17,arrivals
-aae,10:40 PM,LH1454,Frankfurt (FRA),Lufthansa,A320 (D-AIZI),,Landed 10:22 PM,Sunday Mar 17,arrivals
-aae,10:50 PM,W43878,Bologna (BLQ),Wizz Air,A320 (9H-WDC),,Landed 10:27 PM,Sunday Mar 17,arrivals
-aae,11:10 PM,W46634,Paris (BVA),Wizz Air,A321 (HA-LXV),,Landed 10:43 PM,Sunday Mar 17,arrivals
-aae,11:20 PM,ZB2006,Bologna (BLQ),Air Albania,319,,Unknown,Sunday Mar 17,arrivals
-aae,11:30 PM,W46648,Bari (BRI),Wizz Air,A321 (HA-LXK),,Landed 11:10 PM,Sunday Mar 17,arrivals
-aae,11:45 PM,W43888,Rome (FCO),Wizz Air,A321 (HA-LXA),,Landed 11:32 PM,Sunday Mar 17,arrivals
-aae,12:05 AM,W43866,Barcelona (BCN),Wizz Air,A320 (9H-WZW),,Landed 11:47 PM,Monday Mar 18,arrivals
-aae,12:05 AM,W46638,Genoa (GOA),Wizz Air,A321 (HA-LXE),,Landed 12:50 AM,Monday Mar 18,arrivals
-aae,12:35 AM,W46662,Turin (TRN),Wizz Air,A21N (HA-LZK),,Landed 12:31 AM,Monday Mar 18,arrivals
-aae,12:40 AM,W43848,Bologna (BLQ),Wizz Air,A321 (HA-LXY),,Landed 12:20 AM,Monday Mar 18,arrivals
-aae,12:45 AM,W43850,Verona (VRN),Wizz Air,A321 (HA-LTA),,Landed 12:26 AM,Monday Mar 18,arrivals
-aae,12:50 AM,OS849,Vienna (VIE),Austrian Airlines (Retro Livery),A320 (OE-LBO),,Landed 12:45 AM,Monday Mar 18,arrivals
-aae,12:50 AM,W46610,Milan (MXP),Wizz Air,A321 (HA-LXR),,Landed 12:15 AM,Monday Mar 18,arrivals
-aae,1:16 AM,ZB2014,Milan (MXP),Air Albania,A320 (ZA-MMK),,Unknown,Monday Mar 18,arrivals
-aae,2:15 AM,ZB2002,Rome (FCO),Air Albania,319,,Unknown,Monday Mar 18,arrivals
-aae,2:20 AM,JU216,Belgrade (BEG),AirSERBIA,AT76 (YU-ASA),,Landed 3:59 AM,Monday Mar 18,arrivals
-aae,8:00 AM,FR8349,Milan (BGY),Ryanair,B38M (EI-IHZ),,Landed 7:36 AM,Monday Mar 18,arrivals
-aae,8:35 AM,FR8401,Venice (TSF),Ryanair,B738 (9H-QCF),,Landed 8:16 AM,Monday Mar 18,arrivals
-aae,8:50 AM,TB2951,Brussels (BRU),TUI,E295 (OO-ETC),,Landed 8:11 AM,Monday Mar 18,arrivals
-aae,9:05 AM,A3970,Athens (ATH),Aegean Airlines,A20N (SX-NEG),,Landed 8:46 AM,Monday Mar 18,arrivals
-aae,9:50 AM,FR8298,Brussels (CRL),Ryanair,B738 (EI-EBK),,Landed 9:38 AM,Monday Mar 18,arrivals
-aae,9:50 AM,RK8288,London (STN),Ryanair,B738 (G-RUKD),,Landed 9:29 AM,Monday Mar 18,arrivals
-aae,10:40 AM,W43846,Milan (BGY),Wizz Air,A321 (HA-LXB),,Landed 10:25 AM,Monday Mar 18,arrivals
-aae,10:40 AM,W43852,Venice (TSF),Wizz Air,A321 (HA-LXY),,Landed 10:22 AM,Monday Mar 18,arrivals
-aae,10:40 AM,W43858,Rome (FCO),Wizz Air,A321 (HA-LXE),,Landed 10:31 AM,Monday Mar 18,arrivals
-aae,10:45 AM,MDF9030,Athens (ATH),Swiftair,E120 (SX-AQI),,Unknown,Monday Mar 18,arrivals
-aae,11:00 AM,W46608,Milan (MXP),Wizz Air,A321 (HA-LXR),,Landed 10:39 AM,Monday Mar 18,arrivals
-aae,11:05 AM,W46604,Turin (TRN),Wizz Air,A321 (HA-LXA),,Landed 11:03 AM,Monday Mar 18,arrivals
-aae,11:20 AM,W46612,Berlin (BER),Wizz Air,A321 (HA-LXV),,Landed 10:56 AM,Monday Mar 18,arrivals
-aae,11:20 AM,2B196,Ancona (AOI),Albawings,737,,Unknown,Monday Mar 18,arrivals
-aae,11:35 AM,ZB2008,Milan (BGY),Air Albania,319,,Unknown,Monday Mar 18,arrivals
-aae,11:40 AM,W43842,Dortmund (DTM),Wizz Air,A21N (HA-LZK),,Landed 11:28 AM,Monday Mar 18,arrivals
-aae,11:40 AM,ZB2010,Pisa (PSA),Air Albania,319,,Unknown,Monday Mar 18,arrivals
-aae,11:50 AM,FR8319,Rome (CIA),Ryanair,B738 (9H-QBW),,Landed 11:46 AM,Monday Mar 18,arrivals
-aae,11:50 AM,W43844,Memmingen (FMM),Wizz Air,A320 (9H-WDC),,Landed 12:04 PM,Monday Mar 18,arrivals
-aae,11:50 AM,ZB1005,Istanbul (IST),Air Albania,A320 (ZA-MMK),,Landed 12:11 PM,Monday Mar 18,arrivals
-aae,12:20 PM,W46606,Catania (CTA),Wizz Air,A21N (9H-WDR),,Landed 12:26 PM,Monday Mar 18,arrivals
-aae,12:35 PM,BA380,London (LHR),Finnair,A320 (OH-LXH),,Landed 12:21 PM,Monday Mar 18,arrivals
-aae,12:40 PM,LO597,Warsaw (WAW),LOT,E75S (SP-LIC),,Landed 12:37 PM,Monday Mar 18,arrivals
-aae,12:50 PM,W46626,Brussels (CRL),Wizz Air,A321 (HA-LXK),,Landed 12:34 PM,Monday Mar 18,arrivals
-aae,1:20 PM,LH1424,Frankfurt (FRA),Lufthansa,A320 (D-AIUD),,Landed 1:15 PM,Monday Mar 18,arrivals
-aae,1:30 PM,W46628,Eindhoven (EIN),Wizz Air,A320 (HA-LYK),,Landed 12:58 PM,Monday Mar 18,arrivals
-aae,2:15 PM,JU212,Belgrade (BEG),AirSERBIA,A319 (YU-APF),,Landed 2:28 PM,Monday Mar 18,arrivals
-aae,2:15 PM,OS847,Vienna (VIE),Austrian Airlines,A320 (OE-LZE),,Landed 2:03 PM,Monday Mar 18,arrivals
-aae,2:30 PM,W46602,Bari (BRI),Wizz Air,A321 (HA-LXR),,Landed 2:05 PM,Monday Mar 18,arrivals
-aae,3:05 PM,PC283,Istanbul (SAW),Pegasus,A20N (TC-NBA),,Landed 2:31 PM,Monday Mar 18,arrivals
-aae,3:10 PM,W43878,Bologna (BLQ),Wizz Air,A321 (HA-LXB),,Estimated 2:55 PM,Monday Mar 18,arrivals
-aae,3:20 PM,W43854,Pisa (PSA),Wizz Air,A321 (HA-LXY),,Estimated 3:06 PM,Monday Mar 18,arrivals
-aae,3:25 PM,W43886,Milan (BGY),Wizz Air,A321 (HA-LXE),,Estimated 3:09 PM,Monday Mar 18,arrivals
-aae,3:40 PM,W44810,Venice (TSF),Wizz Air,A321 (HA-LXA),,Estimated 3:43 PM,Monday Mar 18,arrivals
-aae,3:48 PM,MDF9032,Athens (ATH),Swiftair,E120 (SX-AQI),,Estimated 3:30 PM,Monday Mar 18,arrivals
-aae,4:55 PM,ZB1011,Istanbul (IST),Air Albania,320,,Canceled,Monday Mar 18,arrivals
-aae,5:10 PM,5W7091,Abu Dhabi (AUH),Wizz Air,A21N (A6-WZB),,Estimated 4:55 PM,Monday Mar 18,arrivals
+c-fyns,, ,28 Mar 2024,Toronto (YYZ),Miami (MIA),AC1200,—,12:10,—,15:35,,Estimated departure 12:10, Play, 
+c-fyns,, ,28 Mar 2024,Miami (MIA),Toronto (YYZ),AC1199,—,08:00,—,11:20,,Estimated departure 08:28, Play, 
+c-fyns,, ,27 Mar 2024,Toronto (YYZ),Miami (MIA),AC1204,—,20:55,—,00:15,,Estimated departure 21:05, Play, 
+c-fyns,, ,27 Mar 2024,Montreal (YUL),Toronto (YYZ),AC423,—,18:10,—,19:46,,Estimated departure 18:20, Play, 
+c-fyns,, ,27 Mar 2024,Toronto (YYZ),Montreal (YUL),AC414,—,14:00,—,15:20,,Estimated departure 14:00, Play, 
+c-fyns,, ,27 Mar 2024,Montreal (YUL),Toronto (YYZ),AC409,—,11:10,—,12:46,,Estimated departure 11:10, Play, 
+c-fyns,, ,27 Mar 2024,Toronto (YYZ),Montreal (YUL),AC404,0:50,09:00,09:28,10:20,,Landed 10:18,KML CSV  Play, 
+c-fyns,, ,26 Mar 2024,Chicago (ORD),Toronto (YYZ),AC510,1:06,20:35,21:07,23:08,,Landed 23:13,KML CSV  Play, 
+c-fyns,, ,26 Mar 2024,Toronto (YYZ),Chicago (ORD),AC509,1:14,18:35,19:06,19:37,,Landed 19:20,KML CSV  Play, 
+c-fyns,, ,26 Mar 2024,Ottawa (YOW),Toronto (YYZ),AC459,0:44,16:00,16:52,17:20,,Landed 17:36,KML CSV  Play, 
+c-fyns,, ,26 Mar 2024,Toronto (YYZ),Ottawa (YOW),AC454,0:39,14:10,14:59,15:15,,Landed 15:38,KML CSV  Play, 
+c-fyns,, ,26 Mar 2024,Chicago (ORD),Toronto (YYZ),AC502,1:06,10:00,11:21,12:33,,Landed 13:27,KML CSV  Play, 
+c-fyns,, ,26 Mar 2024,Toronto (YYZ),Chicago (ORD),AC501,1:21,08:00,09:42,09:02,,Landed 10:03,KML CSV  Play, 
+c-fyns,, ,25 Mar 2024,Chicago (ORD),Toronto (YYZ),AC506,0:58,16:35,18:09,19:08,,Landed 20:06,KML CSV  Play, 
+c-fyns,, ,25 Mar 2024,Toronto (YYZ),Chicago (ORD),AC505,1:22,14:35,16:14,15:37,,Landed 16:36,KML CSV  Play, 
+c-fyns,, ,25 Mar 2024,Montreal (YUL),Toronto (YYZ),AC413,0:58,13:10,13:40,14:46,,Landed 14:39,KML CSV  Play, 
+c-fyns,, ,25 Mar 2024,Miami (MIA),Montreal (YUL),AC1207,3:07,08:00,09:01,11:36,,Landed 12:08,KML CSV  Play, 
+c-fyns,, ,24 Mar 2024,Montreal (YUL),Miami (MIA),AC1208,3:07,18:45,20:34,22:40,,Landed 23:41,KML CSV  Play, 
+c-fyns,, ,24 Mar 2024,Miami (MIA),Montreal (YUL),AC1209,3:08,14:00,15:32,17:36,,Landed 18:40,KML CSV  Play, 
+c-fyns,, ,24 Mar 2024,Montreal (YUL),Miami (MIA),AC1206,3:06,08:30,09:21,12:25,,Landed 12:27,KML CSV  Play, 
+c-fyns,, ,23 Mar 2024,Toronto (YYZ),Montreal (YUL),AC494,0:50,22:30,23:35,23:50,,Landed 00:25,KML CSV  Play, 
+c-fyns,, ,23 Mar 2024,Halifax (YHZ),Toronto (YYZ),AC619,2:06,18:55,20:47,20:37,,Landed 21:53,KML CSV  Play, 
+c-fyns,, ,23 Mar 2024,Toronto (YYZ),Halifax (YHZ),AC612,1:40,14:50,16:35,17:53,,Landed 19:15,KML CSV  Play, 
+c-fyns,, ,23 Mar 2024,Halifax (YHZ),Toronto (YYZ),AC609,2:13,12:10,13:34,13:44,,Landed 14:46,KML CSV  Play, 
+c-fyns,, ,23 Mar 2024,Toronto (YYZ),Halifax (YHZ),AC604,1:30,08:00,09:04,11:07,,Landed 11:34,KML CSV  Play, 
+c-fyns,, ,22 Mar 2024,Halifax (YHZ),Toronto (YYZ),AC609,2:18,12:10,13:09,13:44,,Landed 14:27,KML CSV  Play, 
+c-fyns,, ,22 Mar 2024,Toronto (YYZ),Halifax (YHZ),AC604,1:33,08:00,09:02,11:07,,Landed 11:35,KML CSV  Play, 
+c-fyns,, ,21 Mar 2024,Chicago (ORD),Toronto (YYZ),AC506,1:05,16:35,16:58,19:08,,Landed 19:03,KML CSV  Play, 
+c-fyns,, ,21 Mar 2024,Toronto (YYZ),Chicago (ORD),AC505,1:23,14:35,15:03,15:37,,Landed 15:26,KML CSV  Play, 
+c-fyns,, ,21 Mar 2024,Fredericton (YFC),Toronto (YYZ),AC1193,1:38,12:00,12:42,13:08,,Landed 13:20,KML CSV  Play, 
+c-fyns,, ,21 Mar 2024,Toronto (YYZ),Fredericton (YFC),AC1190,1:21,08:20,08:49,11:04,,Landed 11:10,KML CSV  Play, 
+c-fyns,, ,21 Mar 2024,Fredericton (YFC),Toronto (YYZ),AC1191,1:39,05:10,05:36,06:18,,Landed 06:15,KML CSV  Play, 
+c-fyns,, ,20 Mar 2024,Toronto (YYZ),Fredericton (YFC),AC1194,1:22,21:40,23:20,00:24,,Landed 01:41,KML CSV  Play, 
+c-fyns,, ,20 Mar 2024,Miami (MIA),Toronto (YYZ),AC1203,3:02,16:25,17:03,19:45,,Landed 20:05,KML CSV  Play, 
+c-fyns,, ,20 Mar 2024,Toronto (YYZ),Miami (MIA),AC1200,2:36,12:05,13:00,15:30,,Landed 15:36,KML CSV  Play, 
+c-fyns,, ,20 Mar 2024,Miami (MIA),Toronto (YYZ),AC1199,2:58,08:00,08:27,11:20,,Landed 11:25,KML CSV  Play, 
+c-fyns,, ,19 Mar 2024,Toronto (YYZ),Miami (MIA),AC1204,2:31,20:55,00:00,00:15,,Landed 02:30,KML CSV  Play, 
+c-fyns,, ,19 Mar 2024,Halifax (YHZ),Toronto (YYZ),AC619,1:58,18:55,19:32,20:37,,Landed 20:30,KML CSV  Play, 
+c-fyns,, ,19 Mar 2024,Toronto (YYZ),Halifax (YHZ),AC612,1:47,14:50,15:30,17:53,,Landed 18:17,KML CSV  Play, 
+c-fyns,, ,19 Mar 2024,Halifax (YHZ),Toronto (YYZ),AC609,1:55,12:10,12:47,13:44,,Landed 13:42,KML CSV  Play, 
+c-fyns,, ,19 Mar 2024,Toronto (YYZ),Halifax (YHZ),AC604,1:45,08:00,08:29,11:07,,Landed 11:14,KML CSV  Play, 
+c-fyns,, ,19 Mar 2024,Sydney (YQY),Toronto (YYZ),AC1175,2:28,05:00,05:18,06:52,,Landed 06:47,KML CSV  Play, 
+c-fyns,, ,18 Mar 2024,Toronto (YYZ),Sydney (YQY),AC1174,1:59,21:35,22:47,00:58,,Landed 01:45,KML CSV  Play, 
+c-fyns,, ,18 Mar 2024,St. John's (YYT),Toronto (YYZ),AC697,3:07,18:05,19:35,20:31,,Landed 21:12,KML CSV  Play, 
+c-fyns,, ,18 Mar 2024,Toronto (YYZ),St. John's (YYT),AC690,2:28,12:45,14:18,17:19,,Landed 18:16,KML CSV  Play, 
+c-fyns,, ,18 Mar 2024,Halifax (YHZ),Toronto (YYZ),AC605,2:00,10:10,11:24,11:52,,Landed 12:24,KML CSV  Play, 
+c-fyns,, ,18 Mar 2024,Toronto (YYZ),Halifax (YHZ),AC600,1:39,06:15,07:15,09:22,,Landed 09:54,KML CSV  Play, 
+c-fyns,, ,17 Mar 2024,Halifax (YHZ),Toronto (YYZ),AC619,2:09,18:55,19:13,20:37,,Landed 20:21,KML CSV  Play, 
+c-fyns,, ,17 Mar 2024,Toronto (YYZ),Halifax (YHZ),AC612,1:30,14:50,15:15,17:53,,Landed 17:45,KML CSV  Play, 
+c-fyns,, ,17 Mar 2024,Halifax (YHZ),Toronto (YYZ),AC609,1:56,12:10,12:24,13:44,,Landed 13:21,KML CSV  Play, 
+c-fyns,, ,17 Mar 2024,Toronto (YYZ),Halifax (YHZ),AC604,1:37,08:00,08:37,11:07,,Landed 11:14,KML CSV  Play, 
+c-fyns,, ,16 Mar 2024,Halifax (YHZ),Toronto (YYZ),AC619,2:09,18:55,19:24,20:37,,Landed 20:33,KML CSV  Play, 
+c-fyns,, ,16 Mar 2024,Toronto (YYZ),Halifax (YHZ),AC612,1:31,14:50,15:27,17:53,,Landed 17:58,KML CSV  Play, 
+c-fyns,, ,16 Mar 2024,Halifax (YHZ),Toronto (YYZ),AC609,2:08,12:10,12:49,13:44,,Landed 13:57,KML CSV  Play, 
+c-fyns,, ,16 Mar 2024,Toronto (YYZ),Halifax (YHZ),AC604,1:38,08:00,08:48,11:07,,Landed 11:26,KML CSV  Play, 
+c-fyns,, ,15 Mar 2024,Ottawa (YOW),Toronto (YYZ),AC463,0:47,18:00,18:15,19:20,,Landed 19:01,KML CSV  Play, 
+c-fyns,, ,15 Mar 2024,Toronto (YYZ),Ottawa (YOW),AC458,0:36,16:10,16:32,17:15,,Landed 17:08,KML CSV  Play, 
+c-fyns,, ,15 Mar 2024,Ottawa (YOW),Toronto (YYZ),AC455,0:46,14:00,14:26,15:20,,Landed 15:12,KML CSV  Play, 
+c-fyns,, ,15 Mar 2024,Toronto (YYZ),Ottawa (YOW),AC450,0:35,12:10,12:26,13:15,,Landed 13:02,KML CSV  Play, 
+c-fyns,, ,15 Mar 2024,Montreal (YUL),Toronto (YYZ),AC401,0:58,07:00,09:46,08:36,,Landed 10:44,KML CSV  Play, 
+c-fyns,, ,14 Mar 2024,Toronto (YYZ),Montreal (YUL),AC428,0:48,21:30,21:50,22:50,,Landed 22:38,KML CSV  Play, 
+c-fyns,, ,14 Mar 2024,Halifax (YHZ),Toronto (YYZ),AC619,2:17,18:55,19:05,20:37,,Landed 20:22,KML CSV  Play, 
+c-fyns,, ,14 Mar 2024,Toronto (YYZ),Halifax (YHZ),AC612,1:34,14:50,15:23,17:53,,Landed 17:57,KML CSV  Play, 
+c-fyns,, ,14 Mar 2024,Montreal (YUL),Toronto (YYZ),AC411,0:58,12:10,12:21,13:36,,Landed 13:18,KML CSV  Play, 
+c-fyns,, ,14 Mar 2024,Toronto (YYZ),Montreal (YUL),AC406,0:49,10:00,10:19,11:16,,Landed 11:08,KML CSV  Play, 
+c-fyns,, ,14 Mar 2024,Montreal (YUL),Toronto (YYZ),AC481,0:57,06:00,06:18,07:40,,Landed 07:16,KML CSV  Play, 
+c-fyns,, ,13 Mar 2024,Toronto (YYZ),Montreal (YUL),AC430,0:48,23:30,00:00,00:46,,Landed 00:48,KML CSV  Play, 
+c-fyns,, ,13 Mar 2024,Halifax (YHZ),Toronto (YYZ),AC619,2:00,18:55,19:21,20:37,,Landed 20:21,KML CSV  Play, 
+c-fyns,, ,13 Mar 2024,Toronto (YYZ),Halifax (YHZ),AC612,1:46,14:50,15:07,17:53,,Landed 17:53,KML CSV  Play, 
+c-fyns,, ,13 Mar 2024,Halifax (YHZ),Toronto (YYZ),AC609,1:51,12:10,12:39,13:44,,Landed 13:30,KML CSV  Play, 
+c-fyns,, ,13 Mar 2024,Toronto (YYZ),Halifax (YHZ),AC604,1:48,08:00,08:27,11:07,,Landed 11:15,KML CSV  Play, 
+c-fyns,, ,13 Mar 2024,Ottawa (YOW),Toronto (YYZ),AC471,0:46,05:20,05:52,06:40,,Landed 06:39,KML CSV  Play, 
+c-fyns,, ,12 Mar 2024,Toronto (YYZ),Ottawa (YOW),AC466,0:39,20:10,21:59,21:15,,Landed 22:38,KML CSV  Play, 
+c-fyns,, ,12 Mar 2024,Halifax (YHZ),Toronto (YYZ),AC619,1:53,18:55,19:09,20:37,,Landed 20:02,KML CSV  Play, 
+c-fyns,, ,12 Mar 2024,Toronto (YYZ),Halifax (YHZ),AC612,1:47,14:50,15:04,17:53,,Landed 17:51,KML CSV  Play, 
+c-fyns,, ,12 Mar 2024,Halifax (YHZ),Toronto (YYZ),AC609,1:54,12:10,12:27,13:44,,Landed 13:21,KML CSV  Play, 
+c-fyns,, ,12 Mar 2024,Toronto (YYZ),Halifax (YHZ),AC604,1:42,08:00,08:29,11:07,,Landed 11:11,KML CSV  Play, 
+c-fyns,, ,11 Mar 2024,Halifax (YHZ),Toronto (YYZ),AC619,1:52,18:55,19:14,20:37,,Landed 20:07,KML CSV  Play, 
+c-fyns,, ,11 Mar 2024,Toronto (YYZ),Halifax (YHZ),AC612,1:42,14:50,15:18,17:53,,Landed 18:00,KML CSV  Play, 
+c-fyns,, ,11 Mar 2024,Halifax (YHZ),Toronto (YYZ),AC609,1:55,12:10,13:03,13:44,,Landed 13:59,KML CSV  Play, 
+c-fyns,, ,11 Mar 2024,Toronto (YYZ),Halifax (YHZ),AC604,1:45,08:00,08:28,11:07,,Landed 11:12,KML CSV  Play, 
+c-fyns,, ,11 Mar 2024,Halifax (YHZ),Toronto (YYZ),AC601,1:59,05:00,05:33,06:42,,Landed 06:32,KML CSV  Play, 
+c-fyns,, ,10 Mar 2024,Toronto (YYZ),Halifax (YHZ),AC620,1:46,21:40,23:05,00:47,,Landed 01:51,KML CSV  Play, 
+c-fyns,, ,10 Mar 2024,San Diego (SAN),Toronto (YYZ),AC1094,4:35,12:25,13:09,20:05,,Landed 20:43,KML CSV  Play, 
+c-fyns,, ,10 Mar 2024,Toronto (YYZ),San Diego (SAN),AC1093,4:39,09:00,09:48,11:40,,Landed 11:27,KML CSV  Play, 
+c-fyns,, ,09 Mar 2024,Kelowna (YLW),Toronto (YYZ),AC194,3:51,23:10,00:05,07:33,,Landed 07:56,KML CSV  Play, 
+c-fyns,, ,09 Mar 2024,Toronto (YYZ),Kelowna (YLW),AC195,4:18,20:10,20:34,22:09,,Landed 21:52,KML CSV  Play, 
+c-fyns,, ,08 Mar 2024,San Diego (SAN),Toronto (YYZ),AC1094,3:59,12:25,13:14,20:05,,Landed 20:13,KML CSV  Play, 
+c-fyns,, ,08 Mar 2024,Toronto (YYZ),San Diego (SAN),AC1093,4:47,09:00,10:02,11:40,,Landed 11:48,KML CSV  Play, 
+c-fyns,, ,06 Mar 2024,Halifax (YHZ),Toronto (YYZ),AC619,2:13,18:55,19:04,20:37,,Landed 20:17,KML CSV  Play, 
+c-fyns,, ,06 Mar 2024,Toronto (YYZ),Halifax (YHZ),AC612,1:35,14:50,15:09,17:53,,Landed 17:44,KML CSV  Play, 
+c-fyns,, ,06 Mar 2024,Halifax (YHZ),Toronto (YYZ),AC609,2:06,12:10,12:20,13:44,,Landed 13:26,KML CSV  Play, 
+c-fyns,, ,06 Mar 2024,Toronto (YYZ),Halifax (YHZ),AC604,1:39,08:00,08:21,11:07,,Landed 11:00,KML CSV  Play, 
+c-fyns,, ,05 Mar 2024,Calgary (YYC),Toronto (YYZ),AC144,3:15,18:10,18:43,00:05,,Landed 23:59,KML CSV  Play, 
+c-fyns,, ,05 Mar 2024,Toronto (YYZ),Calgary (YYC),AC143,3:42,14:45,15:08,17:10,,Landed 16:49,KML CSV  Play, 
+c-fyns,, ,05 Mar 2024,Montreal (YUL),Toronto (YYZ),AC409,0:53,11:10,11:32,12:46,,Landed 12:25,KML CSV  Play, 
+c-fyns,, ,05 Mar 2024,Toronto (YYZ),Montreal (YUL),AC404,0:53,09:00,09:20,10:20,,Landed 10:14,KML CSV  Play, 
+c-fyns,, ,04 Mar 2024,Halifax (YHZ),Toronto (YYZ),AC621,2:01,22:00,22:12,23:42,,Landed 23:13,KML CSV  Play, 
+c-fyns,, ,04 Mar 2024,Toronto (YYZ),Halifax (YHZ),AC614,1:44,16:45,16:57,19:52,,Landed 19:41,KML CSV Play, 
+c-fyns,, ,04 Mar 2024,Deer Lake (YDF),Toronto (YYZ),AC1173,2:40,13:20,14:20,15:17,,Landed 15:30,KML CSV Play, 
+c-fyns,, ,04 Mar 2024,Toronto (YYZ),Deer Lake (YDF),AC1172,2:11,08:10,09:39,12:17,,Landed 13:19,KML CSV Play, 
+c-fyns,, ,03 Mar 2024,San Diego (SAN),Toronto (YYZ),AC1094,3:51,12:25,14:16,20:05,,Landed 21:07,KML CSV Play, 
+c-fyns,, ,03 Mar 2024,Toronto (YYZ),San Diego (SAN),AC1093,5:23,09:00,10:19,11:40,,Landed 12:42,KML CSV Play, 
+c-fyns,, ,03 Mar 2024,Boston (BOS),Toronto (YYZ),AC765,1:22,06:15,07:09,08:12,,Landed 08:31,KML CSV Play, 
+c-fyns,, ,02 Mar 2024,Toronto (YYZ),Boston (BOS),AC772,1:10,20:55,21:48,22:34,,Landed 22:58,KML CSV Play, 
+c-fyns,, ,02 Mar 2024,San Diego (SAN),Toronto (YYZ),AC1094,4:00,12:25,13:15,20:05,,Landed 20:16,KML CSV Play, 
+c-fyns,, ,02 Mar 2024,Toronto (YYZ),San Diego (SAN),AC1093,5:08,09:00,09:47,11:40,,Landed 11:55,KML CSV Play, 
+c-fyns,, ,01 Mar 2024,San Diego (SAN),Toronto (YYZ),AC1094,4:04,12:25,13:22,20:05,,Landed 20:26,KML CSV Play, 
+c-fyns,, ,01 Mar 2024,Toronto (YYZ),San Diego (SAN),AC1093,4:51,09:00,10:00,11:40,,Landed 11:51,KML CSV Play, 
+c-fyns,, ,29 Feb 2024,San Diego (SAN),Toronto (YYZ),AC1094,4:13,12:40,13:19,20:20,,Landed 20:32,KML CSV Play, 
+c-fyns,, ,29 Feb 2024,Toronto (YYZ),San Diego (SAN),AC1093,4:53,09:00,09:41,11:40,,Landed 11:34,KML CSV Play, 
+c-fyns,, ,29 Feb 2024,Boston (BOS),Toronto (YYZ),AC765,1:22,06:15,06:57,08:10,,Landed 08:19,KML CSV Play, 
+c-fyns,, ,28 Feb 2024,Toronto (YYZ),Boston (BOS),AC772,1:06,20:55,21:24,22:34,,Landed 22:30,KML CSV Play, 
+c-fyns,, ,28 Feb 2024,Denver (DEN),Toronto (YYZ),AC1040,2:28,11:05,11:13,16:16,,Landed 15:41,KML CSV Play, 
+c-fyns,, ,28 Feb 2024,Toronto (YYZ),Denver (DEN),AC1039,3:03,08:15,08:49,10:09,,Landed 09:51,KML CSV Play, 
+c-fyns,, ,28 Feb 2024,Halifax (YHZ),Toronto (YYZ),AC601,2:16,05:00,05:17,06:42,,Landed 06:34,KML CSV Play, 
+c-fyns,, ,27 Feb 2024,Toronto (YYZ),Halifax (YHZ),AC612,1:44,14:50,15:13,17:53,,Landed 17:57,KML CSV Play, 
+c-fyns,, ,27 Feb 2024,Halifax (YHZ),Toronto (YYZ),AC609,1:59,12:10,12:23,13:44,,Landed 13:22,KML CSV Play, 
+c-fyns,, ,27 Feb 2024,Toronto (YYZ),Halifax (YHZ),AC604,1:40,08:00,08:12,11:07,,Landed 10:52,KML CSV Play, 
+c-fyns,, ,27 Feb 2024,Halifax (YHZ),Toronto (YYZ),AC601,2:08,05:00,05:37,06:42,,Landed 06:44,KML CSV Play, 
+c-fyns,, ,26 Feb 2024,Toronto (YYZ),Halifax (YHZ),AC620,1:37,21:40,23:10,00:47,,Landed 01:48,KML CSV Play, 
+c-fyns,, ,26 Feb 2024,West Palm Beach (PBI),Toronto (YYZ),AC1237,2:44,14:50,18:50,18:04,,Landed 21:34,KML CSV Play, 
+c-fyns,, ,26 Feb 2024,Montreal (YUL),Toronto (YYZ),AC409,1:01,11:10,11:48,12:46,,Landed 12:50,KML CSV Play, 
+c-fyns,, ,26 Feb 2024,Toronto (YYZ),West Palm Beach (PBI),AC1236,2:30,10:35,14:22,13:51,,Landed 16:53,KML CSV Play, 
+c-fyns,, ,26 Feb 2024,Toronto (YYZ),Montreal (YUL),AC404,0:55,09:00,09:15,10:20,,Landed 10:10,KML CSV Play, 
+c-fyns,, ,26 Feb 2024,Halifax (YHZ),Toronto (YYZ),AC601,2:14,05:00,05:18,06:42,,Landed 06:32,KML CSV Play, 
+c-fyns,, ,25 Feb 2024,Toronto (YYZ),Halifax (YHZ),AC620,1:42,21:40,21:52,00:47,,Landed 00:34,KML CSV Play, 
+c-fyns,, ,25 Feb 2024,Calgary (YYC),Toronto (YYZ),AC2148,3:07,13:10,13:32,18:25,,Landed 18:39,KML CSV Play, 
+c-fyns,, ,25 Feb 2024,Toronto (YYZ),Calgary (YYC),AC2135,3:59,09:50,10:18,12:11,,Landed 12:17,KML CSV Play, 
+c-fyns,, ,25 Feb 2024,St. John's (YYT),Toronto (YYZ),AC685,3:04,05:00,06:49,07:26,,Landed 08:23,KML CSV Play, 
+c-fyns,, ,24 Feb 2024,Toronto (YYZ),St. John's (YYT),AC698,2:37,22:40,01:05,03:14,,Landed 05:12,KML CSV Play, 
+c-fyns,, ,24 Feb 2024,San Diego (SAN),Toronto (YYZ),AC1094,3:55,12:40,14:06,20:20,,Landed 21:01,KML CSV Play, 
+c-fyns,, ,24 Feb 2024,Toronto (YYZ),San Diego (SAN),AC1093,5:06,09:00,10:29,11:40,,Landed 12:34,KML CSV Play, 
+c-fyns,, ,24 Feb 2024,Ottawa (YOW),Toronto (YYZ),AC439,0:44,06:00,06:55,07:21,,Landed 07:39,KML CSV Play, 
+c-fyns,, ,23 Feb 2024,Toronto (YYZ),Ottawa (YOW),AC470,0:37,22:10,22:36,23:15,,Landed 23:13,KML CSV Play, 
+c-fyns,, ,23 Feb 2024,San Diego (SAN),Toronto (YYZ),AC1094,4:10,12:40,13:09,20:20,,Landed 20:19,KML CSV Play, 
+c-fyns,, ,23 Feb 2024,Toronto (YYZ),San Diego (SAN),AC1093,5:07,09:00,09:32,11:40,,Landed 11:38,KML CSV Play, 
+c-fyns,, ,22 Feb 2024,Halifax (YHZ),Toronto (YYZ),AC619,1:57,18:55,18:54,20:37,,Landed 19:51,KML CSV Play, 
+c-fyns,, ,22 Feb 2024,Toronto (YYZ),Halifax (YHZ),AC612,1:36,14:50,15:02,17:53,,Landed 17:38,KML CSV Play, 
+c-fyns,, ,22 Feb 2024,Montreal (YUL),Toronto (YYZ),AC409,0:55,11:10,12:00,12:46,,Landed 12:55,KML CSV Play, 
+c-fyns,, ,22 Feb 2024,Toronto (YYZ),Montreal (YUL),AC404,0:51,09:00,09:47,10:20,,Landed 10:37,KML CSV Play, 
+c-fyns,, ,21 Feb 2024,Halifax (YHZ),Toronto (YYZ),AC619,1:58,18:55,19:19,20:37,,Landed 20:17,KML CSV Play, 
+c-fyns,, ,21 Feb 2024,Toronto (YYZ),Halifax (YHZ),AC612,1:43,14:50,15:01,17:53,,Landed 17:44,KML CSV Play, 
+c-fyns,, ,21 Feb 2024,Thunder Bay (YQT),Toronto (YYZ),AC2112,1:15,10:40,10:49,12:05,,Landed 12:04,KML CSV Play, 
+c-fyns,, ,21 Feb 2024,Toronto (YYZ),Thunder Bay (YQT),AC2111,1:19,07:45,08:15,09:15,,Landed 09:34,KML CSV Play, 
+c-fyns,, ,20 Feb 2024,Miami (MIA),Toronto (YYZ),AC1201,2:47,11:30,11:51,14:50,,Landed 14:39,KML CSV Play, 
+c-fyns,, ,20 Feb 2024,Toronto (YYZ),Miami (MIA),AC1198,2:38,07:00,07:43,10:25,,Landed 10:21,KML CSV Play, 
+c-fyns,, ,19 Feb 2024,Chicago (ORD),Toronto (YYZ),AC510,1:04,20:35,20:58,23:08,,Landed 23:02,KML CSV Play, 
+c-fyns,, ,19 Feb 2024,Toronto (YYZ),Chicago (ORD),AC509,1:13,18:35,18:47,19:37,,Landed 19:00,KML CSV Play, 
+c-fyns,, ,19 Feb 2024,Miami (MIA),Toronto (YYZ),AC1201,2:37,11:30,12:36,14:50,,Landed 15:13,KML CSV Play, 
+c-fyns,, ,19 Feb 2024,Toronto (YYZ),Miami (MIA),AC1198,3:12,07:00,07:36,10:25,,Landed 10:49,KML CSV Play, 
+c-fyns,, ,18 Feb 2024,Miami (MIA),Toronto (YYZ),AC1205,2:24,21:00,21:44,00:20,,Landed 00:08,KML CSV Play, 
+c-fyns,, ,18 Feb 2024,Toronto (YYZ),Miami (MIA),AC1202,2:55,16:25,17:01,19:50,,Landed 19:56,KML CSV Play, 
+c-fyns,, ,18 Feb 2024,Miami (MIA),Toronto (YYZ),AC1201,2:30,11:30,11:45,14:50,,Landed 14:15,KML CSV Play, 
+c-fyns,, ,18 Feb 2024,Toronto (YYZ),Miami (MIA),AC1198,2:58,07:00,07:21,10:25,,Landed 10:19,KML CSV Play, 
+c-fyns,, ,17 Feb 2024,Miami (MIA),Toronto (YYZ),AC1205,2:33,21:00,21:32,00:20,,Landed 00:05,KML CSV Play, 
+c-fyns,, ,17 Feb 2024,Toronto (YYZ),Miami (MIA),AC1202,3:00,16:25,16:51,19:50,,Landed 19:51,KML CSV Play, 
+c-fyns,, ,17 Feb 2024,Miami (MIA),Toronto (YYZ),AC1201,2:35,11:30,11:54,14:50,,Landed 14:29,KML CSV Play, 
+c-fyns,, ,17 Feb 2024,Toronto (YYZ),Miami (MIA),AC1198,2:53,07:00,07:31,10:25,,Landed 10:24,KML CSV Play, 
+c-fyns,, ,16 Feb 2024,Miami (MIA),Toronto (YYZ),AC1205,2:46,21:00,21:19,00:20,,Landed 00:04,KML CSV Play, 
+c-fyns,, ,16 Feb 2024,Toronto (YYZ),Miami (MIA),AC1202,2:46,16:25,16:58,19:50,,Landed 19:44,KML CSV Play, 
+c-fyns,, ,16 Feb 2024,Miami (MIA),Toronto (YYZ),AC1201,2:48,11:30,11:53,14:50,,Landed 14:41,KML CSV Play, 
+c-fyns,, ,16 Feb 2024,Toronto (YYZ),Miami (MIA),AC1198,2:37,07:00,07:46,10:25,,Landed 10:23,KML CSV Play, 
+c-fyns,, ,15 Feb 2024,Miami (MIA),Toronto (YYZ),AC1205,2:58,21:00,23:20,00:20,,Landed 02:18,KML CSV Play, 
+c-fyns,, ,15 Feb 2024,Toronto (YYZ),Miami (MIA),AC1198,2:41,07:00,07:29,10:25,,Landed 10:10,KML CSV Play, 
+c-fyns,, ,15 Feb 2024,Toronto (YYZ),—,AC1205,-,00:21,—,—,,Unknown,KML CSV Play, 
+c-fyns,, ,14 Feb 2024,Miami (MIA),Toronto (YYZ),AC1205,2:41,21:00,21:37,00:20,,Landed 00:19,KML CSV Play, 
+c-fyns,, ,14 Feb 2024,Toronto (YYZ),Miami (MIA),AC1202,2:41,16:25,17:09,19:50,,Landed 19:50,KML CSV Play, 
+c-fyns,, ,14 Feb 2024,Miami (MIA),Toronto (YYZ),AC1201,2:43,11:30,11:47,14:50,,Landed 14:30,KML CSV Play, 
+c-fyns,, ,14 Feb 2024,Toronto (YYZ),Miami (MIA),AC1198,2:45,07:00,07:38,10:25,,Landed 10:23,KML CSV Play, 
+c-fyns,, ,13 Feb 2024,San Diego (SAN),Toronto (YYZ),AC1094,4:05,12:40,13:29,20:20,,Landed 20:34,KML CSV Play, 
+c-fyns,, ,13 Feb 2024,Toronto (YYZ),San Diego (SAN),AC1093,5:00,09:00,10:17,11:40,,Landed 12:17,KML CSV Play, 
+c-fyns,, ,12 Feb 2024,Orlando (MCO),Toronto (YYZ),AC1091,2:07,21:05,21:15,23:56,,Landed 23:21,KML CSV Play, 
+c-fyns,, ,12 Feb 2024,Toronto (YYZ),Orlando (MCO),AC1088,2:41,16:25,16:45,19:23,,Landed 19:26,KML CSV Play, 
+c-fyns,, ,12 Feb 2024,Miami (MIA),Toronto (YYZ),AC1201,2:36,11:30,12:14,14:50,,Landed 14:50,KML CSV Play, 
+c-fyns,, ,12 Feb 2024,Toronto (YYZ),Miami (MIA),AC1198,3:06,07:00,07:44,10:25,,Landed 10:49,KML CSV Play, 
+c-fyns,, ,11 Feb 2024,Miami (MIA),Toronto (YYZ),AC1205,2:33,21:00,21:19,00:20,,Landed 23:52,KML CSV Play, 
+c-fyns,, ,11 Feb 2024,Toronto (YYZ),Miami (MIA),AC1202,2:54,16:25,16:45,19:50,,Landed 19:39,KML CSV Play, 
+c-fyns,, ,11 Feb 2024,Miami (MIA),Toronto (YYZ),AC1201,2:36,11:30,11:42,14:50,,Landed 14:17,KML CSV Play, 
+c-fyns,, ,11 Feb 2024,Toronto (YYZ),Miami (MIA),AC1198,2:50,07:00,07:24,10:25,,Landed 10:14,KML CSV Play, 
+c-fyns,, ,10 Feb 2024,Miami (MIA),Toronto (YYZ),AC1205,2:37,21:00,21:00,00:20,,Landed 23:37,KML CSV Play, 
+c-fyns,, ,10 Feb 2024,Toronto (YYZ),Miami (MIA),AC1202,2:51,16:25,16:41,19:50,,Landed 19:32,KML CSV Play, 
+c-fyns,, ,10 Feb 2024,Miami (MIA),Toronto (YYZ),AC1201,2:39,11:30,11:42,14:50,,Landed 14:21,KML CSV Play, 
+c-fyns,, ,10 Feb 2024,Toronto (YYZ),Miami (MIA),AC1198,2:46,07:00,07:12,10:25,,Landed 09:58,KML CSV Play, 
+c-fyns,, ,09 Feb 2024,Toronto (YYZ),—,AC1205,-,23:49,—,—,,Unknown,KML CSV Play, 
+c-fyns,, ,09 Feb 2024,Miami (MIA),Toronto (YYZ),AC1205,2:45,21:00,21:01,00:20,,Landed 23:46,KML CSV Play, 
+c-fyns,, ,09 Feb 2024,Toronto (YYZ),Miami (MIA),AC1202,2:44,16:25,16:51,19:50,,Landed 19:35,KML CSV Play, 
+c-fyns,, ,09 Feb 2024,Miami (MIA),Toronto (YYZ),AC1201,2:44,11:30,11:44,14:50,,Landed 14:28,KML CSV Play, 
+c-fyns,, ,09 Feb 2024,Toronto (YYZ),Miami (MIA),AC1198,2:39,07:00,07:20,10:25,,Landed 09:59,KML CSV Play, 
+c-fyns,, ,08 Feb 2024,Miami (MIA),Toronto (YYZ),AC1205,2:48,21:00,21:30,00:20,,Landed 00:18,KML CSV Play, 
+c-fyns,, ,08 Feb 2024,Toronto (YYZ),Miami (MIA),AC1202,2:40,16:25,16:38,19:50,,Landed 19:19,KML CSV Play, 
+c-fyns,, ,08 Feb 2024,Miami (MIA),Toronto (YYZ),AC1201,2:52,11:30,11:56,14:50,,Landed 14:48,KML CSV Play, 
+c-fyns,, ,08 Feb 2024,Toronto (YYZ),Miami (MIA),AC1198,2:33,07:00,08:12,10:25,,Landed 10:45,KML CSV Play, 
+c-fyns,, ,04 Feb 2024,Miami (MIA),Toronto (YYZ),AC1201,2:41,11:30,12:37,14:50,,Landed 15:19,KML CSV Play, 
+c-fyns,, ,04 Feb 2024,Toronto (YYZ),Miami (MIA),AC1198,2:53,07:00,07:42,10:25,,Landed 10:36,KML CSV Play, 
+c-fyns,, ,03 Feb 2024,Toronto (YYZ),Halifax (YHZ),AC604,-,08:00,08:30,11:07,,Diverted to YYZ,KML CSV Play, 
+c-fyns,, ,02 Feb 2024,Miami (MIA),Toronto (YYZ),AC1205,2:48,21:00,21:07,00:20,,Landed 23:56,KML CSV Play, 
+c-fyns,, ,02 Feb 2024,Toronto (YYZ),Miami (MIA),AC1202,2:37,16:25,16:49,19:50,,Landed 19:26,KML CSV Play, 
+c-fyns,, ,02 Feb 2024,Miami (MIA),Toronto (YYZ),AC1201,2:43,11:30,11:33,14:50,,Landed 14:15,KML CSV Play, 
+c-fyns,, ,02 Feb 2024,Toronto (YYZ),Miami (MIA),AC1198,2:39,07:00,07:31,10:25,,Landed 10:10,KML CSV Play, 
+c-fyns,, ,01 Feb 2024,Miami (MIA),Toronto (YYZ),AC1205,2:46,21:00,21:23,00:20,,Landed 00:08,KML CSV Play, 
+c-fyns,, ,01 Feb 2024,Toronto (YYZ),Miami (MIA),AC1202,2:43,16:25,16:54,19:50,,Landed 19:36,KML CSV Play, 
+c-fyns,, ,01 Feb 2024,Miami (MIA),Toronto (YYZ),AC1201,2:52,11:30,12:11,14:50,,Landed 15:03,KML CSV Play, 
+c-fyns,, ,01 Feb 2024,Toronto (YYZ),Miami (MIA),AC1198,2:34,07:00,07:33,10:25,,Landed 10:07,KML CSV Play, 
+c-fyns,, ,31 Jan 2024,San Diego (SAN),Toronto (YYZ),AC1094,4:17,12:40,12:57,20:20,,Landed 20:14,KML CSV Play, 
+c-fyns,, ,31 Jan 2024,Toronto (YYZ),San Diego (SAN),AC1093,4:33,09:00,09:36,11:40,,Landed 11:09,KML CSV Play, 
+c-fyns,, ,30 Jan 2024,San Diego (SAN),Toronto (YYZ),AC1094,4:28,12:40,13:02,20:20,,Landed 20:31,KML CSV Play, 
+c-fyns,, ,30 Jan 2024,Toronto (YYZ),San Diego (SAN),AC1093,4:17,09:00,09:17,11:40,,Landed 10:35,KML CSV Play, 
+c-fyns,, ,29 Jan 2024,San Diego (SAN),Toronto (YYZ),AC1094,4:07,12:40,12:45,20:20,,Landed 19:52,KML CSV Play, 
+c-fyns,, ,29 Jan 2024,Toronto (YYZ),San Diego (SAN),AC1093,4:44,09:00,09:29,11:40,,Landed 11:12,KML CSV Play, 
+c-fyns,, ,29 Jan 2024,Halifax (YHZ),Toronto (YYZ),AC601,2:11,05:00,05:32,06:42,,Landed 06:42,KML CSV Play, 
+c-fyns,, ,28 Jan 2024,Toronto (YYZ),Halifax (YHZ),AC620,1:36,21:45,22:03,00:52,,Landed 00:39,KML CSV Play, 
+c-fyns,, ,28 Jan 2024,San Diego (SAN),Toronto (YYZ),AC1094,4:25,12:40,12:49,20:20,,Landed 20:15,KML CSV Play, 
+c-fyns,, ,28 Jan 2024,Toronto (YYZ),San Diego (SAN),AC1093,4:39,09:00,09:45,11:40,,Landed 11:23,KML CSV Play, 
+c-fyns,, ,27 Jan 2024,St. John's (YYT),Toronto (YYZ),AC697,3:04,18:05,18:12,20:31,,Landed 19:46,KML CSV Play, 
+c-fyns,, ,27 Jan 2024,Toronto (YYZ),St. John's (YYT),AC690,2:34,12:30,12:39,17:04,,Landed 16:43,KML CSV Play, 
+c-fyns,, ,27 Jan 2024,Montreal (YUL),Toronto (YYZ),AC405,0:56,09:10,09:32,10:46,,Landed 10:28,KML CSV Play, 
+c-fyns,, ,27 Jan 2024,Toronto (YYZ),Montreal (YUL),AC400,0:45,07:00,07:14,08:20,,Landed 07:59,KML CSV Play, 
+c-fyns,, ,26 Jan 2024,Miami (MIA),Toronto (YYZ),AC1205,2:27,21:00,21:20,00:20,,Landed 23:47,KML CSV Play, 
+c-fyns,, ,26 Jan 2024,Toronto (YYZ),Miami (MIA),AC1202,2:57,16:25,16:45,19:50,,Landed 19:42,KML CSV Play, 
+c-fyns,, ,26 Jan 2024,Miami (MIA),Toronto (YYZ),AC1201,2:38,11:30,12:15,14:50,,Landed 14:53,KML CSV Play, 
+c-fyns,, ,26 Jan 2024,Toronto (YYZ),Miami (MIA),AC1198,3:01,07:00,07:25,10:25,,Landed 10:26,KML CSV Play, 
+c-fyns,, ,25 Jan 2024,Miami (MIA),Toronto (YYZ),AC1205,2:27,21:00,22:05,00:20,,Landed 00:32,KML CSV Play, 
+c-fyns,, ,25 Jan 2024,Toronto (YYZ),Miami (MIA),AC1202,2:56,16:25,17:18,19:50,,Landed 20:14,KML CSV Play, 
+c-fyns,, ,25 Jan 2024,Miami (MIA),Toronto (YYZ),AC1201,2:35,11:30,13:03,14:50,,Landed 15:37,KML CSV Play, 
+c-fyns,, ,25 Jan 2024,Toronto (YYZ),Miami (MIA),AC1198,2:53,07:00,07:53,10:25,,Landed 10:46,KML CSV Play, 
+c-fyns,, ,24 Jan 2024,Miami (MIA),Toronto (YYZ),AC1205,2:31,21:00,21:14,00:20,,Landed 23:44,KML CSV Play, 
+c-fyns,, ,24 Jan 2024,Toronto (YYZ),Miami (MIA),AC1202,2:49,16:25,16:45,19:50,,Landed 19:34,KML CSV Play, 
+c-fyns,, ,24 Jan 2024,Miami (MIA),Toronto (YYZ),AC1201,2:37,11:30,12:15,14:50,,Landed 14:53,KML CSV Play, 
+c-fyns,, ,24 Jan 2024,Toronto (YYZ),Miami (MIA),AC1198,2:51,07:00,07:38,10:25,,Landed 10:29,KML CSV Play, 
+c-fyns,, ,23 Jan 2024,Toronto (YYZ),—,AC1205,-,23:47,—,—,,Unknown,KML CSV Play, 
+c-fyns,, ,23 Jan 2024,Miami (MIA),Toronto (YYZ),AC1205,2:32,21:00,21:13,00:20,,Landed 23:45,KML CSV Play, 
+c-fyns,, ,23 Jan 2024,Toronto (YYZ),Miami (MIA),AC1202,2:50,16:25,17:01,19:50,,Landed 19:51,KML CSV Play, 
+c-fyns,, ,23 Jan 2024,Miami (MIA),Toronto (YYZ),AC1201,2:28,11:30,11:51,14:50,,Landed 14:19,KML CSV Play, 
+c-fyns,, ,23 Jan 2024,Toronto (YYZ),Miami (MIA),AC1198,2:48,07:00,07:29,10:25,,Landed 10:17,KML CSV Play, 
+c-fyns,, ,22 Jan 2024,Miami (MIA),Toronto (YYZ),AC1205,2:33,21:00,21:13,00:20,,Landed 23:46,KML CSV Play, 
+c-fyns,, ,22 Jan 2024,Toronto (YYZ),Miami (MIA),AC1202,2:51,16:25,16:57,19:50,,Landed 19:48,KML CSV Play, 
+c-fyns,, ,22 Jan 2024,Toronto (YYZ),—,AC1201,-,14:28,—,—,,Unknown,KML CSV Play, 
+c-fyns,, ,22 Jan 2024,Miami (MIA),Toronto (YYZ),AC1201,2:38,11:30,11:44,14:50,,Landed 14:22,KML CSV Play, 
+c-fyns,, ,22 Jan 2024,Toronto (YYZ),Miami (MIA),AC1198,2:47,07:00,07:24,10:25,,Landed 10:11,KML CSV Play, 
+c-fyns,, ,21 Jan 2024,San Diego (SAN),Toronto (YYZ),AC1094,4:13,12:40,12:57,20:20,,Landed 20:11,KML CSV Play, 
+c-fyns,, ,21 Jan 2024,Toronto (YYZ),San Diego (SAN),AC1093,4:55,09:00,09:41,11:40,,Landed 11:37,KML CSV Play, 
+c-fyns,, ,20 Jan 2024,Miami (MIA),Toronto (YYZ),AC1205,2:45,21:00,21:27,00:20,,Landed 00:12,KML CSV Play, 
+c-fyns,, ,20 Jan 2024,Toronto (YYZ),Miami (MIA),AC1202,2:43,16:25,16:52,19:50,,Landed 19:35,KML CSV Play, 
+c-fyns,, ,20 Jan 2024,Miami (MIA),Toronto (YYZ),AC1201,2:42,11:30,12:09,14:50,,Landed 14:51,KML CSV Play, 
+c-fyns,, ,20 Jan 2024,Toronto (YYZ),Miami (MIA),AC1198,2:48,07:00,07:43,10:25,,Landed 10:32,KML CSV Play, 
+c-fyns,, ,19 Jan 2024,Miami (MIA),Toronto (YYZ),AC1205,2:34,21:00,21:04,00:20,,Landed 23:38,KML CSV Play, 
+c-fyns,, ,19 Jan 2024,Toronto (YYZ),Miami (MIA),AC1202,2:47,16:25,16:37,19:50,,Landed 19:24,KML CSV Play, 
+c-fyns,, ,19 Jan 2024,Miami (MIA),Toronto (YYZ),AC1201,2:43,11:30,11:55,14:50,,Landed 14:38,KML CSV Play, 
+c-fyns,, ,19 Jan 2024,Toronto (YYZ),Miami (MIA),AC1198,2:48,07:00,07:36,10:25,,Landed 10:23,KML CSV Play, 
+c-fyns,, ,18 Jan 2024,Miami (MIA),Toronto (YYZ),AC1205,2:35,21:00,21:30,00:20,,Landed 00:05,KML CSV Play, 
+c-fyns,, ,18 Jan 2024,Toronto (YYZ),Miami (MIA),AC1202,2:51,16:25,16:40,19:50,,Landed 19:31,KML CSV Play, 
+c-fyns,, ,18 Jan 2024,Miami (MIA),Toronto (YYZ),AC1201,2:43,11:30,11:43,14:50,,Landed 14:26,KML CSV Play, 
+c-fyns,, ,18 Jan 2024,Toronto (YYZ),Miami (MIA),AC1198,2:46,07:00,07:34,10:25,,Landed 10:19,KML CSV Play, 
+c-fyns,, ,17 Jan 2024,Orlando (MCO),Toronto (YYZ),AC1091,2:15,21:05,21:00,23:58,,Landed 23:15,KML CSV Play, 
+c-fyns,, ,17 Jan 2024,Toronto (YYZ),Orlando (MCO),AC1088,2:20,16:25,16:40,19:23,,Landed 19:00,KML CSV Play, 
+c-fyns,, ,17 Jan 2024,Miami (MIA),Toronto (YYZ),AC1201,2:37,11:30,11:54,14:50,,Landed 14:31,KML CSV Play, 
+c-fyns,, ,17 Jan 2024,Toronto (YYZ),Miami (MIA),AC1198,2:55,07:00,07:43,10:25,,Landed 10:39,KML CSV Play, 
+c-fyns,, ,16 Jan 2024,Toronto (YYZ),—,AC619,-,22:15,—,—,,Unknown,KML CSV Play, 
+c-fyns,, ,16 Jan 2024,Halifax (YHZ),Toronto (YYZ),AC619,2:14,18:55,21:01,20:37,,Landed 22:15,KML CSV Play, 
+c-fyns,, ,16 Jan 2024,Toronto (YYZ),Halifax (YHZ),AC612,1:32,14:50,16:42,17:53,,Landed 19:14,KML CSV Play, 
+c-fyns,, ,16 Jan 2024,Miami (MIA),Toronto (YYZ),AC1201,2:27,11:30,12:09,14:50,,Landed 14:36,KML CSV Play, 
+c-fyns,, ,16 Jan 2024,Toronto (YYZ),Miami (MIA),AC1198,3:10,07:00,07:49,10:25,,Landed 11:00,KML CSV Play, 
+c-fyns,, ,15 Jan 2024,Miami (MIA),Toronto (YYZ),AC1205,2:34,21:00,21:45,00:20,,Landed 00:20,KML CSV Play, 
+c-fyns,, ,15 Jan 2024,Toronto (YYZ),Miami (MIA),AC1202,3:21,16:25,16:43,19:50,,Landed 20:04,KML CSV Play, 
+c-fyns,, ,15 Jan 2024,Miami (MIA),Toronto (YYZ),AC1201,2:33,11:30,11:54,14:50,,Landed 14:27,KML CSV Play, 
+c-fyns,, ,15 Jan 2024,Toronto (YYZ),Miami (MIA),AC1198,2:54,07:00,07:40,10:25,,Landed 10:34,KML CSV Play, 
+c-fyns,, ,14 Jan 2024,San Diego (SAN),Toronto (YYZ),AC1094,3:54,12:40,13:45,20:20,,Landed 20:38,KML CSV Play, 
+c-fyns,, ,14 Jan 2024,Toronto (YYZ),San Diego (SAN),AC1093,5:01,09:00,10:03,11:40,,Landed 12:04,KML CSV Play, 
+c-fyns,, ,14 Jan 2024,Halifax (YHZ),Toronto (YYZ),AC601,2:05,05:00,05:35,06:42,,Landed 06:40,KML CSV Play, 
+c-fyns,, ,13 Jan 2024,Toronto (YYZ),Halifax (YHZ),AC620,1:37,21:50,23:39,00:57,,Landed 02:16,KML CSV Play, 
+c-fyns,, ,13 Jan 2024,Toronto (YYZ),—,AC1094,-,20:15,—,—,,Unknown,KML CSV Play, 
+c-fyns,, ,13 Jan 2024,San Diego (SAN),Toronto (YYZ),AC1094,4:02,12:40,13:07,20:20,,Landed 20:09,KML CSV Play, 
+c-fyns,, ,13 Jan 2024,Toronto (YYZ),San Diego (SAN),AC1093,4:52,09:00,09:35,11:40,,Landed 11:27,KML CSV Play, 
+c-fyns,, ,12 Jan 2024,Montreal (YUL),Toronto (YYZ),AC1094,1:05,22:20,00:20,23:20,,Landed 01:26,KML CSV Play, 
+c-fyns,, ,12 Jan 2024,San Diego (SAN),Toronto (YYZ),AC1094,-,12:40,13:07,20:20,,Diverted to YUL,KML CSV Play, 
+c-fyns,, ,12 Jan 2024,Toronto (YYZ),San Diego (SAN),AC1093,5:04,09:00,09:19,11:40,,Landed 11:23,KML CSV Play, 
+c-fyns,, ,12 Jan 2024,Ottawa (YOW),Toronto (YYZ),AC471,0:47,05:20,06:05,06:40,,Landed 06:53,KML CSV Play, 
+c-fyns,, ,11 Jan 2024,Toronto (YYZ),Ottawa (YOW),AC470,0:41,22:10,23:54,23:15,,Landed 00:35,KML CSV Play, 
+c-fyns,, ,11 Jan 2024,Ottawa (YOW),Toronto (YYZ),AC463,0:40,18:00,20:40,19:20,,Landed 21:21,KML CSV Play, 
+c-fyns,, ,11 Jan 2024,Toronto (YYZ),Ottawa (YOW),AC458,0:42,16:10,18:34,17:15,,Landed 19:16,KML CSV Play, 
+c-fyns,, ,11 Jan 2024,Winnipeg (YWG),Toronto (YYZ),AC2164,2:02,12:45,14:10,16:13,,Landed 17:12,KML CSV Play, 
+c-fyns,, ,11 Jan 2024,Toronto (YYZ),Winnipeg (YWG),AC261,2:06,10:00,11:11,11:44,,Landed 12:17,KML CSV Play, 
+c-fyns,, ,11 Jan 2024,Halifax (YHZ),Toronto (YYZ),AC601,2:02,05:00,07:33,06:42,,Landed 08:35,KML CSV Play, 
+c-fyns,, ,10 Jan 2024,Toronto (YYZ),Halifax (YHZ),AC620,1:37,21:45,22:28,00:52,,Landed 01:05,KML CSV Play, 
+c-fyns,, ,10 Jan 2024,San Diego (SAN),Toronto (YYZ),AC1094,3:58,12:40,13:21,20:20,,Landed 20:19,KML CSV Play, 
+c-fyns,, ,10 Jan 2024,Toronto (YYZ),San Diego (SAN),AC1093,5:01,09:00,09:19,11:40,,Landed 11:20,KML CSV Play, 
+c-fyns,, ,10 Jan 2024,Montreal (YUL),Toronto (YYZ),AC481,0:55,06:00,06:09,07:40,,Landed 07:04,KML CSV Play, 
+c-fyns,, ,09 Jan 2024,Montreal (YUL),—,AC428,-,23:44,—,—,,Unknown,KML CSV Play, 
+c-fyns,, ,09 Jan 2024,Toronto (YYZ),Montreal (YUL),AC428,0:50,21:30,22:46,22:50,,Landed 23:36,KML CSV Play, 
+c-fyns,, ,09 Jan 2024,San Diego (SAN),Toronto (YYZ),AC1094,4:06,12:40,13:47,20:20,,Landed 20:52,KML CSV Play, 
+c-fyns,, ,09 Jan 2024,Toronto (YYZ),San Diego (SAN),AC1093,4:54,09:00,10:29,11:40,,Landed 12:24,KML CSV Play, 
+c-fyns,, ,08 Jan 2024,San Diego (SAN),Toronto (YYZ),AC1094,4:10,12:40,13:37,20:20,,Landed 20:47,KML CSV Play, 
+c-fyns,, ,08 Jan 2024,Toronto (YYZ),San Diego (SAN),AC1093,5:07,09:00,09:53,11:40,,Landed 12:01,KML CSV Play, 
+c-fyns,, ,07 Jan 2024,San Diego (SAN),Toronto (YYZ),AC1094,4:02,12:40,13:33,20:20,,Landed 20:35,KML CSV Play, 
+c-fyns,, ,07 Jan 2024,Toronto (YYZ),San Diego (SAN),AC1093,5:02,09:00,10:09,11:40,,Landed 12:11,KML CSV Play, 
+c-fyns,, ,07 Jan 2024,Ottawa (YOW),Toronto (YYZ),AC439,0:45,06:00,07:07,07:21,,Landed 07:52,KML CSV Play, 
+c-fyns,, ,06 Jan 2024,Toronto (YYZ),Ottawa (YOW),AC470,0:35,22:10,02:30,23:15,,Landed 03:04,KML CSV Play, 
+c-fyns,, ,06 Jan 2024,Toronto (YYZ),Halifax (YHZ),AC612,1:36,14:50,16:05,17:53,,Landed 18:40,KML CSV Play, 
+c-fyns,, ,06 Jan 2024,Halifax (YHZ),Toronto (YYZ),AC609,2:20,12:10,12:21,13:44,,Landed 13:41,KML CSV Play, 
+c-fyns,, ,06 Jan 2024,Toronto (YYZ),Halifax (YHZ),AC604,1:33,08:00,08:27,11:07,,Landed 10:59,KML CSV Play, 
+c-fyns,, ,05 Jan 2024,Toronto (YYZ),—,AC619,-,21:09,—,—,,Unknown,KML CSV Play, 
+c-fyns,, ,05 Jan 2024,Halifax (YHZ),Toronto (YYZ),AC619,2:11,18:55,19:55,20:37,,Landed 21:07,KML CSV Play, 
+c-fyns,, ,05 Jan 2024,Toronto (YYZ),Halifax (YHZ),AC612,1:37,14:50,15:54,17:53,,Landed 18:31,KML CSV Play, 
+c-fyns,, ,05 Jan 2024,Halifax (YHZ),Toronto (YYZ),AC609,2:03,12:10,13:20,13:44,,Landed 14:23,KML CSV Play, 
+c-fyns,, ,05 Jan 2024,Toronto (YYZ),Halifax (YHZ),AC604,1:39,08:00,09:04,11:07,,Landed 11:43,KML CSV Play, 
+c-fyns,, ,04 Jan 2024,Sarasota (SRQ),Toronto (YYZ),AC1247,2:35,21:20,21:24,00:16,,Landed 23:59,KML CSV Play, 
+c-fyns,, ,04 Jan 2024,Toronto (YYZ),Sarasota (SRQ),AC1246,2:29,17:15,17:36,20:22,,Landed 20:05,KML CSV Play, 
+c-fyns,, ,04 Jan 2024,Austin (AUS),Toronto (YYZ),AC1044,2:43,11:50,11:50,16:02,,Landed 15:33,KML CSV Play, 
+c-fyns,, ,04 Jan 2024,Toronto (YYZ),Austin (AUS),AC1043,3:03,08:00,08:16,10:47,,Landed 10:18,KML CSV Play, 
+c-fyns,, ,03 Jan 2024,New Orleans (MSY),Toronto (YYZ),AC1298,2:12,20:35,20:31,00:17,,Landed 23:44,KML CSV Play, 
+c-fyns,, ,03 Jan 2024,Toronto (YYZ),New Orleans (MSY),AC1299,2:30,17:15,17:45,19:32,,Landed 19:15,KML CSV Play, 
+c-fyns,, ,03 Jan 2024,Toronto (YYZ),—,AC1044,-,15:59,—,—,,Unknown,KML CSV Play, 
+c-fyns,, ,03 Jan 2024,Austin (AUS),Toronto (YYZ),AC1044,2:46,11:50,12:11,16:02,,Landed 15:57,KML CSV Play, 
+c-fyns,, ,03 Jan 2024,Toronto (YYZ),Austin (AUS),AC1043,3:07,08:00,08:33,10:47,,Landed 10:40,KML CSV Play, 
+c-fyns,, ,02 Jan 2024,Sarasota (SRQ),Toronto (YYZ),AC1247,2:27,21:20,22:35,00:16,,Landed 01:02,KML CSV Play, 
+c-fyns,, ,02 Jan 2024,Toronto (YYZ),Sarasota (SRQ),AC1246,2:33,17:15,18:52,20:22,,Landed 21:25,KML CSV Play, 
+c-fyns,, ,02 Jan 2024,Austin (AUS),Toronto (YYZ),AC1044,2:42,11:50,13:06,16:02,,Landed 16:47,KML CSV Play, 
+c-fyns,, ,02 Jan 2024,Toronto (YYZ),Austin (AUS),AC1043,3:12,08:00,08:48,10:47,,Landed 11:00,KML CSV Play, 
+c-fyns,, ,02 Jan 2024,Toronto (YYZ),—,AC1298,-,00:12,—,—,,Unknown,KML CSV Play, 
+c-fyns,, ,01 Jan 2024,New Orleans (MSY),Toronto (YYZ),AC1298,2:32,20:35,20:37,00:17,,Landed 00:09,KML CSV Play, 
+c-fyns,, ,01 Jan 2024,Toronto (YYZ),New Orleans (MSY),AC1299,2:26,17:15,17:56,19:32,,Landed 19:21,KML CSV Play, 
+c-fyns,, ,01 Jan 2024,Toronto (YYZ),—,AC1044,-,16:34,—,—,,Unknown,KML CSV Play, 
+c-fyns,, ,01 Jan 2024,Austin (AUS),Toronto (YYZ),AC1044,2:52,11:50,12:42,16:02,,Landed 16:34,KML CSV Play, 
+c-fyns,, ,01 Jan 2024,Toronto (YYZ),Austin (AUS),AC1043,3:01,08:00,09:31,10:47,,Landed 11:31,KML CSV Play, 
+c-fyns,, ,01 Jan 2024,St. John's (YYT),Toronto (YYZ),AC685,3:03,05:00,05:46,07:26,,Landed 07:19,KML CSV Play, 
+c-fyns,, ,31 Dec 2023,Toronto (YYZ),St. John's (YYT),AC698,2:32,21:00,23:21,01:34,,Landed 03:23,KML CSV Play, 
+c-fyns,, ,31 Dec 2023,Halifax (YHZ),Toronto (YYZ),AC619,1:58,18:55,19:49,20:37,,Landed 20:47,KML CSV Play, 
+c-fyns,, ,31 Dec 2023,Toronto (YYZ),Halifax (YHZ),AC612,1:39,14:50,15:39,17:53,,Landed 18:17,KML CSV Play, 
+c-fyns,, ,31 Dec 2023,Halifax (YHZ),Toronto (YYZ),AC609,1:57,12:10,13:05,13:44,,Landed 14:02,KML CSV Play, 
+c-fyns,, ,31 Dec 2023,Toronto (YYZ),Halifax (YHZ),AC604,1:39,08:00,09:03,11:07,,Landed 11:42,KML CSV Play, 
+c-fyns,, ,31 Dec 2023,Montreal (YUL),Toronto (YYZ),AC481,0:58,06:00,06:27,07:40,,Landed 07:25,KML CSV Play, 
+c-fyns,, ,30 Dec 2023,Toronto (YYZ),Montreal (YUL),AC2030,0:51,23:30,00:20,00:31,,Landed 01:11,KML CSV Play, 
+c-fyns,, ,30 Dec 2023,Halifax (YHZ),Toronto (YYZ),AC619,1:48,18:55,20:53,20:37,,Landed 21:41,KML CSV Play, 
+c-fyns,, ,30 Dec 2023,Toronto (YYZ),Halifax (YHZ),AC612,1:45,14:50,16:25,17:53,,Landed 19:10,KML CSV Play, 
+c-fyns,, ,30 Dec 2023,Halifax (YHZ),Toronto (YYZ),AC609,1:47,12:10,14:01,13:44,,Landed 14:48,KML CSV Play, 
+c-fyns,, ,30 Dec 2023,Toronto (YYZ),Halifax (YHZ),AC604,1:43,08:00,09:31,11:07,,Landed 12:15,KML CSV Play, 
+c-fyns,, ,29 Dec 2023,Halifax (YHZ),Toronto (YYZ),AC609,1:54,12:10,12:24,13:44,,Landed 13:18,KML CSV Play, 
+c-fyns,, ,29 Dec 2023,Toronto (YYZ),Halifax (YHZ),AC604,1:43,08:00,08:20,11:07,,Landed 11:03,KML CSV Play, 
+c-fyns,, ,28 Dec 2023,Halifax (YHZ),Toronto (YYZ),AC619,2:02,18:55,19:21,20:37,,Landed 20:23,KML CSV Play, 
+c-fyns,, ,28 Dec 2023,Toronto (YYZ),Halifax (YHZ),AC612,1:40,14:50,15:13,17:53,,Landed 17:53,KML CSV Play, 
+c-fyns,, ,28 Dec 2023,Halifax (YHZ),Toronto (YYZ),AC609,1:57,12:10,12:26,13:44,,Landed 13:24,KML CSV Play, 
+c-fyns,, ,28 Dec 2023,Toronto (YYZ),Halifax (YHZ),AC604,1:40,08:00,08:13,11:07,,Landed 10:53,KML CSV Play, 
+c-fyns,, ,27 Dec 2023,Halifax (YHZ),Toronto (YYZ),AC619,2:02,18:55,19:50,20:37,,Landed 20:52,KML CSV Play, 
+c-fyns,, ,27 Dec 2023,Toronto (YYZ),Halifax (YHZ),AC612,1:38,14:50,15:39,17:53,,Landed 18:17,KML CSV Play, 
+c-fyns,, ,27 Dec 2023,Halifax (YHZ),Toronto (YYZ),AC609,2:08,12:10,12:44,13:44,,Landed 13:52,KML CSV Play, 
+c-fyns,, ,27 Dec 2023,Toronto (YYZ),Halifax (YHZ),AC604,1:36,08:00,08:32,11:07,,Landed 11:08,KML CSV Play, 
+c-fyns,, ,26 Dec 2023,Halifax (YHZ),Toronto (YYZ),AC619,2:07,18:55,19:25,20:37,,Landed 20:33,KML CSV Play, 
+c-fyns,, ,26 Dec 2023,Toronto (YYZ),Halifax (YHZ),AC612,1:40,14:50,15:31,17:53,,Landed 18:11,KML CSV Play, 
+c-fyns,, ,26 Dec 2023,Halifax (YHZ),Toronto (YYZ),AC609,2:03,12:10,12:58,13:44,,Landed 14:01,KML CSV Play, 
+c-fyns,, ,26 Dec 2023,Toronto (YYZ),Halifax (YHZ),AC604,1:41,08:00,08:41,11:07,,Landed 11:22,KML CSV Play, 
+c-fyns,, ,25 Dec 2023,Halifax (YHZ),Toronto (YYZ),AC619,1:52,18:55,19:08,20:37,,Landed 20:00,KML CSV Play, 
+c-fyns,, ,25 Dec 2023,Toronto (YYZ),Halifax (YHZ),AC612,1:50,14:50,15:05,17:53,,Landed 17:55,KML CSV Play, 
+c-fyns,, ,25 Dec 2023,Toronto (YYZ),—,AC609,-,13:27,—,—,,Unknown,KML CSV Play, 
+c-fyns,, ,25 Dec 2023,Halifax (YHZ),Toronto (YYZ),AC609,1:53,12:10,12:29,13:44,,Landed 13:22,KML CSV Play, 
+c-fyns,, ,25 Dec 2023,Toronto (YYZ),Halifax (YHZ),AC604,1:47,08:00,08:24,11:07,,Landed 11:11,KML CSV Play, 
+c-fyns,, ,24 Dec 2023,Ottawa (YOW),Toronto (YYZ),AC465,0:44,19:00,19:16,20:20,,Landed 20:00,KML CSV Play, 
+c-fyns,, ,24 Dec 2023,Toronto (YYZ),Ottawa (YOW),AC460,0:38,17:10,17:34,18:15,,Landed 18:12,KML CSV Play, 
+c-fyns,, ,24 Dec 2023,Halifax (YHZ),Toronto (YYZ),AC609,1:50,12:10,13:39,13:44,,Landed 14:29,KML CSV Play, 
+c-fyns,, ,24 Dec 2023,Toronto (YYZ),Halifax (YHZ),AC604,1:44,08:00,09:33,11:07,,Landed 12:17,KML CSV Play, 
+c-fyns,, ,24 Dec 2023,Calgary (YYC),Toronto (YYZ),AC156,3:19,01:00,02:26,06:55,,Landed 07:45,KML CSV Play, 
+c-fyns,, ,23 Dec 2023,Toronto (YYZ),Calgary (YYC),AC159,3:41,21:40,22:27,00:05,,Landed 00:08,KML CSV Play, 
+c-fyns,, ,23 Dec 2023,Halifax (YHZ),Toronto (YYZ),AC619,2:00,18:55,19:09,20:37,,Landed 20:10,KML CSV Play, 
+c-fyns,, ,23 Dec 2023,Toronto (YYZ),Halifax (YHZ),AC612,1:40,14:50,15:07,17:53,,Landed 17:47,KML CSV Play, 
+c-fyns,, ,22 Dec 2023,Halifax (YHZ),Toronto (YYZ),AC619,1:57,18:55,19:53,20:37,,Landed 20:50,KML CSV Play, 
+c-fyns,, ,22 Dec 2023,Toronto (YYZ),Halifax (YHZ),AC612,1:42,14:50,15:31,17:53,,Landed 18:13,KML CSV Play, 
+c-fyns,, ,22 Dec 2023,Halifax (YHZ),Toronto (YYZ),AC609,1:55,12:10,12:53,13:44,,Landed 13:48,KML CSV Play, 
+c-fyns,, ,22 Dec 2023,Toronto (YYZ),Halifax (YHZ),AC604,1:44,08:00,08:40,11:07,,Landed 11:25,KML CSV Play, 
+c-fyns,, ,21 Dec 2023,Sarasota (SRQ),Toronto (YYZ),AC1247,2:28,21:20,21:15,00:16,,Landed 23:44,KML CSV Play, 
+c-fyns,, ,21 Dec 2023,Toronto (YYZ),Sarasota (SRQ),AC1246,2:35,17:15,17:29,20:22,,Landed 20:04,KML CSV Play, 
+c-fyns,, ,21 Dec 2023,Austin (AUS),Toronto (YYZ),AC1044,2:45,11:50,12:01,16:02,,Landed 15:45,KML CSV Play, 
+c-fyns,, ,21 Dec 2023,Toronto (YYZ),Austin (AUS),AC1043,3:07,08:00,08:22,10:47,,Landed 10:29,KML CSV Play, 
+c-fyns,, ,20 Dec 2023,New Orleans (MSY),Toronto (YYZ),AC1298,2:17,20:35,20:18,00:17,,Landed 23:35,KML CSV Play, 
+c-fyns,, ,20 Dec 2023,Toronto (YYZ),New Orleans (MSY),AC1299,2:29,17:15,17:26,19:32,,Landed 18:56,KML CSV Play, 
+c-fyns,, ,20 Dec 2023,Austin (AUS),Toronto (YYZ),AC1044,2:50,11:50,11:54,16:02,,Landed 15:45,KML CSV Play, 
+c-fyns,, ,20 Dec 2023,Toronto (YYZ),Austin (AUS),AC1043,3:05,08:00,08:26,10:47,,Landed 10:31,KML CSV Play, 
+c-fyns,, ,19 Dec 2023,Sarasota (SRQ),Toronto (YYZ),AC1247,2:40,21:20,21:17,00:16,,Landed 23:58,KML CSV Play, 
+c-fyns,, ,19 Dec 2023,Toronto (YYZ),Sarasota (SRQ),AC1246,2:22,17:15,17:40,20:22,,Landed 20:02,KML CSV Play, 
+c-fyns,, ,19 Dec 2023,Austin (AUS),Toronto (YYZ),AC1044,2:50,11:50,12:10,16:02,,Landed 16:00,KML CSV Play, 
+c-fyns,, ,19 Dec 2023,Toronto (YYZ),Austin (AUS),AC1043,2:57,08:00,09:04,10:47,,Landed 11:00,KML CSV Play, 
+c-fyns,, ,18 Dec 2023,New Orleans (MSY),Toronto (YYZ),AC1298,2:22,20:35,22:13,00:17,,Landed 01:35,KML CSV Play, 
+c-fyns,, ,18 Dec 2023,Toronto (YYZ),New Orleans (MSY),AC1299,2:27,17:15,19:45,19:32,,Landed 21:12,KML CSV Play, 
+c-fyns,, ,18 Dec 2023,Halifax (YHZ),Toronto (YYZ),AC609,1:56,12:10,12:31,13:44,,Landed 13:26,KML CSV Play, 
+c-fyns,, ,18 Dec 2023,Toronto (YYZ),Halifax (YHZ),AC604,1:50,08:00,08:20,11:07,,Landed 11:10,KML CSV Play, 
+c-fyns,, ,17 Dec 2023,New Orleans (MSY),Toronto (YYZ),AC1298,2:14,20:35,21:03,00:17,,Landed 00:17,KML CSV Play, 
+c-fyns,, ,17 Dec 2023,Toronto (YYZ),New Orleans (MSY),AC1299,2:50,17:15,17:43,19:32,,Landed 19:33,KML CSV Play, 
+c-fyns,, ,17 Dec 2023,Austin (AUS),Toronto (YYZ),AC1044,2:51,11:50,12:17,16:02,,Landed 16:09,KML CSV Play, 
+c-fyns,, ,17 Dec 2023,Toronto (YYZ),Austin (AUS),AC1043,3:08,08:00,08:44,10:47,,Landed 10:52,KML CSV Play, 
+c-fyns,, ,17 Dec 2023,Montreal (YUL),Toronto (YYZ),AC481,0:58,06:00,06:11,07:40,,Landed 07:09,KML CSV Play, 
+c-fyns,, ,16 Dec 2023,Toronto (YYZ),Montreal (YUL),AC428,0:44,21:30,22:53,22:50,,Landed 23:36,KML CSV Play, 
+c-fyns,, ,16 Dec 2023,Toronto (YYZ),—,AC619,-,21:22,—,—,,Unknown,KML CSV Play, 
+c-fyns,, ,16 Dec 2023,Halifax (YHZ),Toronto (YYZ),AC619,2:08,18:55,20:09,20:37,,Landed 21:17,KML CSV Play, 
+c-fyns,, ,16 Dec 2023,Toronto (YYZ),Halifax (YHZ),AC612,1:36,14:50,15:48,17:53,,Landed 18:23,KML CSV Play, 
+c-fyns,, ,16 Dec 2023,Halifax (YHZ),Toronto (YYZ),AC609,2:04,12:10,12:24,13:44,,Landed 13:28,KML CSV Play, 
+c-fyns,, ,16 Dec 2023,Toronto (YYZ),Halifax (YHZ),AC604,1:34,08:00,08:15,11:07,,Landed 10:50,KML CSV Play, 
+c-fyns,, ,15 Dec 2023,New Orleans (MSY),Toronto (YYZ),AC1298,2:13,20:35,20:33,00:17,,Landed 23:46,KML CSV Play, 
+c-fyns,, ,15 Dec 2023,Toronto (YYZ),New Orleans (MSY),AC1299,2:38,17:15,17:33,19:32,,Landed 19:11,KML CSV Play, 
+c-fyns,, ,15 Dec 2023,Austin (AUS),Toronto (YYZ),AC1044,2:43,11:50,12:04,16:02,,Landed 15:48,KML CSV Play, 
+c-fyns,, ,15 Dec 2023,Toronto (YYZ),Austin (AUS),AC1043,3:11,08:00,08:18,10:47,,Landed 10:29,KML CSV Play, 
+c-fyns,, ,14 Dec 2023,Sarasota (SRQ),Toronto (YYZ),AC1247,2:30,21:20,21:24,00:16,,Landed 23:54,KML CSV Play, 
+c-fyns,, ,14 Dec 2023,Toronto (YYZ),Sarasota (SRQ),AC1246,2:27,17:15,17:40,20:22,,Landed 20:06,KML CSV Play, 
+c-fyns,, ,14 Dec 2023,Austin (AUS),Toronto (YYZ),AC1044,2:56,11:50,11:54,16:02,,Landed 15:49,KML CSV Play, 
+c-fyns,, ,14 Dec 2023,Toronto (YYZ),Austin (AUS),AC1043,3:04,08:00,08:21,10:47,,Landed 10:24,KML CSV Play, 
+c-fyns,, ,13 Dec 2023,New Orleans (MSY),Toronto (YYZ),AC1298,2:20,20:35,20:18,00:17,,Landed 23:39,KML CSV Play, 
+c-fyns,, ,13 Dec 2023,New Orleans (MSY),—,AC1299,-,18:56,—,—,,Unknown,KML CSV Play, 
+c-fyns,, ,13 Dec 2023,Toronto (YYZ),New Orleans (MSY),AC1299,2:29,17:15,17:27,19:32,,Landed 18:56,KML CSV Play, 
+c-fyns,, ,13 Dec 2023,Austin (AUS),Toronto (YYZ),AC1044,2:45,11:50,11:56,16:02,,Landed 15:42,KML CSV Play, 
+c-fyns,, ,13 Dec 2023,Toronto (YYZ),Austin (AUS),AC1043,3:23,08:00,08:06,10:47,,Landed 10:28,KML CSV Play, 
+c-fyns,, ,12 Dec 2023,Sarasota (SRQ),Toronto (YYZ),AC1247,2:22,21:20,21:26,00:16,,Landed 23:48,KML CSV Play, 
+c-fyns,, ,12 Dec 2023,Toronto (YYZ),Sarasota (SRQ),AC1246,2:42,17:15,17:29,20:22,,Landed 20:10,KML CSV Play, 
+c-fyns,, ,12 Dec 2023,Toronto (YYZ),—,AC1044,-,15:37,—,—,,Unknown,KML CSV Play, 
+c-fyns,, ,12 Dec 2023,Austin (AUS),Toronto (YYZ),AC1044,2:42,11:50,11:52,16:02,,Landed 15:34,KML CSV Play, 
+c-fyns,, ,12 Dec 2023,Toronto (YYZ),Austin (AUS),AC1043,3:18,08:00,08:07,10:47,,Landed 10:25,KML CSV Play, 
+c-fyns,, ,11 Dec 2023,Toronto (YYZ),—,AC1298,-,23:55,—,—,,Unknown,KML CSV Play, 
+c-fyns,, ,11 Dec 2023,New Orleans (MSY),Toronto (YYZ),AC1298,2:17,20:35,20:36,00:17,,Landed 23:53,KML CSV Play, 
+c-fyns,, ,11 Dec 2023,Toronto (YYZ),New Orleans (MSY),AC1299,2:32,17:15,17:41,19:32,,Landed 19:13,KML CSV Play, 
+c-fyns,, ,11 Dec 2023,Toronto (YYZ),—,AC1044,-,15:32,—,—,,Unknown,KML CSV Play, 
+c-fyns,, ,11 Dec 2023,Austin (AUS),Toronto (YYZ),AC1044,2:43,11:50,11:44,16:02,,Landed 15:27,KML CSV Play, 
+c-fyns,, ,11 Dec 2023,Toronto (YYZ),Austin (AUS),AC1043,3:02,08:00,08:28,10:47,,Landed 10:30,KML CSV Play, 
+c-fyns,, ,10 Dec 2023,New Orleans (MSY),Toronto (YYZ),AC1298,2:16,20:35,20:46,00:17,,Landed 00:02,KML CSV Play, 
+c-fyns,, ,10 Dec 2023,Toronto (YYZ),New Orleans (MSY),AC1299,2:45,17:15,17:28,19:32,,Landed 19:13,KML CSV Play, 
+c-fyns,, ,10 Dec 2023,Austin (AUS),Toronto (YYZ),AC1044,2:40,11:50,11:46,16:02,,Landed 15:26,KML CSV Play, 
+c-fyns,, ,10 Dec 2023,Toronto (YYZ),Austin (AUS),AC1043,3:14,08:00,08:09,10:47,,Landed 10:23,KML CSV Play, 
+c-fyns,, ,09 Dec 2023,Sarasota (SRQ),Toronto (YYZ),AC1247,2:17,21:20,22:55,00:16,,Landed 01:12,KML CSV Play, 
+c-fyns,, ,09 Dec 2023,Toronto (YYZ),Sarasota (SRQ),AC1246,2:39,17:15,19:08,20:22,,Landed 21:47,KML CSV Play, 
+c-fyns,, ,09 Dec 2023,Austin (AUS),Toronto (YYZ),AC1044,2:35,11:50,13:36,16:02,,Landed 17:11,KML CSV Play, 
+c-fyns,, ,09 Dec 2023,Toronto (YYZ),Austin (AUS),AC1043,3:31,08:00,09:40,10:47,,Landed 12:11,KML CSV Play, 
+c-fyns,, ,08 Dec 2023,New Orleans (MSY),Toronto (YYZ),AC1298,2:11,20:35,20:28,00:17,,Landed 23:39,KML CSV Play, 
+c-fyns,, ,08 Dec 2023,Toronto (YYZ),New Orleans (MSY),AC1299,2:44,17:15,17:33,19:32,,Landed 19:17,KML CSV Play, 
+c-fyns,, ,08 Dec 2023,Austin (AUS),Toronto (YYZ),AC1044,2:37,11:50,11:58,16:02,,Landed 15:35,KML CSV Play, 
+c-fyns,, ,08 Dec 2023,Toronto (YYZ),Austin (AUS),AC1043,3:05,08:00,08:22,10:47,,Landed 10:27,KML CSV Play, 
+c-fyns,, ,07 Dec 2023,Sarasota (SRQ),Toronto (YYZ),AC1247,2:31,21:20,21:12,00:16,,Landed 23:43,KML CSV Play, 
+c-fyns,, ,07 Dec 2023,Toronto (YYZ),Sarasota (SRQ),AC1246,2:29,17:15,17:40,20:22,,Landed 20:09,KML CSV Play, 
+c-fyns,, ,07 Dec 2023,Austin (AUS),Toronto (YYZ),AC1044,2:46,11:50,11:57,16:02,,Landed 15:43,KML CSV Play, 
+c-fyns,, ,07 Dec 2023,Toronto (YYZ),Austin (AUS),AC1043,2:57,08:00,08:20,10:47,,Landed 10:18,KML CSV Play, 
+c-fyns,, ,06 Dec 2023,Halifax (YHZ),Toronto (YYZ),AC619,1:55,18:55,19:34,20:37,,Landed 20:29,KML CSV Play, 
+c-fyns,, ,06 Dec 2023,Toronto (YYZ),Halifax (YHZ),AC612,1:41,14:50,15:19,17:53,,Landed 18:00,KML CSV Play, 
+c-fyns,, ,06 Dec 2023,Halifax (YHZ),Toronto (YYZ),AC609,1:55,12:10,12:53,13:44,,Landed 13:48,KML CSV Play, 
+c-fyns,, ,06 Dec 2023,Toronto (YYZ),Halifax (YHZ),AC604,1:47,08:00,08:34,11:07,,Landed 11:20,KML CSV Play, 
+c-fyns,, ,05 Dec 2023,Halifax (YHZ),Toronto (YYZ),AC619,1:56,18:55,19:59,20:37,,Landed 20:55,KML CSV Play, 
+c-fyns,, ,05 Dec 2023,Toronto (YYZ),Halifax (YHZ),AC612,1:42,14:50,15:40,17:53,,Landed 18:22,KML CSV Play, 
+c-fyns,, ,05 Dec 2023,Halifax (YHZ),Toronto (YYZ),AC609,1:54,12:10,12:48,13:44,,Landed 13:41,KML CSV Play, 
+c-fyns,, ,05 Dec 2023,Toronto (YYZ),Halifax (YHZ),AC604,1:36,08:00,08:29,11:07,,Landed 11:05,KML CSV Play, 
+c-fyns,, ,04 Dec 2023,New Orleans (MSY),Toronto (YYZ),AC1298,2:09,20:35,20:46,00:17,,Landed 23:55,KML CSV Play, 
+c-fyns,, ,04 Dec 2023,Toronto (YYZ),New Orleans (MSY),AC1299,2:44,17:15,17:58,19:32,,Landed 19:42,KML CSV Play, 
+c-fyns,, ,04 Dec 2023,Toronto (YYZ),—,AC1044,-,15:56,—,—,,Unknown,KML CSV Play, 
+c-fyns,, ,04 Dec 2023,Austin (AUS),Toronto (YYZ),AC1044,2:49,11:50,12:06,16:02,,Landed 15:55,KML CSV Play, 
+c-fyns,, ,04 Dec 2023,Toronto (YYZ),Austin (AUS),AC1043,3:08,08:00,08:13,10:47,,Landed 10:20,KML CSV Play, 
+c-fyns,, ,03 Dec 2023,New Orleans (MSY),Toronto (YYZ),AC1298,2:02,20:35,00:05,00:17,,Landed 03:07,KML CSV Play, 
+c-fyns,, ,03 Dec 2023,Toronto (YYZ),New Orleans (MSY),AC1299,2:58,17:15,20:50,19:32,,Landed 22:48,KML CSV Play, 
+c-fyns,, ,03 Dec 2023,Toronto (YYZ),—,AC1044,-,15:22,—,—,,Unknown,KML CSV Play, 
+c-fyns,, ,03 Dec 2023,Austin (AUS),Toronto (YYZ),AC1044,2:22,11:50,11:56,16:02,,Landed 15:18,KML CSV Play, 
+c-fyns,, ,03 Dec 2023,Toronto (YYZ),Austin (AUS),AC1043,3:26,08:00,08:19,10:47,,Landed 10:45,KML CSV Play, 
+c-fyns,, ,02 Dec 2023,Halifax (YHZ),Toronto (YYZ),AC619,2:20,18:55,19:06,20:37,,Landed 20:26,KML CSV Play, 
+c-fyns,, ,02 Dec 2023,Toronto (YYZ),Halifax (YHZ),AC612,1:33,14:50,15:19,17:53,,Landed 17:51,KML CSV Play, 
+c-fyns,, ,02 Dec 2023,Regina (YQR),Toronto (YYZ),AC2024,2:29,09:00,09:20,12:39,,Landed 12:49,KML CSV Play, 
+c-fyns,, ,01 Dec 2023,Toronto (YYZ),Regina (YQR),AC2123,2:57,12:10,12:47,14:14,,Landed 14:44,KML CSV Play, 
+c-fyns,, ,01 Dec 2023,Toronto (YYZ),—,AC1247,-,00:01,—,—,,Unknown,KML CSV Play, 
+c-fyns,, ,30 Nov 2023,Sarasota (SRQ),Toronto (YYZ),AC1247,2:29,21:20,21:26,00:16,,Landed 23:55,KML CSV Play, 
+c-fyns,, ,30 Nov 2023,Toronto (YYZ),Sarasota (SRQ),AC1246,2:38,17:15,17:38,20:22,,Landed 20:15,KML CSV Play, 
+c-fyns,, ,30 Nov 2023,Nashville (BNA),Toronto (YYZ),AC1104,1:26,10:25,10:52,13:26,,Landed 13:18,KML CSV Play, 
+c-fyns,, ,30 Nov 2023,Toronto (YYZ),Nashville (BNA),AC1105,1:38,08:15,09:01,09:29,,Landed 09:38,KML CSV Play, 
+c-fyns,, ,29 Nov 2023,Nashville (BNA),Toronto (YYZ),AC1104,1:41,10:25,10:44,13:26,,Landed 13:25,KML CSV Play, 
+c-fyns,, ,29 Nov 2023,Toronto (YYZ),Nashville (BNA),AC1105,1:34,08:15,08:55,09:29,,Landed 09:28,KML CSV Play, 
+c-fyns,, ,29 Nov 2023,Toronto (YYZ),—,AC621,-,00:26,—,—,,Unknown,KML CSV Play, 
+c-fyns,, ,28 Nov 2023,Halifax (YHZ),Toronto (YYZ),AC621,1:59,22:00,23:14,23:42,,Landed 00:13,KML CSV Play, 
+c-fyns,, ,28 Nov 2023,Toronto (YYZ),Halifax (YHZ),AC614,1:43,16:45,17:09,19:52,,Landed 19:52,KML CSV Play, 
+c-fyns,, ,28 Nov 2023,Toronto (YYZ),—,AC1104,-,13:22,—,—,,Unknown,KML CSV Play, 
+c-fyns,, ,28 Nov 2023,Nashville (BNA),Toronto (YYZ),AC1104,1:33,10:25,10:49,13:26,,Landed 13:22,KML CSV Play, 
+c-fyns,, ,28 Nov 2023,Toronto (YYZ),Nashville (BNA),AC1105,1:34,08:15,08:57,09:29,,Landed 09:31,KML CSV Play, 
+c-fyns,, ,27 Nov 2023,Halifax (YHZ),Toronto (YYZ),AC621,1:56,22:00,22:03,23:42,,Landed 22:59,KML CSV Play, 
+c-fyns,, ,27 Nov 2023,Toronto (YYZ),Halifax (YHZ),AC614,1:43,16:45,17:21,19:52,,Landed 20:04,KML CSV Play, 
+c-fyns,, ,27 Nov 2023,Nashville (BNA),Toronto (YYZ),AC1104,1:25,10:25,10:35,13:26,,Landed 13:00,KML CSV Play, 
+c-fyns,, ,27 Nov 2023,Toronto (YYZ),Nashville (BNA),AC1105,1:42,08:15,08:35,09:29,,Landed 09:17,KML CSV Play, 
+c-fyns,, ,26 Nov 2023,Toronto (YYZ),—,AC619,-,20:23,—,—,,Unknown,KML CSV Play, 
+c-fyns,, ,26 Nov 2023,Halifax (YHZ),Toronto (YYZ),AC619,2:04,18:55,19:17,20:37,,Landed 20:21,KML CSV Play, 
+c-fyns,, ,26 Nov 2023,Toronto (YYZ),Halifax (YHZ),AC612,1:37,14:50,15:10,17:53,,Landed 17:47,KML CSV Play, 
+c-fyns,, ,26 Nov 2023,Nashville (BNA),Toronto (YYZ),AC1104,1:20,10:25,11:02,13:26,,Landed 13:22,KML CSV Play, 
+c-fyns,, ,26 Nov 2023,Toronto (YYZ),Nashville (BNA),AC1105,1:47,08:15,09:06,09:29,,Landed 09:53,KML CSV Play, 
+c-fyns,, ,25 Nov 2023,Halifax (YHZ),Toronto (YYZ),AC619,2:05,18:55,19:16,20:37,,Landed 20:21,KML CSV Play, 
+c-fyns,, ,25 Nov 2023,Toronto (YYZ),Halifax (YHZ),AC612,1:33,14:50,15:16,17:53,,Landed 17:49,KML CSV Play, 
+c-fyns,, ,25 Nov 2023,Nashville (BNA),Toronto (YYZ),AC1104,1:27,10:25,10:37,13:26,,Landed 13:04,KML CSV Play, 
+c-fyns,, ,25 Nov 2023,Toronto (YYZ),Nashville (BNA),AC1105,1:38,08:15,08:50,09:29,,Landed 09:29,KML CSV Play, 
+c-fyns,, ,24 Nov 2023,New Orleans (MSY),Toronto (YYZ),AC1298,2:16,20:35,20:15,00:17,,Landed 23:31,KML CSV Play, 
+c-fyns,, ,24 Nov 2023,Toronto (YYZ),New Orleans (MSY),AC1299,2:42,17:15,17:29,19:32,,Landed 19:11,KML CSV Play, 
+c-fyns,, ,24 Nov 2023,Austin (AUS),Toronto (YYZ),AC1044,2:41,12:00,12:07,16:12,,Landed 15:48,KML CSV Play, 
+c-fyns,, ,24 Nov 2023,Toronto (YYZ),Austin (AUS),AC1043,3:18,08:10,08:41,10:57,,Landed 10:58,KML CSV Play, 
+c-fyns,, ,23 Nov 2023,Sarasota (SRQ),Toronto (YYZ),AC1247,2:19,21:20,21:15,00:16,,Landed 23:34,KML CSV Play, 
+c-fyns,, ,23 Nov 2023,Toronto (YYZ),Sarasota (SRQ),AC1246,2:39,17:15,17:32,20:22,,Landed 20:11,KML CSV Play, 
+c-fyns,, ,23 Nov 2023,Austin (AUS),Toronto (YYZ),AC1044,2:49,12:00,11:53,16:12,,Landed 15:41,KML CSV Play, 
+c-fyns,, ,23 Nov 2023,Toronto (YYZ),Austin (AUS),AC1043,3:05,08:10,08:21,10:57,,Landed 10:26,KML CSV Play, 
+c-fyns,, ,22 Nov 2023,New Orleans (MSY),Toronto (YYZ),AC1298,2:29,20:35,20:21,00:17,,Landed 23:50,KML CSV Play, 
+c-fyns,, ,22 Nov 2023,Toronto (YYZ),New Orleans (MSY),AC1299,2:31,17:15,17:23,19:32,,Landed 18:54,KML CSV Play, 
+c-fyns,, ,22 Nov 2023,Austin (AUS),Toronto (YYZ),AC1044,2:47,12:00,12:03,16:12,,Landed 15:50,KML CSV Play, 
+c-fyns,, ,22 Nov 2023,Toronto (YYZ),Austin (AUS),AC1043,2:56,08:10,08:31,10:57,,Landed 10:27,KML CSV Play, 
+c-fyns,, ,21 Nov 2023,Sarasota (SRQ),Toronto (YYZ),AC1247,2:18,21:20,21:47,00:16,,Landed 00:06,KML CSV Play, 
+c-fyns,, ,21 Nov 2023,Toronto (YYZ),Sarasota (SRQ),AC1246,2:56,17:15,17:35,20:22,,Landed 20:32,KML CSV Play, 
+c-fyns,, ,21 Nov 2023,Austin (AUS),Toronto (YYZ),AC1044,2:26,12:00,11:57,16:12,,Landed 15:23,KML CSV Play, 
+c-fyns,, ,21 Nov 2023,Toronto (YYZ),Austin (AUS),AC1043,3:18,08:10,08:27,10:57,,Landed 10:45,KML CSV Play, 
+c-fyns,, ,20 Nov 2023,New Orleans (MSY),Toronto (YYZ),AC1298,2:13,20:35,20:26,00:17,,Landed 23:40,KML CSV Play, 
+c-fyns,, ,20 Nov 2023,Toronto (YYZ),New Orleans (MSY),AC1299,2:54,17:15,17:20,19:32,,Landed 19:14,KML CSV Play, 
+c-fyns,, ,20 Nov 2023,Austin (AUS),Toronto (YYZ),AC1044,2:37,12:00,12:27,16:12,,Landed 16:04,KML CSV Play, 
+c-fyns,, ,20 Nov 2023,Toronto (YYZ),Austin (AUS),AC1043,3:32,08:10,08:35,10:57,,Landed 11:07,KML CSV Play, 
+c-fyns,, ,20 Nov 2023,Toronto (YYZ),—,AC1298,-,00:20,—,—,,Unknown,KML CSV Play, 
+c-fyns,, ,19 Nov 2023,New Orleans (MSY),Toronto (YYZ),AC1298,2:12,20:35,21:04,00:17,,Landed 00:16,KML CSV Play, 
+c-fyns,, ,19 Nov 2023,Toronto (YYZ),New Orleans (MSY),AC1299,2:36,17:15,18:23,19:32,,Landed 19:58,KML CSV Play, 
+c-fyns,, ,19 Nov 2023,Austin (AUS),Toronto (YYZ),AC1044,2:39,12:00,12:39,16:12,,Landed 16:18,KML CSV Play, 
+c-fyns,, ,19 Nov 2023,Toronto (YYZ),Austin (AUS),AC1043,3:07,08:10,08:34,10:57,,Landed 10:41,KML CSV Play, 
+c-fyns,, ,18 Nov 2023,Toronto (YYZ),—,AC619,-,20:07,—,—,,Unknown,KML CSV Play, 
+c-fyns,, ,18 Nov 2023,Halifax (YHZ),Toronto (YYZ),AC619,2:04,18:55,19:01,20:37,,Landed 20:04,KML CSV Play, 
+c-fyns,, ,18 Nov 2023,Toronto (YYZ),Halifax (YHZ),AC612,1:39,14:50,15:05,17:53,,Landed 17:44,KML CSV Play, 
+c-fyns,, ,18 Nov 2023,Nashville (BNA),Toronto (YYZ),AC1104,1:31,10:25,10:36,13:26,,Landed 13:07,KML CSV Play, 
+c-fyns,, ,18 Nov 2023,Toronto (YYZ),Nashville (BNA),AC1105,1:33,08:15,08:32,09:29,,Landed 09:05,KML CSV Play, 
+c-fyns,, ,18 Nov 2023,Halifax (YHZ),Toronto (YYZ),AC601,2:04,05:00,05:36,06:42,,Landed 06:40,KML CSV Play, 
+c-fyns,, ,17 Nov 2023,Toronto (YYZ),Halifax (YHZ),AC620,1:35,21:40,22:51,00:47,,Landed 01:26,KML CSV Play, 
+c-fyns,, ,17 Nov 2023,Halifax (YHZ),Toronto (YYZ),AC619,2:11,18:55,19:32,20:37,,Landed 20:43,KML CSV Play, 
+c-fyns,, ,17 Nov 2023,Toronto (YYZ),Halifax (YHZ),AC612,1:35,14:50,15:24,17:53,,Landed 17:59,KML CSV Play, 
+c-fyns,, ,17 Nov 2023,Nashville (BNA),Toronto (YYZ),AC1104,1:29,10:25,10:36,13:26,,Landed 13:06,KML CSV Play, 
+c-fyns,, ,17 Nov 2023,Toronto (YYZ),Nashville (BNA),AC1105,1:42,08:15,08:37,09:29,,Landed 09:19,KML CSV Play, 
+c-fyns,, ,17 Nov 2023,Ottawa (YOW),Toronto (YYZ),AC471,0:45,05:20,05:59,06:40,,Landed 06:45,KML CSV Play, 
+c-fyns,, ,16 Nov 2023,Toronto (YYZ),Ottawa (YOW),AC470,0:40,22:10,22:47,23:15,,Landed 23:27,KML CSV Play, 
+c-fyns,, ,16 Nov 2023,Halifax (YHZ),Toronto (YYZ),AC619,2:04,18:55,19:20,20:37,,Landed 20:24,KML CSV Play, 
+c-fyns,, ,16 Nov 2023,Toronto (YYZ),Halifax (YHZ),AC612,1:37,14:50,15:14,17:53,,Landed 17:52,KML CSV Play, 
+c-fyns,, ,16 Nov 2023,Nashville (BNA),Toronto (YYZ),AC1104,1:32,10:25,10:26,13:26,,Landed 12:58,KML CSV Play, 
+c-fyns,, ,16 Nov 2023,Toronto (YYZ),Nashville (BNA),AC1105,1:37,08:15,08:26,09:29,,Landed 09:03,KML CSV Play, 
+c-fyns,, ,15 Nov 2023,Halifax (YHZ),Toronto (YYZ),AC619,2:01,18:55,20:01,20:37,,Landed 21:02,KML CSV Play, 
+c-fyns,, ,15 Nov 2023,Toronto (YYZ),Halifax (YHZ),AC612,1:39,14:50,15:40,17:53,,Landed 18:19,KML CSV Play, 
+c-fyns,, ,15 Nov 2023,Nashville (BNA),Toronto (YYZ),AC1104,1:29,10:25,11:08,13:26,,Landed 13:37,KML CSV Play, 
+c-fyns,, ,15 Nov 2023,Toronto (YYZ),Nashville (BNA),AC1105,1:34,08:15,08:50,09:29,,Landed 09:25,KML CSV Play, 
+c-fyns,, ,14 Nov 2023,Sarasota (SRQ),Toronto (YYZ),AC1247,2:23,21:20,21:25,00:16,,Landed 23:48,KML CSV Play, 
+c-fyns,, ,14 Nov 2023,Toronto (YYZ),Sarasota (SRQ),AC1246,2:22,17:15,17:48,20:22,,Landed 20:11,KML CSV Play, 
+c-fyns,, ,14 Nov 2023,Austin (AUS),Toronto (YYZ),AC1044,2:52,12:00,12:01,16:12,,Landed 15:54,KML CSV Play, 
+c-fyns,, ,14 Nov 2023,Toronto (YYZ),Austin (AUS),AC1043,3:16,08:10,08:18,10:57,,Landed 10:33,KML CSV Play, 
+c-fyns,, ,13 Nov 2023,Toronto (YYZ),—,AC1298,-,23:45,—,—,,Unknown,KML CSV Play, 
+c-fyns,, ,13 Nov 2023,New Orleans (MSY),Toronto (YYZ),AC1298,2:16,20:35,20:27,00:17,,Landed 23:43,KML CSV Play, 
+c-fyns,, ,13 Nov 2023,Toronto (YYZ),New Orleans (MSY),AC1299,2:35,17:15,17:27,19:32,,Landed 19:02,KML CSV Play, 
+c-fyns,, ,13 Nov 2023,Austin (AUS),Toronto (YYZ),AC1044,2:42,12:00,12:04,16:12,,Landed 15:46,KML CSV Play, 
+c-fyns,, ,13 Nov 2023,Toronto (YYZ),Austin (AUS),AC1043,3:21,08:10,08:32,10:57,,Landed 10:53,KML CSV Play, 
+c-fyns,, ,12 Nov 2023,Halifax (YHZ),Toronto (YYZ),AC619,1:55,18:55,19:22,20:37,,Landed 20:17,KML CSV Play, 
+c-fyns,, ,12 Nov 2023,Toronto (YYZ),Halifax (YHZ),AC612,1:38,14:50,15:01,17:53,,Landed 17:40,KML CSV Play, 
+c-fyns,, ,12 Nov 2023,Nashville (BNA),Toronto (YYZ),AC1104,1:29,10:25,10:42,13:26,,Landed 13:11,KML CSV Play, 
+c-fyns,, ,12 Nov 2023,Toronto (YYZ),Nashville (BNA),AC1105,1:38,08:15,08:54,09:29,,Landed 09:32,KML CSV Play, 
+c-fyns,, ,11 Nov 2023,Sarasota (SRQ),Toronto (YYZ),AC1247,2:20,21:20,21:15,00:16,,Landed 23:35,KML CSV Play, 
+c-fyns,, ,11 Nov 2023,Toronto (YYZ),Sarasota (SRQ),AC1246,2:38,17:15,17:30,20:22,,Landed 20:08,KML CSV Play, 
+c-fyns,, ,11 Nov 2023,Austin (AUS),Toronto (YYZ),AC1044,2:32,12:00,12:24,16:12,,Landed 15:56,KML CSV Play, 
+c-fyns,, ,11 Nov 2023,Toronto (YYZ),Austin (AUS),AC1043,3:24,08:10,08:46,10:57,,Landed 11:10,KML CSV Play, 
+c-fyns,, ,10 Nov 2023,New Orleans (MSY),Toronto (YYZ),AC1298,2:07,20:35,21:03,00:17,,Landed 00:11,KML CSV Play, 
+c-fyns,, ,10 Nov 2023,Toronto (YYZ),New Orleans (MSY),AC1299,2:54,17:15,18:10,19:32,,Landed 20:05,KML CSV Play, 
+c-fyns,, ,10 Nov 2023,Austin (AUS),Toronto (YYZ),AC1044,2:24,12:00,13:19,16:12,,Landed 16:43,KML CSV Play, 
+c-fyns,, ,10 Nov 2023,Toronto (YYZ),Austin (AUS),AC1043,3:37,08:10,09:29,10:57,,Landed 12:07,KML CSV Play, 
+c-fyns,, ,09 Nov 2023,Austin (AUS),Toronto (YYZ),AC1044,2:24,12:00,19:02,16:12,,Landed 22:26,KML CSV Play, 
+c-fyns,, ,09 Nov 2023,Toronto (YYZ),Austin (AUS),AC1043,3:30,08:10,15:16,10:57,,Landed 17:46,KML CSV Play, 
+c-fyns,, ,08 Nov 2023,New Orleans (MSY),Toronto (YYZ),AC1298,2:11,20:35,20:46,00:17,,Landed 23:57,KML CSV Play, 
+c-fyns,, ,08 Nov 2023,Toronto (YYZ),New Orleans (MSY),AC1299,2:34,17:15,18:08,19:32,,Landed 19:43,KML CSV Play, 
+c-fyns,, ,08 Nov 2023,Austin (AUS),Toronto (YYZ),AC1044,2:44,12:00,12:13,16:12,,Landed 15:57,KML CSV Play, 
+c-fyns,, ,08 Nov 2023,Toronto (YYZ),Austin (AUS),AC1043,3:10,08:10,08:55,10:57,,Landed 11:05,KML CSV Play, 
+c-fyns,, ,07 Nov 2023,Halifax (YHZ),Toronto (YYZ),AC619,1:55,18:55,18:56,20:37,,Landed 19:51,KML CSV Play, 
+c-fyns,, ,07 Nov 2023,Toronto (YYZ),Halifax (YHZ),AC612,1:43,14:50,14:59,17:53,,Landed 17:43,KML CSV Play, 
+c-fyns,, ,07 Nov 2023,Nashville (BNA),Toronto (YYZ),AC1104,1:34,10:25,10:30,13:26,,Landed 13:04,KML CSV Play, 
+c-fyns,, ,07 Nov 2023,Toronto (YYZ),Nashville (BNA),AC1105,1:32,08:15,08:39,09:29,,Landed 09:12,KML CSV Play, 
+c-fyns,, ,06 Nov 2023,Halifax (YHZ),Toronto (YYZ),AC619,2:03,18:55,19:39,20:37,,Landed 20:42,KML CSV Play, 
+c-fyns,, ,06 Nov 2023,Toronto (YYZ),Halifax (YHZ),AC612,1:40,14:50,15:34,17:53,,Landed 18:14,KML CSV Play, 
+c-fyns,, ,06 Nov 2023,Nashville (BNA),Toronto (YYZ),AC1104,1:28,10:25,10:43,13:26,,Landed 13:11,KML CSV Play, 
+c-fyns,, ,06 Nov 2023,Toronto (YYZ),Nashville (BNA),AC1105,1:35,08:15,08:55,09:29,,Landed 09:30,KML CSV Play, 
+c-fyns,, ,05 Nov 2023,Halifax (YHZ),Toronto (YYZ),AC619,2:05,18:55,19:21,20:37,,Landed 20:26,KML CSV Play, 
+c-fyns,, ,05 Nov 2023,Toronto (YYZ),Halifax (YHZ),AC612,1:41,14:50,15:17,17:53,,Landed 17:58,KML CSV Play, 
+c-fyns,, ,05 Nov 2023,Nashville (BNA),Toronto (YYZ),AC1104,1:35,10:25,10:28,13:26,,Landed 13:03,KML CSV Play, 
+c-fyns,, ,05 Nov 2023,Toronto (YYZ),Nashville (BNA),AC1105,1:24,08:15,08:27,09:29,,Landed 08:51,KML CSV Play, 
+c-fyns,, ,04 Nov 2023,Sarasota (SRQ),Toronto (YYZ),AC1247,2:23,21:20,21:27,00:16,,Landed 23:50,KML CSV Play, 
+c-fyns,, ,04 Nov 2023,Toronto (YYZ),Sarasota (SRQ),AC1246,2:35,17:15,17:44,20:22,,Landed 20:19,KML CSV Play, 
+c-fyns,, ,04 Nov 2023,Austin (AUS),Toronto (YYZ),AC1044,2:43,12:00,12:32,16:12,,Landed 16:15,KML CSV Play, 
+c-fyns,, ,04 Nov 2023,Toronto (YYZ),Austin (AUS),AC1043,3:20,08:10,08:45,10:57,,Landed 11:04,KML CSV Play, 
+c-fyns,, ,04 Nov 2023,Halifax (YHZ),Toronto (YYZ),AC601,2:10,05:00,05:25,06:42,,Landed 06:36,KML CSV Play, 
+c-fyns,, ,03 Nov 2023,Toronto (YYZ),Halifax (YHZ),AC620,1:40,21:40,21:53,00:47,,Landed 00:33,KML CSV Play, 
+c-fyns,, ,03 Nov 2023,Halifax (YHZ),Toronto (YYZ),AC619,2:14,18:55,19:10,20:37,,Landed 20:24,KML CSV Play, 
+c-fyns,, ,03 Nov 2023,Toronto (YYZ),Halifax (YHZ),AC612,1:39,14:50,15:11,17:53,,Landed 17:50,KML CSV Play, 
+c-fyns,, ,03 Nov 2023,Montreal (YUL),Toronto (YYZ),AC7061,0:59,09:00,13:00,10:04,,Landed 13:59,KML CSV Play, 
+c-fyns,, ,02 Nov 2023,Toronto (YYZ),Montreal (YUL),AC420,0:54,17:00,17:21,18:20,,Landed 18:15,KML CSV Play, 
+c-fyns,, ,02 Nov 2023,Austin (AUS),Toronto (YYZ),AC1044,2:43,12:00,12:02,16:12,,Landed 15:45,KML CSV Play, 
+c-fyns,, ,02 Nov 2023,Toronto (YYZ),Austin (AUS),AC1043,3:14,08:10,08:37,10:57,,Landed 10:50,KML CSV Play, 
+c-fyns,, ,01 Nov 2023,New Orleans (MSY),Toronto (YYZ),AC1298,2:17,20:35,20:51,00:17,,Landed 00:07,KML CSV Play, 
+c-fyns,, ,01 Nov 2023,Toronto (YYZ),New Orleans (MSY),AC1299,2:34,17:15,17:49,19:32,,Landed 19:22,KML CSV Play, 
+c-fyns,, ,01 Nov 2023,Austin (AUS),Toronto (YYZ),AC1044,2:47,12:00,12:42,16:12,,Landed 16:29,KML CSV Play, 
+c-fyns,, ,01 Nov 2023,Toronto (YYZ),Austin (AUS),AC1043,3:07,08:10,09:14,10:57,,Landed 11:20,KML CSV Play, 
+c-fyns,, ,31 Oct 2023,Austin (AUS),Toronto (YYZ),AC1044,2:33,12:00,12:35,16:12,,Landed 16:08,KML CSV Play, 
+c-fyns,, ,31 Oct 2023,Toronto (YYZ),Austin (AUS),AC1043,3:31,08:10,08:55,10:57,,Landed 11:26,KML CSV Play, 
+c-fyns,, ,31 Oct 2023,—,—,(CFYNS),-,—,—,—,,Unknown,KML CSV Play, 
+c-fyns,, ,30 Oct 2023,Halifax (YHZ),Toronto (YYZ),AC619,2:44,18:55,19:27,20:37,,Landed 21:12,KML CSV Play, 
+c-fyns,, ,30 Oct 2023,Toronto (YYZ),Halifax (YHZ),AC612,1:25,14:50,15:25,17:53,,Landed 17:50,KML CSV Play, 
+c-fyns,, ,30 Oct 2023,Toronto (YYZ),Toronto (YYZ),AC1104,-,13:54,—,13:49,,Landed 13:49,KML CSV Play, 
+c-fyns,, ,30 Oct 2023,Nashville (BNA),Toronto (YYZ),AC1104,1:18,10:25,11:26,13:26,,Landed 13:44,KML CSV Play, 
+c-fyns,, ,30 Oct 2023,Toronto (YYZ),Nashville (BNA),AC1105,1:55,08:15,09:21,09:29,,Landed 10:16,KML CSV Play, 
+c-fyns,, ,30 Oct 2023,Ottawa (YOW),Toronto (YYZ),AC439,0:55,06:00,06:58,07:21,,Landed 07:53,KML CSV Play, 
+c-fyns,, ,29 Oct 2023,Toronto (YYZ),Ottawa (YOW),AC466,0:36,20:10,20:30,21:15,,Landed 21:06,KML CSV Play, 
+c-fyns,, ,29 Oct 2023,Austin (AUS),Toronto (YYZ),AC1044,2:24,12:00,15:29,16:12,,Landed 18:53,KML CSV Play, 
+c-fyns,, ,29 Oct 2023,Toronto (YYZ),Austin (AUS),AC1043,3:34,08:10,11:33,10:57,,Landed 14:07,KML CSV Play, 
+c-fyns,, ,28 Oct 2023,Quebec (YQB),Toronto (YYZ),AC1105,1:20,20:55,20:49,22:31,,Landed 22:09,KML CSV Play, 
+c-fyns,, ,28 Oct 2023,Toronto (YYZ),Quebec (YQB),AC1102,1:05,18:30,18:39,19:55,,Landed 19:44,KML CSV Play, 
+c-fyns,, ,28 Oct 2023,Saskatoon (YXE),Toronto (YYZ),AC1122,2:41,12:10,12:31,17:20,,Landed 17:12,KML CSV Play, 
+c-fyns,, ,28 Oct 2023,Toronto (YYZ),Saskatoon (YXE),AC1121,3:17,09:45,10:02,11:17,,Landed 11:19,KML CSV Play, 
+c-fyns,, ,27 Oct 2023,Montreal (YUL),Toronto (YYZ),AC427,0:52,20:10,20:27,21:34,,Landed 21:20,KML CSV Play, 
+c-fyns,, ,27 Oct 2023,Toronto (YYZ),Montreal (YUL),AC422,0:50,18:00,18:17,19:16,,Landed 19:08,KML CSV Play, 
+c-fyns,, ,27 Oct 2023,Montreal (YUL),Toronto (YYZ),AC411,0:52,12:00,12:16,13:24,,Landed 13:08,KML CSV Play, 
+c-fyns,, ,27 Oct 2023,Toronto (YYZ),Montreal (YUL),AC402,0:48,08:00,09:42,09:16,,Landed 10:30,KML CSV Play, 
+c-fyns,, ,27 Oct 2023,St. John's (YYT),Toronto (YYZ),AC685,3:05,05:10,06:38,07:17,,Landed 08:13,KML CSV Play, 
+c-fyns,, ,26 Oct 2023,Toronto (YYZ),St. John's (YYT),AC696,2:34,20:55,21:03,01:25,,Landed 01:07,KML CSV Play, 
+c-fyns,, ,26 Oct 2023,Ottawa (YOW),Toronto (YYZ),AC463,0:44,18:00,18:22,19:08,,Landed 19:07,KML CSV Play, 
+c-fyns,, ,26 Oct 2023,Toronto (YYZ),Ottawa (YOW),AC458,0:41,16:10,16:30,17:12,,Landed 17:11,KML CSV Play, 
+c-fyns,, ,26 Oct 2023,Ottawa (YOW),Toronto (YYZ),AC447,0:39,10:00,10:16,11:08,,Landed 10:55,KML CSV Play, 
+c-fyns,, ,26 Oct 2023,Toronto (YYZ),Ottawa (YOW),AC442,0:40,08:10,08:38,09:12,,Landed 09:18,KML CSV Play, 
+c-fyns,, ,25 Oct 2023,Quebec (YQB),Toronto (YYZ),AC1105,1:16,20:55,20:59,22:31,,Landed 22:15,KML CSV Play, 
+c-fyns,, ,25 Oct 2023,Toronto (YYZ),Quebec (YQB),AC1102,1:03,18:30,19:09,19:55,,Landed 20:13,KML CSV Play, 
+c-fyns,, ,25 Oct 2023,Saskatoon (YXE),Toronto (YYZ),AC1122,2:32,12:10,12:48,17:20,,Landed 17:20,KML CSV Play, 
+c-fyns,, ,25 Oct 2023,Toronto (YYZ),Saskatoon (YXE),AC1121,3:30,09:45,09:56,11:17,,Landed 11:26,KML CSV Play, 
+c-fyns,, ,24 Oct 2023,Quebec (YQB),Toronto (YYZ),AC1105,1:14,20:55,20:53,22:31,,Landed 22:06,KML CSV Play, 
+c-fyns,, ,24 Oct 2023,Toronto (YYZ),Quebec (YQB),AC1102,1:05,18:30,18:37,19:55,,Landed 19:42,KML CSV Play, 
+c-fyns,, ,24 Oct 2023,Saskatoon (YXE),Toronto (YYZ),AC1122,2:45,12:10,12:19,17:20,,Landed 17:05,KML CSV Play, 
+c-fyns,, ,24 Oct 2023,Toronto (YYZ),Saskatoon (YXE),AC1121,3:21,09:45,09:49,11:17,,Landed 11:10,KML CSV Play, 
+c-fyns,, ,23 Oct 2023,Quebec (YQB),Toronto (YYZ),AC1105,1:08,20:55,20:53,22:31,,Landed 22:01,KML CSV Play, 
+c-fyns,, ,23 Oct 2023,Toronto (YYZ),Quebec (YQB),AC1102,1:10,18:30,18:39,19:55,,Landed 19:49,KML CSV Play, 
+c-fyns,, ,23 Oct 2023,Saskatoon (YXE),Toronto (YYZ),AC1122,2:38,12:10,12:21,17:20,,Landed 16:59,KML CSV Play, 
+c-fyns,, ,23 Oct 2023,Toronto (YYZ),Saskatoon (YXE),AC1121,3:11,09:45,10:01,11:17,,Landed 11:12,KML CSV Play, 
+c-fyns,, ,22 Oct 2023,Quebec (YQB),Toronto (YYZ),AC1105,1:03,20:55,20:57,22:31,,Landed 22:00,KML CSV Play, 
+c-fyns,, ,22 Oct 2023,Toronto (YYZ),Quebec (YQB),AC1102,1:09,18:30,18:42,19:55,,Landed 19:51,KML CSV Play, 
+c-fyns,, ,22 Oct 2023,Saskatoon (YXE),Toronto (YYZ),AC1122,2:36,12:10,12:24,17:20,,Landed 17:00,KML CSV Play, 
+c-fyns,, ,22 Oct 2023,Toronto (YYZ),Saskatoon (YXE),AC1121,3:09,09:45,10:08,11:17,,Landed 11:18,KML CSV Play, 
+c-fyns,, ,21 Oct 2023,Edmonton (YEG),Toronto (YYZ),AC168,3:08,14:05,14:42,19:49,,Landed 19:50,KML CSV Play, 
+c-fyns,, ,21 Oct 2023,Toronto (YYZ),Edmonton (YEG),AC167,3:56,11:05,11:18,13:19,,Landed 13:14,KML CSV Play, 
+c-fyns,, ,21 Oct 2023,St. John's (YYT),Toronto (YYZ),AC685,3:13,05:10,05:23,07:17,,Landed 07:05,KML CSV Play, 
+c-fyns,, ,20 Oct 2023,Toronto (YYZ),St. John's (YYT),AC696,2:31,20:55,21:55,01:25,,Landed 01:55,KML CSV Play, 
+c-fyns,, ,20 Oct 2023,St. John's (YYT),Toronto (YYZ),AC697,3:16,17:55,18:31,20:02,,Landed 20:17,KML CSV Play, 
+c-fyns,, ,20 Oct 2023,Toronto (YYZ),St. John's (YYT),AC690,2:33,12:35,13:15,17:05,,Landed 17:19,KML CSV Play, 
+c-fyns,, ,20 Oct 2023,Ottawa (YOW),Toronto (YYZ),AC447,0:42,10:00,10:37,11:08,,Landed 11:18,KML CSV Play, 
+c-fyns,, ,20 Oct 2023,Toronto (YYZ),Ottawa (YOW),AC442,0:40,08:10,08:47,09:12,,Landed 09:28,KML CSV Play, 
+c-fyns,, ,20 Oct 2023,Toronto (YYZ),—,AC685,-,07:17,—,—,,Unknown,KML CSV Play, 
+c-fyns,, ,20 Oct 2023,St. John's (YYT),Toronto (YYZ),AC685,3:09,05:10,05:30,07:17,,Landed 07:09,KML CSV Play, 
+c-fyns,, ,19 Oct 2023,Toronto (YYZ),St. John's (YYT),AC696,2:35,20:55,22:10,01:25,,Landed 02:15,KML CSV Play, 
+c-fyns,, ,19 Oct 2023,St. John's (YYT),Toronto (YYZ),AC697,3:16,17:55,18:45,20:02,,Landed 20:32,KML CSV Play, 
+c-fyns,, ,19 Oct 2023,Toronto (YYZ),St. John's (YYT),AC690,2:43,12:35,13:06,17:05,,Landed 17:19,KML CSV Play, 
+c-fyns,, ,19 Oct 2023,Ottawa (YOW),Toronto (YYZ),AC447,0:42,10:00,10:41,11:08,,Landed 11:23,KML CSV Play, 
+c-fyns,, ,19 Oct 2023,Toronto (YYZ),Ottawa (YOW),AC442,0:43,08:10,09:06,09:12,,Landed 09:49,KML CSV Play, 
+c-fyns,, ,18 Oct 2023,Montreal (YUL),Toronto (YYZ),AC429,0:48,21:30,22:17,22:54,,Landed 23:04,KML CSV Play, 
+c-fyns,, ,18 Oct 2023,Halifax (YHZ),Montreal (YUL),AC669,1:11,20:05,20:56,20:40,,Landed 21:07,KML CSV Play, 
+c-fyns,, ,18 Oct 2023,Montreal (YUL),Halifax (YHZ),AC668,1:11,16:45,17:25,19:15,,Landed 19:36,KML CSV Play, 
+c-fyns,, ,18 Oct 2023,Toronto (YYZ),Montreal (YUL),AC414,0:52,14:00,14:44,15:16,,Landed 15:35,KML CSV Play, 
+c-fyns,, ,18 Oct 2023,Toronto (YYZ),—,AC451,-,13:22,—,—,,Unknown,KML CSV Play, 
+c-fyns,, ,18 Oct 2023,Ottawa (YOW),Toronto (YYZ),AC451,0:39,12:00,12:39,13:08,,Landed 13:17,KML CSV Play, 
+c-fyns,, ,18 Oct 2023,Toronto (YYZ),Ottawa (YOW),AC446,0:39,10:10,11:01,11:12,,Landed 11:41,KML CSV Play, 
+c-fyns,, ,18 Oct 2023,Montreal (YUL),Toronto (YYZ),AC403,0:48,08:00,08:39,09:24,,Landed 09:27,KML CSV Play, 
+c-fyns,, ,18 Oct 2023,Edmonton (YEG),Montreal (YUL),AC332,3:48,01:10,01:24,07:10,,Landed 07:12,KML CSV Play, 
+c-fyns,, ,17 Oct 2023,Montreal (YUL),Edmonton (YEG),AC337,4:04,20:45,21:04,23:24,,Landed 23:08,KML CSV Play, 
+c-fyns,, ,17 Oct 2023,New York (LGA),Montreal (YUL),AC731,1:02,15:25,16:00,16:55,,Landed 17:01,KML CSV Play, 
+c-fyns,, ,17 Oct 2023,Montreal (YUL),New York (LGA),AC730,1:02,13:00,13:27,14:31,,Landed 14:28,KML CSV Play, 
+c-fyns,, ,17 Oct 2023,Miami (MIA),Montreal (YUL),AC1207,3:01,08:10,08:44,11:43,,Landed 11:44,KML CSV Play, 
+c-fyns,, ,16 Oct 2023,Montreal (YUL),Miami (MIA),AC1208,3:16,18:10,18:38,21:37,,Landed 21:54,KML CSV Play, 
+c-fyns,, ,16 Oct 2023,Toronto (YYZ),Montreal (YUL),AC412,0:54,13:00,14:24,14:16,,Landed 15:18,KML CSV Play, 
+c-fyns,, ,16 Oct 2023,Montreal (YUL),Toronto (YYZ),AC409,0:49,11:00,12:00,12:24,,Landed 12:49,KML CSV Play, 
+c-fyns,, ,16 Oct 2023,Toronto (YYZ),Montreal (YUL),AC404,0:54,09:00,09:41,10:16,,Landed 10:35,KML CSV Play, 
+c-fyns,, ,15 Oct 2023,St. John's (YYT),Toronto (YYZ),AC697,2:58,17:55,18:58,20:02,,Landed 20:26,KML CSV Play, 
+c-fyns,, ,15 Oct 2023,Toronto (YYZ),St. John's (YYT),AC690,2:39,12:35,12:58,17:05,,Landed 17:07,KML CSV Play, 
+c-fyns,, ,15 Oct 2023,Ottawa (YOW),Toronto (YYZ),AC447,0:41,10:00,10:10,11:08,,Landed 10:51,KML CSV Play, 
+c-fyns,, ,15 Oct 2023,Toronto (YYZ),Ottawa (YOW),AC442,0:43,08:10,08:36,09:12,,Landed 09:19,KML CSV Play, 
+c-fyns,, ,14 Oct 2023,St. John's (YYT),Toronto (YYZ),AC697,2:56,17:55,21:53,20:02,,Landed 23:19,KML CSV Play, 
+c-fyns,, ,14 Oct 2023,Toronto (YYZ),St. John's (YYT),AC690,2:40,12:35,16:34,17:05,,Landed 20:45,KML CSV Play, 
+c-fyns,, ,14 Oct 2023,Ottawa (YOW),Toronto (YYZ),AC455,0:46,14:00,14:13,15:08,,Landed 14:59,KML CSV Play, 
+c-fyns,, ,14 Oct 2023,Toronto (YYZ),Ottawa (YOW),AC450,0:37,12:10,12:21,13:12,,Landed 12:58,KML CSV Play, 
+c-fyns,, ,14 Oct 2023,Ottawa (YOW),Toronto (YYZ),AC447,0:42,10:00,10:14,11:08,,Landed 10:56,KML CSV Play, 
+c-fyns,, ,14 Oct 2023,Toronto (YYZ),Ottawa (YOW),AC442,0:40,08:10,08:23,09:12,,Landed 09:03,KML CSV Play, 
+c-fyns,, ,14 Oct 2023,St. John's (YYT),Toronto (YYZ),AC685,2:53,05:10,05:20,07:17,,Landed 06:43,KML CSV Play, 
+c-fyns,, ,13 Oct 2023,Toronto (YYZ),St. John's (YYT),AC696,2:40,20:55,21:17,01:25,,Landed 01:27,KML CSV Play, 
+c-fyns,, ,13 Oct 2023,Ottawa (YOW),Toronto (YYZ),AC463,0:46,18:00,18:56,19:08,,Landed 19:42,KML CSV Play, 
+c-fyns,, ,13 Oct 2023,Toronto (YYZ),Ottawa (YOW),AC458,0:38,16:10,17:05,17:12,,Landed 17:43,KML CSV Play, 
+c-fyns,, ,13 Oct 2023,Montreal (YUL),Toronto (YYZ),AC415,0:58,14:00,14:35,15:24,,Landed 15:33,KML CSV Play, 
+c-fyns,, ,13 Oct 2023,Toronto (YYZ),Montreal (YUL),AC410,0:51,12:00,12:17,13:16,,Landed 13:08,KML CSV Play, 
+c-fyns,, ,13 Oct 2023,Ottawa (YOW),Toronto (YYZ),AC447,0:43,10:00,10:01,11:08,,Landed 10:43,KML CSV Play, 
+c-fyns,, ,13 Oct 2023,Toronto (YYZ),Ottawa (YOW),AC442,0:40,08:10,08:26,09:12,,Landed 09:06,KML CSV Play, 
+c-fyns,, ,13 Oct 2023,St. John's (YYT),Toronto (YYZ),AC685,2:57,05:10,05:24,07:17,,Landed 06:51,KML CSV Play, 
+c-fyns,, ,12 Oct 2023,Toronto (YYZ),St. John's (YYT),AC696,2:32,20:55,21:59,01:25,,Landed 02:01,KML CSV Play, 
+c-fyns,, ,12 Oct 2023,St. John's (YYT),Toronto (YYZ),AC697,3:13,17:55,18:19,20:02,,Landed 20:02,KML CSV Play, 
+c-fyns,, ,12 Oct 2023,Toronto (YYZ),St. John's (YYT),AC690,2:36,12:35,12:54,17:05,,Landed 17:00,KML CSV Play, 
+c-fyns,, ,12 Oct 2023,Ottawa (YOW),Toronto (YYZ),AC447,0:46,10:00,10:05,11:08,,Landed 10:51,KML CSV Play, 
+c-fyns,, ,12 Oct 2023,Toronto (YYZ),Ottawa (YOW),AC442,0:39,08:10,08:18,09:12,,Landed 08:57,KML CSV Play, 
+c-fyns,, ,12 Oct 2023,St. John's (YYT),Toronto (YYZ),AC685,3:01,05:10,05:24,07:17,,Landed 06:55,KML CSV Play, 
+c-fyns,, ,11 Oct 2023,Toronto (YYZ),St. John's (YYT),AC696,2:35,20:55,21:07,01:25,,Landed 01:12,KML CSV Play, 
+c-fyns,, ,11 Oct 2023,St. John's (YYT),Toronto (YYZ),AC697,3:00,17:55,18:10,20:02,,Landed 19:39,KML CSV Play, 
+c-fyns,, ,11 Oct 2023,Toronto (YYZ),St. John's (YYT),AC690,2:39,12:35,12:44,17:05,,Landed 16:53,KML CSV Play, 
+c-fyns,, ,11 Oct 2023,Ottawa (YOW),Toronto (YYZ),AC447,0:41,10:00,09:58,11:08,,Landed 10:39,KML CSV Play, 
+c-fyns,, ,11 Oct 2023,Toronto (YYZ),Ottawa (YOW),AC442,0:40,08:10,08:21,09:12,,Landed 09:00,KML CSV Play, 
+c-fyns,, ,10 Oct 2023,Quebec (YQB),Toronto (YYZ),AC1105,1:12,20:55,20:49,22:31,,Landed 22:00,KML CSV Play, 
+c-fyns,, ,10 Oct 2023,Toronto (YYZ),Quebec (YQB),AC1102,1:06,18:30,18:40,19:55,,Landed 19:46,KML CSV Play, 
+c-fyns,, ,10 Oct 2023,Saskatoon (YXE),Toronto (YYZ),AC1122,2:52,12:10,12:22,17:20,,Landed 17:13,KML CSV Play, 
+c-fyns,, ,10 Oct 2023,Toronto (YYZ),Saskatoon (YXE),AC1121,3:06,09:45,10:01,11:17,,Landed 11:07,KML CSV Play, 
+c-fyns,, ,09 Oct 2023,Quebec (YQB),Toronto (YYZ),AC1105,1:09,20:55,20:54,22:31,,Landed 22:03,KML CSV Play, 
+c-fyns,, ,09 Oct 2023,Toronto (YYZ),Quebec (YQB),AC1102,1:07,18:30,18:34,19:55,,Landed 19:42,KML CSV Play, 
+c-fyns,, ,09 Oct 2023,Toronto (YYZ),—,AC1122,-,17:04,—,—,,Unknown,KML CSV Play, 
+c-fyns,, ,09 Oct 2023,Saskatoon (YXE),Toronto (YYZ),AC1122,2:52,12:10,12:05,17:20,,Landed 16:57,KML CSV Play, 
+c-fyns,, ,09 Oct 2023,Toronto (YYZ),Saskatoon (YXE),AC1121,2:57,09:45,09:58,11:17,,Landed 10:55,KML CSV Play, 
+c-fyns,, ,08 Oct 2023,Quebec (YQB),Toronto (YYZ),AC1105,1:08,20:55,21:08,22:31,,Landed 22:16,KML CSV Play, 
+c-fyns,, ,08 Oct 2023,Toronto (YYZ),Quebec (YQB),AC1102,1:13,18:30,18:54,19:55,,Landed 20:06,KML CSV Play, 
+c-fyns,, ,08 Oct 2023,Saskatoon (YXE),Toronto (YYZ),AC1122,2:48,12:25,12:27,17:35,,Landed 17:15,KML CSV Play, 
+c-fyns,, ,08 Oct 2023,Toronto (YYZ),Saskatoon (YXE),AC1121,3:02,10:00,10:18,11:32,,Landed 11:19,KML CSV Play, 
+c-fyns,, ,07 Oct 2023,St. John's (YYT),Toronto (YYZ),AC697,2:55,17:55,18:04,20:02,,Landed 19:29,KML CSV Play, 
+c-fyns,, ,07 Oct 2023,Toronto (YYZ),St. John's (YYT),AC690,2:37,12:35,12:39,17:05,,Landed 16:46,KML CSV Play, 
+c-fyns,, ,07 Oct 2023,Toronto (YYZ),—,AC685,-,07:02,—,—,,Unknown,KML CSV Play, 
+c-fyns,, ,07 Oct 2023,St. John's (YYT),Toronto (YYZ),AC685,3:02,05:10,05:27,07:17,,Landed 06:58,KML CSV Play, 
+c-fyns,, ,06 Oct 2023,Toronto (YYZ),St. John's (YYT),AC696,2:32,20:55,21:08,01:25,,Landed 01:10,KML CSV Play, 
+c-fyns,, ,06 Oct 2023,St. John's (YYT),Toronto (YYZ),AC697,3:00,17:55,18:05,20:02,,Landed 19:35,KML CSV Play, 
+c-fyns,, ,06 Oct 2023,Toronto (YYZ),St. John's (YYT),AC690,2:37,12:35,12:40,17:05,,Landed 16:47,KML CSV Play, 
+c-fyns,, ,06 Oct 2023,Ottawa (YOW),Toronto (YYZ),AC447,0:43,10:00,10:16,11:08,,Landed 10:59,KML CSV Play, 
+c-fyns,, ,06 Oct 2023,Toronto (YYZ),Ottawa (YOW),AC442,0:39,08:10,08:31,09:12,,Landed 09:10,KML CSV Play, 
+c-fyns,, ,06 Oct 2023,Toronto (YYZ),—,AC685,-,06:56,—,—,,Unknown,KML CSV Play, 
+c-fyns,, ,06 Oct 2023,St. John's (YYT),Toronto (YYZ),AC685,3:02,05:10,05:14,07:17,,Landed 06:46,KML CSV Play, 
+c-fyns,, ,05 Oct 2023,Toronto (YYZ),St. John's (YYT),AC696,2:35,20:55,21:36,01:25,,Landed 01:41,KML CSV Play, 
+c-fyns,, ,05 Oct 2023,St. John's (YYT),Toronto (YYZ),AC697,2:59,17:55,18:25,20:02,,Landed 19:55,KML CSV Play, 
+c-fyns,, ,05 Oct 2023,Toronto (YYZ),St. John's (YYT),AC690,2:37,12:35,12:49,17:05,,Landed 16:57,KML CSV Play, 
+c-fyns,, ,05 Oct 2023,Toronto (YYZ),—,AC447,-,11:17,—,—,,Unknown,KML CSV Play, 
+c-fyns,, ,05 Oct 2023,Ottawa (YOW),Toronto (YYZ),AC447,0:45,10:00,10:30,11:08,,Landed 11:14,KML CSV Play, 
+c-fyns,, ,05 Oct 2023,Toronto (YYZ),Ottawa (YOW),AC442,0:38,08:10,08:35,09:12,,Landed 09:14,KML CSV Play, 
+c-fyns,, ,05 Oct 2023,St. John's (YYT),Toronto (YYZ),AC685,3:01,05:10,05:42,07:17,,Landed 07:12,KML CSV Play, 
+c-fyns,, ,04 Oct 2023,Toronto (YYZ),St. John's (YYT),AC696,2:41,20:55,21:37,01:25,,Landed 01:48,KML CSV Play, 
+c-fyns,, ,04 Oct 2023,St. John's (YYT),Toronto (YYZ),AC697,2:53,17:55,18:20,20:02,,Landed 19:42,KML CSV Play, 
+c-fyns,, ,04 Oct 2023,Toronto (YYZ),St. John's (YYT),AC690,2:41,12:35,12:47,17:05,,Landed 16:59,KML CSV Play, 
+c-fyns,, ,04 Oct 2023,Ottawa (YOW),Toronto (YYZ),AC447,0:41,10:00,10:11,11:08,,Landed 10:53,KML CSV Play, 
+c-fyns,, ,04 Oct 2023,Toronto (YYZ),Ottawa (YOW),AC442,0:37,08:10,08:17,09:12,,Landed 08:54,KML CSV Play, 
+c-fyns,, ,03 Oct 2023,St. John's (YYT),Toronto (YYZ),AC699,2:53,22:15,22:28,00:22,,Landed 23:51,KML CSV Play, 
+c-fyns,, ,03 Oct 2023,Toronto (YYZ),St. John's (YYT),AC692,2:41,17:00,17:14,21:30,,Landed 21:25,KML CSV Play, 
+c-fyns,, ,03 Oct 2023,Winnipeg (YWG),Toronto (YYZ),AC262,1:59,12:25,12:47,15:48,,Landed 15:45,KML CSV Play, 
+c-fyns,, ,03 Oct 2023,Toronto (YYZ),Winnipeg (YWG),AC261,2:13,10:00,10:09,11:40,,Landed 11:21,KML CSV Play, 
+c-fyns,, ,03 Oct 2023,Ottawa (YOW),Toronto (YYZ),AC441,0:36,07:00,07:14,08:08,,Landed 07:50,KML CSV Play, 
+c-fyns,, ,02 Oct 2023,Toronto (YYZ),Ottawa (YOW),AC468,0:42,22:00,22:32,23:02,,Landed 23:13,KML CSV Play, 
+c-fyns,, ,02 Oct 2023,Ottawa (YOW),Toronto (YYZ),AC465,0:37,19:00,19:27,20:10,,Landed 20:04,KML CSV Play, 
+c-fyns,, ,02 Oct 2023,Toronto (YYZ),Ottawa (YOW),AC460,0:41,17:10,17:33,18:12,,Landed 18:13,KML CSV Play, 
+c-fyns,, ,02 Oct 2023,Winnipeg (YWG),Toronto (YYZ),AC262,2:01,12:25,13:14,15:48,,Landed 16:15,KML CSV Play, 
+c-fyns,, ,02 Oct 2023,Toronto (YYZ),Winnipeg (YWG),AC261,2:10,10:00,10:24,11:40,,Landed 11:33,KML CSV Play, 
+c-fyns,, ,02 Oct 2023,St. John's (YYT),Toronto (YYZ),AC685,3:01,05:10,05:37,07:17,,Landed 07:08,KML CSV Play, 
+c-fyns,, ,01 Oct 2023,Toronto (YYZ),St. John's (YYT),AC696,2:35,20:55,21:55,01:25,,Landed 02:01,KML CSV Play, 
+c-fyns,, ,01 Oct 2023,Ottawa (YOW),Toronto (YYZ),AC457,0:45,15:00,16:19,16:08,,Landed 17:04,KML CSV Play, 
+c-fyns,, ,01 Oct 2023,Toronto (YYZ),Ottawa (YOW),AC452,0:42,13:10,14:16,14:12,,Landed 14:57,KML CSV Play, 
+c-fyns,, ,01 Oct 2023,Toronto (YYZ),—,AC1120,-,11:35,—,—,,Unknown,KML CSV Play, 
+c-fyns,, ,01 Oct 2023,Saskatoon (YXE),Toronto (YYZ),AC1120,2:44,06:35,06:47,11:45,,Landed 11:31,KML CSV Play, 
+c-fyns,, ,30 Sep 2023,Toronto (YYZ),Saskatoon (YXE),AC1125,3:07,22:30,23:20,00:02,,Landed 00:27,KML CSV Play, 
+c-fyns,, ,30 Sep 2023,Saskatoon (YXE),Toronto (YYZ),AC1124,2:44,16:20,16:44,21:30,,Landed 21:28,KML CSV Play, 
+c-fyns,, ,30 Sep 2023,Toronto (YYZ),Saskatoon (YXE),AC1123,3:14,13:50,14:07,15:22,,Landed 15:21,KML CSV Play, 
+c-fyns,, ,30 Sep 2023,Toronto (YYZ),—,AC409,-,12:23,—,—,,Unknown,KML CSV Play, 
+c-fyns,, ,30 Sep 2023,Montreal (YUL),Toronto (YYZ),AC409,0:50,11:00,11:29,12:24,,Landed 12:19,KML CSV Play, 
+c-fyns,, ,30 Sep 2023,Toronto (YYZ),Montreal (YUL),AC404,0:49,09:00,09:24,10:16,,Landed 10:13,KML CSV Play, 
+c-fyns,, ,29 Sep 2023,Saskatoon (YXE),Toronto (YYZ),AC1124,2:48,16:20,16:47,21:30,,Landed 21:36,KML CSV Play, 
+c-fyns,, ,29 Sep 2023,Toronto (YYZ),Saskatoon (YXE),AC1123,3:13,13:50,14:14,15:22,,Landed 15:27,KML CSV Play, 
+c-fyns,, ,29 Sep 2023,Saskatoon (YXE),Toronto (YYZ),AC1120,2:48,06:35,06:44,11:45,,Landed 11:32,KML CSV Play, 
+c-fyns,, ,28 Sep 2023,Toronto (YYZ),Saskatoon (YXE),AC1125,3:03,22:30,23:32,00:02,,Landed 00:36,KML CSV Play, 
+c-fyns,, ,28 Sep 2023,Saskatoon (YXE),Toronto (YYZ),AC1124,2:55,16:20,16:59,21:30,,Landed 21:53,KML CSV Play, 
+c-fyns,, ,28 Sep 2023,Toronto (YYZ),Saskatoon (YXE),AC1123,3:04,13:50,14:37,15:22,,Landed 15:41,KML CSV Play, 
+c-fyns,, ,28 Sep 2023,Ottawa (YOW),Toronto (YYZ),AC447,0:44,10:00,12:23,11:08,,Landed 13:07,KML CSV Play, 
+c-fyns,, ,28 Sep 2023,Toronto (YYZ),Ottawa (YOW),AC442,0:38,08:10,10:40,09:12,,Landed 11:18,KML CSV Play, 
+c-fyns,, ,27 Sep 2023,New York (LGA),Toronto (YYZ),AC721,0:59,20:30,21:19,21:55,,Landed 22:17,KML CSV Play, 
+c-fyns,, ,27 Sep 2023,Toronto (YYZ),New York (LGA),AC716,1:06,18:10,19:05,19:41,,Landed 20:11,KML CSV Play, 
+c-fyns,, ,27 Sep 2023,Calgary (YYC),Toronto (YYZ),AC140,3:21,11:25,11:47,17:14,,Landed 17:08,KML CSV Play, 
+c-fyns,, ,27 Sep 2023,Toronto (YYZ),Calgary (YYC),AC135,3:42,08:15,08:32,10:35,,Landed 10:14,KML CSV Play, 
+c-fyns,, ,26 Sep 2023,Toronto (YYZ),Toronto (YYZ),—,-,22:36,—,22:31,,Landed 22:31,KML CSV Play, 
+c-fyns,, ,26 Sep 2023,New York (LGA),Toronto (YYZ),AC721,0:55,20:30,21:23,21:55,,Landed 22:18,KML CSV Play, 
+c-fyns,, ,26 Sep 2023,Toronto (YYZ),New York (LGA),AC716,1:10,18:10,18:51,19:41,,Landed 20:00,KML CSV Play, 
+c-fyns,, ,26 Sep 2023,Toronto (YYZ),—,AC140,-,17:17,—,—,,Unknown,KML CSV Play, 
+c-fyns,, ,26 Sep 2023,Calgary (YYC),Toronto (YYZ),AC140,3:32,11:25,11:41,17:14,,Landed 17:13,KML CSV Play, 
+c-fyns,, ,26 Sep 2023,Toronto (YYZ),Calgary (YYC),AC135,3:23,08:25,09:07,10:45,,Landed 10:29,KML CSV Play, 
+c-fyns,, ,22 Sep 2023,Edmonton (YEG),Toronto (YYZ),AC162,3:29,07:30,07:35,13:14,,Landed 13:04,KML CSV Play, 
+c-fyns,, ,21 Sep 2023,Toronto (YYZ),Edmonton (YEG),AC177,3:38,21:00,21:33,23:14,,Landed 23:11,KML CSV Play, 
+c-fyns,, ,21 Sep 2023,Halifax (YHZ),Toronto (YYZ),AC617,1:52,18:10,19:08,19:38,,Landed 20:00,KML CSV Play, 
+c-fyns,, ,21 Sep 2023,Toronto (YYZ),Halifax (YHZ),AC608,1:44,14:00,15:09,17:03,,Landed 17:52,KML CSV Play, 
+c-fyns,, ,21 Sep 2023,Halifax (YHZ),Toronto (YYZ),AC607,1:58,11:20,12:19,12:48,,Landed 13:17,KML CSV Play, 
+c-fyns,, ,21 Sep 2023,Toronto (YYZ),Halifax (YHZ),AC602,1:41,07:20,07:29,10:23,,Landed 10:11,KML CSV Play, 
+c-fyns,, ,20 Sep 2023,New York (LGA),Toronto (YYZ),AC721,0:57,20:30,21:31,21:55,,Landed 22:28,KML CSV Play, 
+c-fyns,, ,20 Sep 2023,Toronto (YYZ),New York (LGA),AC716,0:56,18:10,19:06,19:41,,Landed 20:02,KML CSV Play, 
+c-fyns,, ,20 Sep 2023,Calgary (YYC),Toronto (YYZ),AC140,3:24,11:25,11:40,17:14,,Landed 17:04,KML CSV Play, 
+c-fyns,, ,20 Sep 2023,Toronto (YYZ),Calgary (YYC),AC135,3:38,08:15,08:30,10:35,,Landed 10:08,KML CSV Play, 
+c-fyns,, ,19 Sep 2023,Toronto (YYZ),—,AC721,-,21:34,—,—,,Unknown,KML CSV Play, 
+c-fyns,, ,19 Sep 2023,New York (LGA),Toronto (YYZ),AC721,0:59,20:30,20:32,21:55,,Landed 21:31,KML CSV Play, 
+c-fyns,, ,19 Sep 2023,Toronto (YYZ),New York (LGA),AC716,0:58,18:10,18:29,19:41,,Landed 19:27,KML CSV Play, 
+c-fyns,, ,19 Sep 2023,Calgary (YYC),Toronto (YYZ),AC140,3:18,11:25,11:42,17:14,,Landed 17:01,KML CSV Play, 
+c-fyns,, ,19 Sep 2023,Toronto (YYZ),Calgary (YYC),AC135,3:32,08:25,08:37,10:45,,Landed 10:09,KML CSV Play, 
+c-fyns,, ,18 Sep 2023,Toronto (YYZ),—,AC721,-,22:33,—,—,,Unknown,KML CSV Play, 
+c-fyns,, ,18 Sep 2023,New York (LGA),Toronto (YYZ),AC721,0:59,20:30,21:29,21:55,,Landed 22:28,KML CSV Play, 
+c-fyns,, ,18 Sep 2023,Toronto (YYZ),New York (LGA),AC716,1:18,18:10,18:33,19:41,,Landed 19:50,KML CSV Play, 
+c-fyns,, ,18 Sep 2023,Calgary (YYC),Toronto (YYZ),AC140,3:27,11:25,11:46,17:14,,Landed 17:13,KML CSV Play, 
+c-fyns,, ,18 Sep 2023,Toronto (YYZ),Calgary (YYC),AC135,3:43,08:15,08:28,10:35,,Landed 10:11,KML CSV Play, 
+c-fyns,, ,18 Sep 2023,Toronto (YYZ),—,AC176,-,04:59,—,—,,Unknown,KML CSV Play, 
+c-fyns,, ,17 Sep 2023,Edmonton (YEG),Toronto (YYZ),AC176,3:11,23:40,23:41,05:24,,Landed 04:52,KML CSV Play, 
+c-fyns,, ,17 Sep 2023,Toronto (YYZ),Edmonton (YEG),AC175,3:38,19:55,20:37,22:09,,Landed 22:15,KML CSV Play, 
+c-fyns,, ,17 Sep 2023,St. John's (YYT),Toronto (YYZ),AC693,2:56,14:15,15:30,16:22,,Landed 16:56,KML CSV Play, 
+c-fyns,, ,17 Sep 2023,Toronto (YYZ),St. John's (YYT),AC686,2:36,08:45,09:54,13:15,,Landed 14:00,KML CSV Play, 
+c-fyns,, ,16 Sep 2023,New York (LGA),Toronto (YYZ),AC721,0:55,20:30,21:29,21:55,,Landed 22:24,KML CSV Play, 
+c-fyns,, ,16 Sep 2023,Toronto (YYZ),New York (LGA),AC716,1:03,18:10,19:25,19:41,,Landed 20:29,KML CSV Play, 
+c-fyns,, ,16 Sep 2023,Calgary (YYC),Toronto (YYZ),AC140,3:20,11:25,12:56,17:14,,Landed 18:15,KML CSV Play, 
+c-fyns,, ,16 Sep 2023,Toronto (YYZ),Calgary (YYC),AC135,3:44,08:25,08:33,10:45,,Landed 10:18,KML CSV Play, 
+c-fyns,, ,15 Sep 2023,New York (LGA),Toronto (YYZ),AC721,0:52,20:30,22:19,21:55,,Landed 23:11,KML CSV Play, 
+c-fyns,, ,15 Sep 2023,Toronto (YYZ),New York (LGA),AC716,1:09,18:10,20:01,19:41,,Landed 21:10,KML CSV Play, 
+c-fyns,, ,15 Sep 2023,Calgary (YYC),Toronto (YYZ),AC140,3:22,11:25,11:33,17:14,,Landed 16:55,KML CSV Play, 
+c-fyns,, ,15 Sep 2023,Toronto (YYZ),Calgary (YYC),AC135,3:42,08:15,08:23,10:35,,Landed 10:05,KML CSV Play, 
+c-fyns,, ,14 Sep 2023,Edmonton (YEG),Toronto (YYZ),AC172,3:13,17:55,18:16,23:39,,Landed 23:29,KML CSV Play, 
+c-fyns,, ,14 Sep 2023,Toronto (YYZ),Edmonton (YEG),AC171,3:41,14:45,14:57,16:59,,Landed 16:38,KML CSV Play, 
+c-fyns,, ,14 Sep 2023,Edmonton (YEG),Toronto (YYZ),AC162,3:17,07:30,07:44,13:14,,Landed 13:01,KML CSV Play, 
+c-fyns,, ,13 Sep 2023,Toronto (YYZ),Edmonton (YEG),AC177,3:34,21:00,21:12,23:14,,Landed 22:46,KML CSV Play, 
+c-fyns,, ,13 Sep 2023,Calgary (YYC),Toronto (YYZ),AC144,3:22,13:10,13:32,18:59,,Landed 18:53,KML CSV Play, 
+c-fyns,, ,13 Sep 2023,Toronto (YYZ),Calgary (YYC),AC139,3:39,09:50,10:14,12:10,,Landed 11:53,KML CSV Play, 
+c-fyns,, ,13 Sep 2023,Halifax (YHZ),Toronto (YYZ),AC603,2:00,07:00,07:32,08:28,,Landed 08:31,KML CSV Play, 
+c-fyns,, ,12 Sep 2023,Toronto (YYZ),Halifax (YHZ),AC616,1:43,18:25,18:56,21:28,,Landed 21:39,KML CSV Play, 
+c-fyns,, ,12 Sep 2023,Saskatoon (YXE),Toronto (YYZ),AC1122,2:51,12:25,12:28,17:35,,Landed 17:19,KML CSV Play, 
+c-fyns,, ,12 Sep 2023,Toronto (YYZ),Saskatoon (YXE),AC1121,2:59,10:00,10:11,11:32,,Landed 11:10,KML CSV Play, 
+c-fyns,, ,11 Sep 2023,Quebec (YQB),Toronto (YYZ),AC1105,1:13,20:55,21:48,22:31,,Landed 23:01,KML CSV Play, 
+c-fyns,, ,11 Sep 2023,Toronto (YYZ),Quebec (YQB),AC1104,1:06,18:30,19:45,19:55,,Landed 20:51,KML CSV Play, 
+c-fyns,, ,10 Sep 2023,Halifax (YHZ),Toronto (YYZ),AC617,2:04,18:10,18:26,19:38,,Landed 19:29,KML CSV Play, 
+c-fyns,, ,10 Sep 2023,Toronto (YYZ),Halifax (YHZ),AC608,1:38,14:00,14:21,17:03,,Landed 16:59,KML CSV Play, 
+c-fyns,, ,10 Sep 2023,Halifax (YHZ),Toronto (YYZ),AC607,2:02,11:20,12:00,12:48,,Landed 13:02,KML CSV Play, 
+c-fyns,, ,10 Sep 2023,Toronto (YYZ),Halifax (YHZ),AC602,1:39,07:20,07:50,10:23,,Landed 10:29,KML CSV Play, 
+c-fyns,, ,09 Sep 2023,Calgary (YYC),Toronto (YYZ),AC140,3:22,11:25,11:37,17:14,,Landed 16:59,KML CSV Play, 
+c-fyns,, ,09 Sep 2023,Toronto (YYZ),Calgary (YYC),AC135,3:42,08:15,08:32,10:35,,Landed 10:14,KML CSV Play, 
+c-fyns,, ,08 Sep 2023,Edmonton (YEG),Toronto (YYZ),AC176,3:11,23:40,01:04,05:24,,Landed 06:14,KML CSV Play, 
+c-fyns,, ,08 Sep 2023,Toronto (YYZ),Edmonton (YEG),AC175,3:38,19:55,21:44,22:09,,Landed 23:22,KML CSV Play, 
+c-fyns,, ,08 Sep 2023,Ottawa (YOW),Toronto (YYZ),AC465,0:43,19:00,19:40,20:10,,Landed 20:23,KML CSV Play, 
+c-fyns,, ,08 Sep 2023,Toronto (YYZ),Ottawa (YOW),AC460,0:36,17:10,17:33,18:12,,Landed 18:09,KML CSV Play, 
+c-fyns,, ,08 Sep 2023,St. John's (YYT),Toronto (YYZ),AC693,3:00,14:15,14:23,16:22,,Landed 15:53,KML CSV Play, 
+c-fyns,, ,08 Sep 2023,Toronto (YYZ),St. John's (YYT),AC686,2:36,08:45,09:04,13:15,,Landed 13:10,KML CSV Play, 
+c-fyns,, ,07 Sep 2023,Toronto (YYZ),—,AC268,-,20:46,—,—,,Unknown,KML CSV Play, 
+c-fyns,, ,07 Sep 2023,Winnipeg (YWG),Toronto (YYZ),AC268,1:58,17:30,17:40,20:53,,Landed 20:38,KML CSV Play, 
+c-fyns,, ,07 Sep 2023,Toronto (YYZ),Winnipeg (YWG),AC265,2:06,14:55,15:21,16:35,,Landed 16:27,KML CSV Play, 
+c-fyns,, ,07 Sep 2023,Saskatoon (YXE),Toronto (YYZ),AC1120,2:47,06:35,06:47,11:45,,Landed 11:35,KML CSV Play, 
+c-fyns,, ,06 Sep 2023,Toronto (YYZ),Saskatoon (YXE),AC1125,2:56,22:30,22:43,00:02,,Landed 23:39,KML CSV Play, 
+c-fyns,, ,06 Sep 2023,Saskatoon (YXE),Toronto (YYZ),AC1124,2:44,16:20,16:38,21:30,,Landed 21:22,KML CSV Play, 
+c-fyns,, ,06 Sep 2023,Toronto (YYZ),Saskatoon (YXE),AC1123,3:00,13:50,14:17,15:22,,Landed 15:17,KML CSV Play, 
+c-fyns,, ,06 Sep 2023,Saskatoon (YXE),Toronto (YYZ),AC1120,2:52,06:35,06:50,11:45,,Landed 11:42,KML CSV Play, 
+c-fyns,, ,05 Sep 2023,Toronto (YYZ),Saskatoon (YXE),AC1125,3:05,22:30,22:45,00:02,,Landed 23:50,KML CSV Play, 
+c-fyns,, ,05 Sep 2023,Saskatoon (YXE),Toronto (YYZ),AC1124,2:50,16:20,16:28,21:30,,Landed 21:18,KML CSV Play, 
+c-fyns,, ,05 Sep 2023,Toronto (YYZ),Saskatoon (YXE),AC1123,2:56,13:50,14:07,15:22,,Landed 15:03,KML CSV Play, 
+c-fyns,, ,05 Sep 2023,Saskatoon (YXE),Toronto (YYZ),AC1120,2:50,06:35,07:05,11:45,,Landed 11:55,KML CSV Play, 
+c-fyns,, ,04 Sep 2023,Toronto (YYZ),Saskatoon (YXE),AC1125,2:55,22:35,22:57,00:05,,Landed 23:52,KML CSV Play, 
+c-fyns,, ,04 Sep 2023,Saskatoon (YXE),Toronto (YYZ),AC1124,2:44,16:20,16:56,21:26,,Landed 21:40,KML CSV Play, 
+c-fyns,, ,04 Sep 2023,Toronto (YYZ),Saskatoon (YXE),AC1123,3:01,13:50,14:18,15:20,,Landed 15:18,KML CSV Play, 
+c-fyns,, ,04 Sep 2023,Toronto (YYZ),—,AC1120,-,11:39,—,—,,Unknown,KML CSV Play, 
+c-fyns,, ,04 Sep 2023,Saskatoon (YXE),Toronto (YYZ),AC1120,2:42,06:35,06:56,11:41,,Landed 11:38,KML CSV Play, 
+c-fyns,, ,03 Sep 2023,Toronto (YYZ),Saskatoon (YXE),AC1125,3:03,22:35,22:52,00:05,,Landed 23:56,KML CSV Play, 
+c-fyns,, ,03 Sep 2023,Saskatoon (YXE),Toronto (YYZ),AC1124,2:37,16:20,16:18,21:26,,Landed 20:55,KML CSV Play, 
+c-fyns,, ,03 Sep 2023,Toronto (YYZ),Saskatoon (YXE),AC1123,3:08,13:50,14:07,15:20,,Landed 15:14,KML CSV Play, 
+c-fyns,, ,03 Sep 2023,Saskatoon (YXE),Toronto (YYZ),AC1120,2:38,06:35,06:41,11:41,,Landed 11:19,KML CSV Play, 
+c-fyns,, ,02 Sep 2023,Toronto (YYZ),Saskatoon (YXE),AC1125,3:03,22:35,23:05,00:05,,Landed 00:08,KML CSV Play, 
+c-fyns,, ,02 Sep 2023,Saskatoon (YXE),Toronto (YYZ),AC1124,2:40,16:20,16:25,21:26,,Landed 21:04,KML CSV Play, 
+c-fyns,, ,02 Sep 2023,Toronto (YYZ),Saskatoon (YXE),AC1123,3:11,13:50,13:58,15:20,,Landed 15:09,KML CSV Play, 
+c-fyns,, ,02 Sep 2023,Saskatoon (YXE),Toronto (YYZ),AC1120,2:37,06:35,06:51,11:41,,Landed 11:28,KML CSV Play, 
+c-fyns,, ,01 Sep 2023,Toronto (YYZ),Saskatoon (YXE),AC1125,3:05,22:35,23:34,00:05,,Landed 00:39,KML CSV Play, 
+c-fyns,, ,01 Sep 2023,Toronto (YYZ),—,AC1105,-,22:22,—,—,,Unknown,KML CSV Play, 
+c-fyns,, ,01 Sep 2023,Quebec (YQB),Toronto (YYZ),AC1105,1:09,20:55,21:11,22:28,,Landed 22:20,KML CSV Play, 
+c-fyns,, ,01 Sep 2023,Toronto (YYZ),Quebec (YQB),AC1102,1:10,18:30,19:12,19:59,,Landed 20:23,KML CSV Play, 
+c-fyns,, ,01 Sep 2023,Saskatoon (YXE),Toronto (YYZ),AC1122,2:39,12:25,12:47,17:31,,Landed 17:26,KML CSV Play, 
+c-fyns,, ,01 Sep 2023,Toronto (YYZ),Saskatoon (YXE),AC1121,3:08,10:00,10:19,11:30,,Landed 11:27,KML CSV Play, 
+c-fyns,, ,31 Aug 2023,Toronto (YYZ),—,AC1105,-,22:38,—,—,,Unknown,KML CSV Play, 
+c-fyns,, ,31 Aug 2023,Quebec (YQB),Toronto (YYZ),AC1105,1:09,20:55,21:18,22:28,,Landed 22:27,KML CSV Play, 
+c-fyns,, ,31 Aug 2023,Toronto (YYZ),Quebec (YQB),AC1102,1:11,18:30,19:14,19:59,,Landed 20:24,KML CSV Play, 
+c-fyns,, ,31 Aug 2023,Saskatoon (YXE),Toronto (YYZ),AC1122,2:49,12:25,13:02,17:31,,Landed 17:50,KML CSV Play, 
+c-fyns,, ,31 Aug 2023,Toronto (YYZ),Saskatoon (YXE),AC1121,3:07,10:00,10:17,11:30,,Landed 11:24,KML CSV Play, 
+c-fyns,, ,30 Aug 2023,Toronto (YYZ),—,AC1105,-,22:42,—,—,,Unknown,KML CSV Play, 
+c-fyns,, ,30 Aug 2023,Quebec (YQB),Toronto (YYZ),AC1105,1:15,20:55,21:19,22:28,,Landed 22:35,KML CSV Play, 
+c-fyns,, ,30 Aug 2023,Toronto (YYZ),Quebec (YQB),AC1102,1:02,18:30,19:21,19:59,,Landed 20:23,KML CSV Play, 
+c-fyns,, ,30 Aug 2023,Calgary (YYC),Toronto (YYZ),AC142,3:25,12:05,12:26,17:53,,Landed 17:51,KML CSV Play, 
+c-fyns,, ,30 Aug 2023,Toronto (YYZ),Calgary (YYC),AC137,3:34,08:55,09:31,11:09,,Landed 11:05,KML CSV Play, 
+c-fyns,, ,30 Aug 2023,Toronto (YYZ),—,AC1101,-,08:13,—,—,,Unknown,KML CSV Play, 
+c-fyns,, ,30 Aug 2023,Quebec (YQB),Toronto (YYZ),AC1101,1:15,06:50,06:50,08:21,,Landed 08:04,KML CSV Play, 
+c-fyns,, ,29 Aug 2023,Toronto (YYZ),Quebec (YQB),AC1104,1:02,22:20,22:50,23:49,,Landed 23:52,KML CSV Play, 
+c-fyns,, ,29 Aug 2023,Saskatoon (YXE),Toronto (YYZ),AC1124,2:40,16:20,16:23,21:26,,Landed 21:03,KML CSV Play, 
+c-fyns,, ,29 Aug 2023,Toronto (YYZ),Saskatoon (YXE),AC1123,3:10,13:50,14:10,15:20,,Landed 15:20,KML CSV Play, 
+c-fyns,, ,29 Aug 2023,Saskatoon (YXE),Toronto (YYZ),AC1120,2:44,06:35,06:44,11:41,,Landed 11:29,KML CSV Play, 
+c-fyns,, ,28 Aug 2023,Toronto (YYZ),Saskatoon (YXE),AC1125,3:06,22:35,23:04,00:05,,Landed 00:10,KML CSV Play, 
+c-fyns,, ,28 Aug 2023,Winnipeg (YWG),Toronto (YYZ),AC262,1:51,12:40,13:25,16:04,,Landed 16:16,KML CSV Play, 
+c-fyns,, ,28 Aug 2023,Toronto (YYZ),Winnipeg (YWG),AC261,2:15,10:00,10:59,11:36,,Landed 12:14,KML CSV Play, 
+c-fyns,, ,26 Aug 2023,Toronto (YYZ),—,AC1105,-,22:06,—,—,,Unknown,KML CSV Play, 
+c-fyns,, ,26 Aug 2023,Quebec (YQB),Toronto (YYZ),AC1105,1:12,20:55,20:48,22:28,,Landed 22:00,KML CSV Play, 
+c-fyns,, ,26 Aug 2023,Toronto (YYZ),Quebec (YQB),AC1102,1:08,18:30,18:44,19:59,,Landed 19:53,KML CSV Play, 
+c-fyns,, ,26 Aug 2023,Edmonton (YEG),Toronto (YYZ),AC164,3:17,10:45,11:07,16:27,,Landed 16:25,KML CSV Play, 
+c-fyns,, ,26 Aug 2023,Toronto (YYZ),Edmonton (YEG),AC161,3:48,07:40,08:04,09:50,,Landed 09:53,KML CSV Play, 
+c-fyns,, ,25 Aug 2023,Quebec (YQB),Toronto (YYZ),AC1105,1:19,20:55,21:09,22:28,,Landed 22:28,KML CSV Play, 
+c-fyns,, ,25 Aug 2023,Toronto (YYZ),Quebec (YQB),AC1102,1:02,18:30,19:12,19:59,,Landed 20:14,KML CSV Play, 
+c-fyns,, ,25 Aug 2023,Saskatoon (YXE),Toronto (YYZ),AC1122,2:40,12:25,13:08,17:31,,Landed 17:47,KML CSV Play, 
+c-fyns,, ,25 Aug 2023,Toronto (YYZ),Saskatoon (YXE),AC1121,3:14,10:00,10:20,11:30,,Landed 11:34,KML CSV Play, 
+c-fyns,, ,24 Aug 2023,Saskatoon (YXE),Toronto (YYZ),AC1124,2:37,16:20,16:36,21:26,,Landed 21:13,KML CSV Play, 
+c-fyns,, ,24 Aug 2023,Toronto (YYZ),Saskatoon (YXE),AC1123,3:10,13:50,14:10,15:20,,Landed 15:20,KML CSV Play, 
+c-fyns,, ,24 Aug 2023,Saskatoon (YXE),Toronto (YYZ),AC1120,2:49,06:35,06:39,11:41,,Landed 11:28,KML CSV Play, 
+c-fyns,, ,23 Aug 2023,Toronto (YYZ),Saskatoon (YXE),AC1125,3:06,22:35,23:09,00:05,,Landed 00:16,KML CSV Play, 
+c-fyns,, ,23 Aug 2023,Saskatoon (YXE),Toronto (YYZ),AC2120,2:35,13:10,16:32,18:05,,Landed 21:07,KML CSV Play, 
+c-fyns,, ,23 Aug 2023,Edmonton (YEG),Saskatoon (YXE),AC2027,0:47,11:30,14:41,12:30,,Landed 15:28,KML CSV Play, 
+c-fyns,, ,22 Aug 2023,Toronto (YYZ),Saskatoon (YXE),AC1125,-,22:35,23:20,00:05,,Diverted to YEG,KML CSV Play, 
+c-fyns,, ,23 Aug 2023,—,—,(ACA1124),-,—,—,—,,Unknown,KML CSV Play, 
+c-fyns,, ,22 Aug 2023,Saskatoon (YXE),Toronto (YYZ),AC1124,2:38,16:20,16:28,21:26,,Landed 21:06,KML CSV Play, 
+c-fyns,, ,22 Aug 2023,Toronto (YYZ),Saskatoon (YXE),AC1123,3:11,13:50,14:03,15:20,,Landed 15:14,KML CSV Play, 
+c-fyns,, ,22 Aug 2023,Saskatoon (YXE),Toronto (YYZ),AC1120,2:39,06:35,06:38,11:41,,Landed 11:17,KML CSV Play, 
+c-fyns,, ,21 Aug 2023,Toronto (YYZ),Saskatoon (YXE),AC1125,3:15,22:35,22:55,00:05,,Landed 00:10,KML CSV Play, 
+c-fyns,, ,21 Aug 2023,Saskatoon (YXE),Toronto (YYZ),AC1124,2:26,16:20,16:33,21:26,,Landed 20:59,KML CSV Play, 
+c-fyns,, ,21 Aug 2023,Toronto (YYZ),Saskatoon (YXE),AC1123,3:13,13:50,13:59,15:20,,Landed 15:12,KML CSV Play, 
+c-fyns,, ,21 Aug 2023,Saskatoon (YXE),Toronto (YYZ),AC1120,2:27,06:35,06:45,11:41,,Landed 11:13,KML CSV Play, 
+c-fyns,, ,20 Aug 2023,Toronto (YYZ),Saskatoon (YXE),AC1125,3:09,22:35,22:54,00:05,,Landed 00:03,KML CSV Play, 
+c-fyns,, ,20 Aug 2023,Saskatoon (YXE),Toronto (YYZ),AC1122,2:31,12:25,12:47,17:31,,Landed 17:18,KML CSV Play, 
+c-fyns,, ,20 Aug 2023,Toronto (YYZ),Saskatoon (YXE),AC1121,3:07,10:00,10:11,11:30,,Landed 11:18,KML CSV Play, 
+c-fyns,, ,19 Aug 2023,Quebec (YQB),Toronto (YYZ),AC1105,1:04,20:55,20:56,22:28,,Landed 22:01,KML CSV Play, 
+c-fyns,, ,19 Aug 2023,Toronto (YYZ),Quebec (YQB),AC1102,1:11,18:30,18:51,19:59,,Landed 20:02,KML CSV Play, 
+c-fyns,, ,19 Aug 2023,Saskatoon (YXE),Toronto (YYZ),AC1122,2:36,12:25,12:39,17:31,,Landed 17:15,KML CSV Play, 
+c-fyns,, ,19 Aug 2023,Toronto (YYZ),Saskatoon (YXE),AC1121,3:10,10:00,10:13,11:30,,Landed 11:23,KML CSV Play, 
+c-fyns,, ,19 Aug 2023,—,—,(ACA1105),-,—,—,—,,Unknown,KML CSV Play, 
+c-fyns,, ,18 Aug 2023,Quebec (YQB),Toronto (YYZ),AC1105,1:05,20:55,21:42,22:28,,Landed 22:47,KML CSV Play, 
+c-fyns,, ,18 Aug 2023,Toronto (YYZ),Quebec (YQB),AC1102,1:07,18:30,18:47,19:59,,Landed 19:53,KML CSV Play, 
+c-fyns,, ,18 Aug 2023,Saskatoon (YXE),Toronto (YYZ),AC1122,2:33,12:25,12:42,17:31,,Landed 17:15,KML CSV Play, 
+c-fyns,, ,18 Aug 2023,Toronto (YYZ),Saskatoon (YXE),AC1121,3:10,10:00,10:10,11:30,,Landed 11:19,KML CSV Play, 
+c-fyns,, ,17 Aug 2023,Saskatoon (YXE),Toronto (YYZ),AC1124,2:31,16:15,21:57,21:21,,Landed 02:28,KML CSV Play, 
+c-fyns,, ,17 Aug 2023,Toronto (YYZ),Saskatoon (YXE),AC1123,3:11,13:50,19:55,15:20,,Landed 21:06,KML CSV Play, 
+c-fyns,, ,17 Aug 2023,Saskatoon (YXE),Toronto (YYZ),AC1122,2:42,12:25,13:05,17:31,,Landed 17:48,KML CSV Play, 
+c-fyns,, ,17 Aug 2023,Toronto (YYZ),Saskatoon (YXE),AC1121,3:08,10:00,10:34,11:30,,Landed 11:42,KML CSV Play, 
+c-fyns,, ,17 Aug 2023,—,—,(ACA1105),-,—,—,—,,Unknown,KML CSV Play, 
+c-fyns,, ,16 Aug 2023,Quebec (YQB),Toronto (YYZ),AC1105,1:09,20:55,21:18,22:28,,Landed 22:27,KML CSV Play, 
+c-fyns,, ,16 Aug 2023,Toronto (YYZ),Quebec (YQB),AC1102,1:08,18:30,19:17,19:59,,Landed 20:25,KML CSV Play, 
+c-fyns,, ,16 Aug 2023,Saskatoon (YXE),Toronto (YYZ),AC1122,2:42,12:25,13:00,17:31,,Landed 17:41,KML CSV Play, 
+c-fyns,, ,16 Aug 2023,Toronto (YYZ),Saskatoon (YXE),AC1121,3:11,10:00,10:28,11:30,,Landed 11:39,KML CSV Play, 
+c-fyns,, ,16 Aug 2023,Quebec (YQB),Toronto (YYZ),AC1101,1:10,06:50,06:56,08:21,,Landed 08:06,KML CSV Play, 
+c-fyns,, ,15 Aug 2023,Toronto (YYZ),Quebec (YQB),AC1104,1:01,22:20,00:35,23:49,,Landed 01:36,KML CSV Play, 
+c-fyns,, ,15 Aug 2023,Saskatoon (YXE),Toronto (YYZ),AC1124,2:34,16:20,18:47,21:26,,Landed 23:21,KML CSV Play, 
+c-fyns,, ,15 Aug 2023,Toronto (YYZ),Saskatoon (YXE),AC1123,3:12,13:50,16:18,15:20,,Landed 17:29,KML CSV Play, 
+c-fyns,, ,15 Aug 2023,Saskatoon (YXE),Toronto (YYZ),AC1120,2:47,06:35,06:50,11:41,,Landed 11:36,KML CSV Play, 
+c-fyns,, ,14 Aug 2023,Toronto (YYZ),Saskatoon (YXE),AC1125,3:06,22:35,23:05,00:05,,Landed 00:11,KML CSV Play, 
+c-fyns,, ,14 Aug 2023,Saskatoon (YXE),Toronto (YYZ),AC1124,2:49,16:20,16:30,21:26,,Landed 21:18,KML CSV Play, 
+c-fyns,, ,14 Aug 2023,Toronto (YYZ),Saskatoon (YXE),AC1123,3:05,13:50,14:06,15:20,,Landed 15:11,KML CSV Play, 
+c-fyns,, ,14 Aug 2023,Saskatoon (YXE),Toronto (YYZ),AC1120,2:45,06:35,06:48,11:41,,Landed 11:32,KML CSV Play, 
+c-fyns,, ,13 Aug 2023,Toronto (YYZ),Saskatoon (YXE),AC1125,3:04,22:35,23:15,00:05,,Landed 00:19,KML CSV Play, 
+c-fyns,, ,13 Aug 2023,Ottawa (YOW),Toronto (YYZ),AC467,0:46,19:55,20:51,21:00,,Landed 21:37,KML CSV Play, 
+c-fyns,, ,13 Aug 2023,Toronto (YYZ),Ottawa (YOW),AC462,0:38,18:10,19:07,19:13,,Landed 19:45,KML CSV Play, 
+c-fyns,, ,13 Aug 2023,Edmonton (YEG),Toronto (YYZ),AC164,3:19,10:45,11:01,16:27,,Landed 16:20,KML CSV Play, 
+c-fyns,, ,13 Aug 2023,Toronto (YYZ),Edmonton (YEG),AC161,3:44,07:40,08:00,09:50,,Landed 09:44,KML CSV Play, 
+c-fyns,, ,12 Aug 2023,Quebec (YQB),Toronto (YYZ),AC1105,1:08,20:55,20:53,22:28,,Landed 22:02,KML CSV Play, 
+c-fyns,, ,12 Aug 2023,Toronto (YYZ),Quebec (YQB),AC1102,1:07,18:30,18:45,19:59,,Landed 19:53,KML CSV Play, 
+c-fyns,, ,12 Aug 2023,Saskatoon (YXE),Toronto (YYZ),AC1122,2:37,12:25,12:44,17:31,,Landed 17:21,KML CSV Play, 
+c-fyns,, ,12 Aug 2023,Toronto (YYZ),Saskatoon (YXE),AC1121,3:01,10:00,10:26,11:30,,Landed 11:27,KML CSV Play, 
+c-fyns,, ,11 Aug 2023,Saskatoon (YXE),Toronto (YYZ),AC1124,2:45,16:20,16:17,21:26,,Landed 21:02,KML CSV Play, 
+c-fyns,, ,11 Aug 2023,Toronto (YYZ),Saskatoon (YXE),AC1123,2:58,13:50,13:56,15:20,,Landed 14:54,KML CSV Play, 
+c-fyns,, ,11 Aug 2023,Saskatoon (YXE),Toronto (YYZ),AC1120,2:48,06:35,07:43,11:41,,Landed 12:31,KML CSV Play, 
+c-fyns,, ,10 Aug 2023,Toronto (YYZ),Saskatoon (YXE),AC1125,3:04,22:35,23:59,00:05,,Landed 01:03,KML CSV Play, 
+c-fyns,, ,10 Aug 2023,Quebec (YQB),Toronto (YYZ),AC1105,1:15,20:55,21:15,22:28,,Landed 22:30,KML CSV Play, 
+c-fyns,, ,10 Aug 2023,Toronto (YYZ),Quebec (YQB),AC1102,1:03,18:30,19:00,19:59,,Landed 20:03,KML CSV Play, 
+c-fyns,, ,10 Aug 2023,Saskatoon (YXE),Toronto (YYZ),AC1122,2:44,12:25,12:53,17:31,,Landed 17:37,KML CSV Play, 
+c-fyns,, ,10 Aug 2023,Toronto (YYZ),Saskatoon (YXE),AC1121,3:21,10:00,10:22,11:30,,Landed 11:42,KML CSV Play, 
+c-fyns,, ,09 Aug 2023,Quebec (YQB),Toronto (YYZ),AC1105,1:11,20:55,21:20,22:28,,Landed 22:31,KML CSV Play, 
+c-fyns,, ,09 Aug 2023,Toronto (YYZ),Quebec (YQB),AC1102,1:09,18:30,19:14,19:59,,Landed 20:23,KML CSV Play, 
+c-fyns,, ,09 Aug 2023,Saskatoon (YXE),Toronto (YYZ),AC1122,2:33,12:25,12:55,17:31,,Landed 17:28,KML CSV Play, 
+c-fyns,, ,09 Aug 2023,Toronto (YYZ),Saskatoon (YXE),AC1121,3:11,10:00,10:15,11:30,,Landed 11:26,KML CSV Play, 
+c-fyns,, ,09 Aug 2023,Quebec (YQB),Toronto (YYZ),AC1101,1:07,06:50,06:56,08:21,,Landed 08:02,KML CSV Play, 
+c-fyns,, ,08 Aug 2023,Toronto (YYZ),Quebec (YQB),AC1104,1:06,22:20,23:12,23:49,,Landed 00:19,KML CSV Play, 
+c-fyns,, ,08 Aug 2023,Saskatoon (YXE),Toronto (YYZ),AC1124,2:45,16:20,16:27,21:26,,Landed 21:12,KML CSV Play, 
+c-fyns,, ,08 Aug 2023,Toronto (YYZ),Saskatoon (YXE),AC1123,3:07,13:50,13:58,15:20,,Landed 15:05,KML CSV Play, 
+c-fyns,, ,08 Aug 2023,—,—,(ACA1120),-,—,—,—,,Unknown,KML CSV Play, 
+c-fyns,, ,08 Aug 2023,Saskatoon (YXE),Toronto (YYZ),AC1120,2:41,06:35,06:34,11:41,,Landed 11:15,KML CSV Play, 
+c-fyns,, ,07 Aug 2023,Toronto (YYZ),Saskatoon (YXE),AC1125,3:05,22:35,23:15,00:05,,Landed 00:21,KML CSV Play, 
+c-fyns,, ,07 Aug 2023,Saskatoon (YXE),Toronto (YYZ),AC1124,2:45,16:20,16:19,21:26,,Landed 21:03,KML CSV Play, 
+c-fyns,, ,07 Aug 2023,Toronto (YYZ),Saskatoon (YXE),AC1123,3:02,13:50,14:04,15:20,,Landed 15:05,KML CSV Play, 
+c-fyns,, ,07 Aug 2023,—,—,(ACA1120),-,—,—,—,,Unknown,KML CSV Play, 
+c-fyns,, ,07 Aug 2023,Saskatoon (YXE),Toronto (YYZ),AC1120,2:42,06:35,06:42,11:41,,Landed 11:24,KML CSV Play, 
+c-fyns,, ,06 Aug 2023,Toronto (YYZ),Saskatoon (YXE),AC1125,3:02,22:35,22:57,00:05,,Landed 23:58,KML CSV Play, 
+c-fyns,, ,06 Aug 2023,Saskatoon (YXE),Toronto (YYZ),AC1122,2:43,12:25,13:13,17:31,,Landed 17:55,KML CSV Play, 
+c-fyns,, ,06 Aug 2023,Toronto (YYZ),Saskatoon (YXE),AC1121,3:07,10:00,10:28,11:30,,Landed 11:35,KML CSV Play, 
+c-fyns,, ,05 Aug 2023,Quebec (YQB),Toronto (YYZ),AC1105,1:16,20:55,22:56,22:28,,Landed 00:12,KML CSV Play, 
+c-fyns,, ,05 Aug 2023,Toronto (YYZ),Quebec (YQB),AC1102,1:08,18:30,20:30,19:59,,Landed 21:38,KML CSV Play, 
+c-fyns,, ,05 Aug 2023,Saskatoon (YXE),Toronto (YYZ),AC1122,2:38,12:25,14:20,17:31,,Landed 18:58,KML CSV Play, 
+c-fyns,, ,05 Aug 2023,Toronto (YYZ),Saskatoon (YXE),AC1121,3:05,10:00,12:11,11:30,,Landed 13:16,KML CSV Play, 
+c-fyns,, ,05 Aug 2023,—,—,(ACA621),-,—,—,—,,Unknown,KML CSV Play, 
+c-fyns,, ,04 Aug 2023,Halifax (YHZ),Toronto (YYZ),AC621,1:54,22:35,23:00,23:59,,Landed 23:53,KML CSV Play, 
+c-fyns,, ,04 Aug 2023,Toronto (YYZ),Halifax (YHZ),AC616,1:42,18:25,19:07,21:32,,Landed 21:49,KML CSV Play, 
+c-fyns,, ,04 Aug 2023,Saskatoon (YXE),Toronto (YYZ),AC1122,2:40,12:25,12:44,17:31,,Landed 17:25,KML CSV Play, 
+c-fyns,, ,04 Aug 2023,Toronto (YYZ),Saskatoon (YXE),AC1121,3:14,10:00,10:24,11:30,,Landed 11:38,KML CSV Play, 
+c-fyns,, ,04 Aug 2023,—,—,(ACA1105),-,—,—,—,,Unknown,KML CSV Play, 
+c-fyns,, ,03 Aug 2023,Quebec (YQB),Toronto (YYZ),AC1105,1:10,20:55,01:24,22:28,,Landed 02:34,KML CSV Play, 
+c-fyns,, ,03 Aug 2023,Toronto (YYZ),Quebec (YQB),AC1102,1:04,18:30,23:14,19:59,,Landed 00:18,KML CSV Play, 
+c-fyns,, ,03 Aug 2023,Ottawa (YOW),Toronto (YYZ),AC455,0:43,14:00,20:02,15:06,,Landed 20:44,KML CSV Play, 
+c-fyns,, ,03 Aug 2023,Toronto (YYZ),Ottawa (YOW),AC450,0:48,12:10,16:30,13:13,,Landed 17:18,KML CSV Play, 
+c-fyns,, ,02 Aug 2023,Saskatoon (YXE),Toronto (YYZ),AC1120,2:34,06:35,06:33,11:41,,Landed 11:06,KML CSV Play, 
+c-fyns,, ,01 Aug 2023,Toronto (YYZ),Saskatoon (YXE),AC1125,3:36,22:35,23:47,00:05,,Landed 01:22,KML CSV Play, 
+c-fyns,, ,01 Aug 2023,Saskatoon (YXE),Toronto (YYZ),AC1124,2:36,16:20,16:33,21:26,,Landed 21:09,KML CSV Play, 
+c-fyns,, ,01 Aug 2023,Toronto (YYZ),Saskatoon (YXE),AC1123,3:15,13:50,14:01,15:20,,Landed 15:17,KML CSV Play, 
+c-fyns,, ,01 Aug 2023,Saskatoon (YXE),Toronto (YYZ),AC1120,2:37,06:35,06:41,11:41,,Landed 11:18,KML CSV Play, 
+c-fyns,, ,31 Jul 2023,Toronto (YYZ),Saskatoon (YXE),AC1125,3:07,22:35,23:23,00:05,,Landed 00:30,KML CSV Play, 
+c-fyns,, ,31 Jul 2023,Saskatoon (YXE),Toronto (YYZ),AC1124,2:39,16:20,17:01,21:26,,Landed 21:40,KML CSV Play, 
+c-fyns,, ,31 Jul 2023,Toronto (YYZ),Saskatoon (YXE),AC1123,3:07,13:50,14:38,15:20,,Landed 15:45,KML CSV Play, 
+c-fyns,, ,31 Jul 2023,—,—,(ACA1120),-,—,—,—,,Unknown,KML CSV Play, 
+c-fyns,, ,31 Jul 2023,Saskatoon (YXE),Toronto (YYZ),AC1120,2:31,06:35,06:41,11:41,,Landed 11:12,KML CSV Play, 
+c-fyns,, ,30 Jul 2023,Toronto (YYZ),Saskatoon (YXE),AC1125,3:11,22:35,23:21,00:05,,Landed 00:32,KML CSV Play, 
+c-fyns,, ,30 Jul 2023,Ottawa (YOW),Toronto (YYZ),AC465,0:42,19:00,20:41,20:10,,Landed 21:23,KML CSV Play, 
+c-fyns,, ,30 Jul 2023,Toronto (YYZ),Ottawa (YOW),AC460,0:39,17:10,18:58,18:13,,Landed 19:37,KML CSV Play, 
+c-fyns,, ,30 Jul 2023,Saskatoon (YXE),Toronto (YYZ),AC1122,2:37,12:25,12:43,17:31,,Landed 17:21,KML CSV Play, 
+c-fyns,, ,30 Jul 2023,Toronto (YYZ),Saskatoon (YXE),AC1121,3:11,10:00,10:19,11:30,,Landed 11:30,KML CSV Play, 
+c-fyns,, ,30 Jul 2023,—,—,(ACA1105),-,—,—,—,,Unknown,KML CSV Play, 
+c-fyns,, ,29 Jul 2023,Quebec (YQB),Toronto (YYZ),AC1105,1:14,20:55,21:01,22:28,,Landed 22:14,KML CSV Play, 
+c-fyns,, ,29 Jul 2023,Toronto (YYZ),Quebec (YQB),AC1102,1:01,18:30,18:48,19:59,,Landed 19:50,KML CSV Play, 
+c-fyns,, ,29 Jul 2023,Saskatoon (YXE),Toronto (YYZ),AC1122,2:32,12:25,12:50,17:31,,Landed 17:22,KML CSV Play, 
+c-fyns,, ,29 Jul 2023,Toronto (YYZ),Saskatoon (YXE),AC1121,3:10,10:00,10:21,11:30,,Landed 11:31,KML CSV Play, 
+c-fyns,, ,28 Jul 2023,Quebec (YQB),Toronto (YYZ),AC1105,1:15,20:55,21:15,22:28,,Landed 22:30,KML CSV Play, 
+c-fyns,, ,28 Jul 2023,Toronto (YYZ),Quebec (YQB),AC1102,1:09,18:30,18:41,19:59,,Landed 19:50,KML CSV Play, 
+c-fyns,, ,28 Jul 2023,—,—,(ACA1122),-,—,—,—,,Unknown,KML CSV Play, 
+c-fyns,, ,28 Jul 2023,Saskatoon (YXE),Toronto (YYZ),AC1122,2:36,12:25,12:41,17:31,,Landed 17:17,KML CSV Play, 
+c-fyns,, ,28 Jul 2023,Toronto (YYZ),Saskatoon (YXE),AC1121,3:07,10:00,10:14,11:30,,Landed 11:21,KML CSV Play, 
+c-fyns,, ,27 Jul 2023,Quebec (YQB),Toronto (YYZ),AC1105,1:10,20:55,23:00,22:28,,Landed 00:10,KML CSV Play, 
+c-fyns,, ,27 Jul 2023,Toronto (YYZ),Quebec (YQB),AC1102,1:03,18:30,20:54,19:59,,Landed 21:57,KML CSV Play, 
+c-fyns,, ,27 Jul 2023,Saskatoon (YXE),Toronto (YYZ),AC1122,2:39,12:25,12:33,17:31,,Landed 17:12,KML CSV Play, 
+c-fyns,, ,27 Jul 2023,Toronto (YYZ),Saskatoon (YXE),AC1121,3:07,10:00,10:06,11:30,,Landed 11:13,KML CSV Play, 
+c-fyns,, ,26 Jul 2023,Quebec (YQB),Toronto (YYZ),AC1105,1:13,20:55,21:30,22:28,,Landed 22:43,KML CSV Play, 
+c-fyns,, ,26 Jul 2023,Toronto (YYZ),Quebec (YQB),AC1102,1:12,18:30,19:33,19:59,,Landed 20:45,KML CSV Play, 
+c-fyns,, ,26 Jul 2023,Ottawa (YOW),Toronto (YYZ),AC455,0:48,14:00,17:09,15:06,,Landed 17:57,KML CSV Play, 
+c-fyns,, ,26 Jul 2023,Toronto (YYZ),Ottawa (YOW),AC450,0:45,12:10,15:14,13:13,,Landed 15:59,KML CSV Play, 
+c-fyns,, ,26 Jul 2023,Edmonton (YEG),Toronto (YYZ),AC160,3:10,06:00,06:12,11:42,,Landed 11:22,KML CSV Play, 
+c-fyns,, ,25 Jul 2023,Toronto (YYZ),Edmonton (YEG),AC179,3:41,22:45,23:36,00:55,,Landed 01:16,KML CSV Play, 
+c-fyns,, ,25 Jul 2023,Saskatoon (YXE),Toronto (YYZ),AC1122,2:35,12:25,12:47,17:31,,Landed 17:22,KML CSV Play, 
+c-fyns,, ,25 Jul 2023,Toronto (YYZ),Saskatoon (YXE),AC1121,3:11,10:00,10:32,11:30,,Landed 11:43,KML CSV Play, 
+c-fyns,, ,25 Jul 2023,—,—,(ACA483),-,—,—,—,,Unknown,KML CSV Play, 
+c-fyns,, ,25 Jul 2023,Montreal (YUL),Toronto (YYZ),AC483,0:50,06:30,06:59,07:53,,Landed 07:49,KML CSV Play, 
+c-fyns,, ,23 Jul 2023,Quebec (YQB),Montreal (YUL),AC1157,0:29,17:50,19:25,18:40,,Landed 19:54,KML CSV Play, 
+c-fyns,, ,23 Jul 2023,Toronto (YYZ),Quebec (YQB),AC1106,1:09,15:30,17:14,16:56,,Landed 18:23,KML CSV Play, 
+c-fyns,, ,23 Jul 2023,Saskatoon (YXE),Toronto (YYZ),AC1120,2:39,06:35,06:47,11:41,,Landed 11:26,KML CSV Play, 
+c-fyns,, ,22 Jul 2023,Toronto (YYZ),Saskatoon (YXE),AC1125,3:04,22:35,23:34,00:05,,Landed 00:38,KML CSV Play, 
+c-fyns,, ,22 Jul 2023,Saskatoon (YXE),Toronto (YYZ),AC1124,2:46,16:20,16:22,21:26,,Landed 21:08,KML CSV Play, 
+c-fyns,, ,22 Jul 2023,Toronto (YYZ),Saskatoon (YXE),AC1123,3:00,13:50,14:06,15:20,,Landed 15:07,KML CSV Play, 
+c-fyns,, ,22 Jul 2023,Saskatoon (YXE),Toronto (YYZ),AC1120,2:44,06:35,06:47,11:41,,Landed 11:31,KML CSV Play, 
+c-fyns,, ,21 Jul 2023,Toronto (YYZ),Saskatoon (YXE),AC1125,3:01,22:35,00:42,00:05,,Landed 01:44,KML CSV Play, 
+c-fyns,, ,22 Jul 2023,—,—,(ACA1124),-,—,—,—,,Unknown,KML CSV Play, 
+c-fyns,, ,21 Jul 2023,Saskatoon (YXE),Toronto (YYZ),AC1124,2:42,16:20,18:21,21:26,,Landed 23:03,KML CSV Play, 
+c-fyns,, ,21 Jul 2023,Toronto (YYZ),Saskatoon (YXE),AC1123,2:58,13:50,16:06,15:20,,Landed 17:04,KML CSV Play, 
+c-fyns,, ,21 Jul 2023,Saskatoon (YXE),Toronto (YYZ),AC1120,2:52,06:35,09:21,11:41,,Landed 14:13,KML CSV Play, 
+c-fyns,, ,20 Jul 2023,Toronto (YYZ),Saskatoon (YXE),AC1125,3:06,22:35,23:43,00:05,,Landed 00:49,KML CSV Play, 
+c-fyns,, ,20 Jul 2023,Saskatoon (YXE),Toronto (YYZ),AC1124,2:46,16:20,16:49,21:26,,Landed 21:35,KML CSV Play, 
+c-fyns,, ,20 Jul 2023,Toronto (YYZ),Saskatoon (YXE),AC1123,3:13,13:50,14:06,15:20,,Landed 15:19,KML CSV Play, 
+c-fyns,, ,20 Jul 2023,Saskatoon (YXE),Toronto (YYZ),AC1120,2:42,06:35,06:39,11:41,,Landed 11:20,KML CSV Play, 
+c-fyns,, ,19 Jul 2023,Toronto (YYZ),Saskatoon (YXE),AC1125,3:05,22:35,00:04,00:05,,Landed 01:09,KML CSV Play, 
+c-fyns,, ,19 Jul 2023,Quebec (YQB),Toronto (YYZ),AC1105,1:08,20:55,21:07,22:28,,Landed 22:15,KML CSV Play, 
+c-fyns,, ,19 Jul 2023,Toronto (YYZ),Quebec (YQB),AC1102,1:05,18:30,18:58,19:59,,Landed 20:04,KML CSV Play, 
+c-fyns,, ,19 Jul 2023,Saskatoon (YXE),Toronto (YYZ),AC1122,2:46,12:25,12:51,17:31,,Landed 17:37,KML CSV Play, 
+c-fyns,, ,19 Jul 2023,Toronto (YYZ),Saskatoon (YXE),AC1121,3:07,10:00,10:28,11:30,,Landed 11:35,KML CSV Play, 
+c-fyns,, ,19 Jul 2023,Quebec (YQB),Toronto (YYZ),AC1101,1:11,06:50,07:01,08:23,,Landed 08:12,KML CSV Play, 
+c-fyns,, ,18 Jul 2023,Toronto (YYZ),Quebec (YQB),AC1104,1:04,22:20,22:53,23:49,,Landed 23:57,KML CSV Play, 
+c-fyns,, ,19 Jul 2023,—,—,(ACA1122),-,—,—,—,,Unknown,KML CSV Play, 
+c-fyns,, ,18 Jul 2023,Saskatoon (YXE),Toronto (YYZ),AC1122,2:43,12:25,15:30,17:31,,Landed 20:13,KML CSV Play, 
+c-fyns,, ,18 Jul 2023,Toronto (YYZ),Saskatoon (YXE),AC1121,3:10,10:00,13:11,11:30,,Landed 14:22,KML CSV Play, 
+c-fyns,, ,18 Jul 2023,Saskatoon (YXE),Toronto (YYZ),AC1120,2:39,06:35,06:47,11:41,,Landed 11:27,KML CSV Play, 
+c-fyns,, ,17 Jul 2023,Toronto (YYZ),Saskatoon (YXE),AC1125,3:03,22:35,00:47,00:05,,Landed 01:50,KML CSV Play, 
+c-fyns,, ,17 Jul 2023,Quebec (YQB),Toronto (YYZ),AC1105,1:14,20:55,21:30,22:28,,Landed 22:43,KML CSV Play, 
+c-fyns,, ,17 Jul 2023,Toronto (YYZ),Quebec (YQB),AC1102,1:04,18:30,18:58,19:59,,Landed 20:02,KML CSV Play, 
+c-fyns,, ,17 Jul 2023,Saskatoon (YXE),Toronto (YYZ),AC1122,2:42,12:25,12:34,17:31,,Landed 17:16,KML CSV Play, 
+c-fyns,, ,17 Jul 2023,Toronto (YYZ),Saskatoon (YXE),AC1121,3:06,10:00,10:15,11:30,,Landed 11:21,KML CSV Play, 
+c-fyns,, ,17 Jul 2023,Quebec (YQB),Toronto (YYZ),AC1101,1:24,05:15,06:59,06:48,,Landed 08:23,KML CSV Play, 
+c-fyns,, ,16 Jul 2023,Toronto (YYZ),Quebec (YQB),AC1104,1:04,22:20,22:45,23:49,,Landed 23:49,KML CSV Play, 
+c-fyns,, ,16 Jul 2023,Saskatoon (YXE),Toronto (YYZ),AC1122,2:45,12:25,12:33,17:31,,Landed 17:18,KML CSV Play, 
+c-fyns,, ,16 Jul 2023,Toronto (YYZ),Saskatoon (YXE),AC1121,2:55,10:00,10:14,11:30,,Landed 11:10,KML CSV Play, 
+c-fyns,, ,15 Jul 2023,Toronto (YYZ),—,AC1124,-,21:16,—,—,,Unknown,KML CSV Play, 
+c-fyns,, ,15 Jul 2023,Saskatoon (YXE),Toronto (YYZ),AC1124,2:40,16:20,16:34,21:26,,Landed 21:14,KML CSV Play, 
+c-fyns,, ,15 Jul 2023,Toronto (YYZ),Saskatoon (YXE),AC1123,3:03,13:50,14:05,15:20,,Landed 15:07,KML CSV Play, 
+c-fyns,, ,15 Jul 2023,Toronto (YYZ),—,AC1120,-,11:43,—,—,,Unknown,KML CSV Play, 
+c-fyns,, ,15 Jul 2023,Saskatoon (YXE),Toronto (YYZ),AC1120,2:43,06:35,06:57,11:41,,Landed 11:40,KML CSV Play, 
+c-fyns,, ,14 Jul 2023,Toronto (YYZ),Saskatoon (YXE),AC1125,3:11,22:35,22:49,00:05,,Landed 00:00,KML CSV Play, 
+c-fyns,, ,14 Jul 2023,Saskatoon (YXE),Toronto (YYZ),AC1124,2:39,16:20,16:40,21:26,,Landed 21:19,KML CSV Play, 
+c-fyns,, ,14 Jul 2023,Toronto (YYZ),Saskatoon (YXE),AC1123,3:01,13:50,14:16,15:20,,Landed 15:17,KML CSV Play, 
+c-fyns,, ,14 Jul 2023,Saskatoon (YXE),Toronto (YYZ),AC1120,2:42,06:35,07:00,11:41,,Landed 11:43,KML CSV Play, 
+c-fyns,, ,13 Jul 2023,Toronto (YYZ),Saskatoon (YXE),AC1125,3:05,22:35,00:30,00:05,,Landed 01:35,KML CSV Play, 
+c-fyns,, ,13 Jul 2023,Saskatoon (YXE),Toronto (YYZ),AC1124,2:37,16:20,17:29,21:26,,Landed 22:06,KML CSV Play, 
+c-fyns,, ,13 Jul 2023,Toronto (YYZ),Saskatoon (YXE),AC1123,2:59,13:50,15:09,15:20,,Landed 16:08,KML CSV Play, 
+c-fyns,, ,13 Jul 2023,Saskatoon (YXE),Toronto (YYZ),AC1120,2:45,06:35,08:50,11:41,,Landed 13:35,KML CSV Play, 
+c-fyns,, ,12 Jul 2023,Toronto (YYZ),Saskatoon (YXE),AC1125,3:07,22:35,23:35,00:05,,Landed 00:42,KML CSV Play, 
+c-fyns,, ,09 Jul 2023,Trois-Rivieres (YRQ),Toronto (YYZ),AC2321,1:07,12:00,15:41,13:10,,Landed 16:48,KML CSV Play, 
+c-fyns,, ,04 Jul 2023,Toronto (YYZ),Trois-Rivieres (YRQ),RV2361,0:58,13:00,15:09,15:50,,Landed 16:07,KML CSV Play, 
+c-fyns,, ,04 Jul 2023,Charlottetown (YYG),Toronto (YYZ),AC1543,2:01,12:40,12:37,13:59,,Landed 13:37,KML CSV Play, 
+c-fyns,, ,04 Jul 2023,Toronto (YYZ),Charlottetown (YYG),AC1540,1:41,08:40,08:55,11:42,,Landed 11:36,KML CSV Play, 
+c-fyns,, ,03 Jul 2023,Regina (YQR),Toronto (YYZ),AC1926,2:31,16:20,18:17,21:13,,Landed 22:48,KML CSV Play, 
+c-fyns,, ,03 Jul 2023,Toronto (YYZ),Regina (YQR),AC1923,2:43,14:00,16:26,15:17,,Landed 17:09,KML CSV Play, 
+c-fyns,, ,03 Jul 2023,Quebec (YQB),Toronto (YYZ),AC1955,1:12,10:25,11:16,11:56,,Landed 12:28,KML CSV Play, 
+c-fyns,, ,03 Jul 2023,Toronto (YYZ),Quebec (YQB),AC1950,0:59,08:00,09:01,09:26,,Landed 10:00,KML CSV Play, 
+c-fyns,, ,01 Jul 2023,Fort Myers (RSW),Toronto (YYZ),AC1665,2:34,17:40,17:45,20:37,,Landed 20:19,KML CSV Play, 
+c-fyns,, ,01 Jul 2023,Toronto (YYZ),Fort Myers (RSW),AC1662,2:29,13:45,14:03,16:43,,Landed 16:32,KML CSV Play, 
+c-fyns,, ,01 Jul 2023,Deer Lake (YDF),Toronto (YYZ),AC1547,2:32,05:40,09:10,07:05,,Landed 10:12,KML CSV Play, 
+c-fyns,, ,30 Jun 2023,Toronto (YYZ),Deer Lake (YDF),AC1548,2:13,20:05,20:20,00:09,,Landed 00:04,KML CSV Play, 
+c-fyns,, ,30 Jun 2023,Nanaimo (YCD),Toronto (YYZ),AC1914,4:00,11:25,11:32,18:56,,Landed 18:32,KML CSV Play, 
+c-fyns,, ,30 Jun 2023,Toronto (YYZ),Nanaimo (YCD),AC1915,4:45,08:15,08:31,10:21,,Landed 10:16,KML CSV Play, 
+c-fyns,, ,29 Jun 2023,St. John's (YYT),Toronto (YYZ),AC1573,2:46,23:05,23:45,01:04,,Landed 01:01,KML CSV Play, 
+c-fyns,, ,29 Jun 2023,Toronto (YYZ),St. John's (YYT),AC1572,2:36,17:40,18:41,22:12,,Landed 22:47,KML CSV Play, 
+c-fyns,, ,29 Jun 2023,Deer Lake (YDF),Toronto (YYZ),AC1549,2:26,14:45,14:51,16:10,,Landed 15:47,KML CSV Play, 
+c-fyns,, ,29 Jun 2023,Toronto (YYZ),Deer Lake (YDF),AC1546,2:16,09:35,09:46,13:39,,Landed 13:32,KML CSV Play, 
+c-fyns,, ,29 Jun 2023,Quebec (YQB),Toronto (YYZ),AC1953,1:07,07:00,07:01,08:31,,Landed 08:08,KML CSV Play, 
+c-fyns,, ,28 Jun 2023,Toronto (YYZ),Quebec (YQB),AC1956,1:05,19:55,20:20,21:21,,Landed 21:25,KML CSV Play, 
+c-fyns,, ,28 Jun 2023,Fort McMurray (YMM),Toronto (YYZ),AC1940,3:21,13:15,13:21,18:50,,Landed 18:42,KML CSV Play, 
+c-fyns,, ,28 Jun 2023,Toronto (YYZ),Fort McMurray (YMM),AC1941,3:27,10:15,10:20,12:13,,Landed 11:47,KML CSV Play, 
+c-fyns,, ,27 Jun 2023,Quebec (YQB),Toronto (YYZ),AC1959,1:13,20:55,22:17,22:26,,Landed 23:29,KML CSV Play, 
+c-fyns,, ,27 Jun 2023,Toronto (YYZ),Quebec (YQB),AC1954,1:00,18:30,20:22,19:56,,Landed 21:22,KML CSV Play, 
+c-fyns,, ,27 Jun 2023,Deer Lake (YDF),Toronto (YYZ),AC1549,2:43,14:45,17:11,16:10,,Landed 18:24,KML CSV Play, 
+c-fyns,, ,27 Jun 2023,Toronto (YYZ),Deer Lake (YDF),AC1546,2:15,09:35,12:08,13:39,,Landed 15:54,KML CSV Play, 
+c-fyns,, ,27 Jun 2023,Charlottetown (YYG),Toronto (YYZ),AC1541,1:57,05:45,09:17,07:04,,Landed 10:14,KML CSV Play, 
+c-fyns,, ,26 Jun 2023,Toronto (YYZ),Charlottetown (YYG),AC1544,1:41,20:50,22:07,23:52,,Landed 00:47,KML CSV Play, 
+c-fyns,, ,26 Jun 2023,Moncton (YQM),Toronto (YYZ),AC1505,1:44,19:05,19:57,20:16,,Landed 20:41,KML CSV Play, 
+c-fyns,, ,26 Jun 2023,Toronto (YYZ),Moncton (YQM),AC1502,1:36,15:10,15:40,18:07,,Landed 18:16,KML CSV Play, 
+c-fyns,, ,26 Jun 2023,Miami (MIA),Toronto (YYZ),RV1995,2:51,10:00,10:35,12:56,,Landed 13:26,KML CSV Play, 
+c-fyns,, ,25 Jun 2023,Orlando (MCO),Miami (MIA),AC1644,0:57,14:39,17:55,15:25,,Landed 18:52,KML CSV Play, 
+c-fyns,, ,25 Jun 2023,Toronto (YYZ),Miami (MIA),AC1644,3:17,09:50,10:23,12:57,,Landed 13:40,KML CSV Play, 
+c-fyns,, ,24 Jun 2023,Quebec (YQB),Toronto (YYZ),AC1957,1:08,20:30,21:17,22:01,,Landed 22:26,KML CSV Play, 
+c-fyns,, ,24 Jun 2023,Cancun (CUN),Quebec (YQB),AC1799,4:04,14:20,14:44,19:40,,Landed 19:49,KML CSV Play, 
+c-fyns,, ,24 Jun 2023,Quebec (YQB),Cancun (CUN),AC1798,4:11,09:50,10:16,13:20,,Landed 13:27,KML CSV Play, 
+c-fyns,, ,23 Jun 2023,Montreal (YUL),Quebec (YQB),AC1968,0:33,20:00,20:41,20:54,,Landed 21:14,KML CSV Play, 
+c-fyns,, ,23 Jun 2023,Kelowna (YLW),Montreal (YUL),AC1928,4:06,11:45,11:46,19:08,,Landed 18:52,KML CSV Play, 
+c-fyns,, ,23 Jun 2023,Montreal (YUL),Kelowna (YLW),AC1929,4:27,08:30,08:53,10:43,,Landed 10:20,KML CSV Play, 
+c-fyns,, ,23 Jun 2023,St. John's (YYT),Montreal (YUL),AC1519,2:08,06:30,06:37,07:45,,Landed 07:16,KML CSV Play, 
+c-fyns,, ,22 Jun 2023,Montreal (YUL),St. John's (YYT),AC1522,2:07,20:15,21:56,00:07,,Landed 01:34,KML CSV Play, 
+c-fyns,, ,22 Jun 2023,Fort McMurray (YMM),Montreal (YUL),AC1942,3:35,12:05,14:30,17:46,,Landed 20:05,KML CSV Play, 
+c-fyns,, ,22 Jun 2023,Montreal (YUL),Fort McMurray (YMM),AC1943,3:35,08:35,11:51,10:51,,Landed 13:26,KML CSV Play, 
+c-fyns,, ,21 Jun 2023,Cancun (CUN),Montreal (YUL),RV7108,3:56,12:30,16:27,19:40,,Landed 21:23,KML CSV Play, 
+c-fyns,, ,17 Jun 2023,Quebec (YQB),Cancun (CUN),AC1798,4:17,09:50,10:01,13:20,,Landed 13:18,KML CSV Play, 
+c-fyns,, ,16 Jun 2023,Toronto (YYZ),Quebec (YQB),AC1956,1:01,19:55,22:34,21:18,,Landed 23:36,KML CSV Play, 
+c-fyns,, ,16 Jun 2023,Fredericton (YFC),Toronto (YYZ),AC1529,1:38,18:15,19:03,19:14,,Landed 19:40,KML CSV Play, 
+c-fyns,, ,16 Jun 2023,Toronto (YYZ),Fredericton (YFC),AC1526,1:26,14:40,15:30,17:25,,Landed 17:57,KML CSV Play, 
+c-fyns,, ,16 Jun 2023,Fredericton (YFC),Toronto (YYZ),AC1527,1:37,12:45,13:03,13:44,,Landed 13:40,KML CSV Play, 
+c-fyns,, ,16 Jun 2023,Toronto (YYZ),Fredericton (YFC),AC1524,1:21,09:15,09:32,12:00,,Landed 11:54,KML CSV Play, 
+c-fyns,, ,15 Jun 2023,Fredericton (YFC),Toronto (YYZ),AC1529,1:40,18:10,21:32,19:09,,Landed 22:13,KML CSV Play, 
+c-fyns,, ,15 Jun 2023,Toronto (YYZ),Fredericton (YFC),AC1526,1:27,14:35,17:43,17:20,,Landed 20:10,KML CSV Play, 
+c-fyns,, ,15 Jun 2023,Fort Lauderdale (FLL),Toronto (YYZ),AC1623,2:39,13:05,13:31,16:12,,Landed 16:09,KML CSV Play, 
+c-fyns,, ,15 Jun 2023,Toronto (YYZ),Fort Lauderdale (FLL),AC1622,2:40,08:55,09:27,11:59,,Landed 12:07,KML CSV Play, 
+c-fyns,, ,14 Jun 2023,Quebec (YQB),Toronto (YYZ),AC1957,1:06,19:45,20:41,21:21,,Landed 21:47,KML CSV Play, 
+c-fyns,, ,14 Jun 2023,Montreal (YUL),Quebec (YQB),AC1966,0:29,17:40,18:54,18:37,,Landed 19:23,KML CSV Play, 
+c-fyns,, ,14 Jun 2023,Winnipeg (YWG),Montreal (YUL),AC1532,2:26,12:10,12:31,15:59,,Landed 15:57,KML CSV Play, 
+c-fyns,, ,14 Jun 2023,Montreal (YUL),Winnipeg (YWG),AC1531,2:25,09:15,09:41,11:22,,Landed 11:07,KML CSV Play, 
+c-fyns,, ,13 Jun 2023,Quebec (YQB),Montreal (YUL),AC1967,0:33,18:00,18:44,18:55,,Landed 19:18,KML CSV Play, 
+c-fyns,, ,13 Jun 2023,Toronto (YYZ),Quebec (YQB),AC1952,1:03,15:50,16:38,17:13,,Landed 17:41,KML CSV Play, 
+c-fyns,, ,13 Jun 2023,Regina (YQR),Toronto (YYZ),AC1924,2:38,10:05,10:24,14:59,,Landed 15:02,KML CSV Play, 
+c-fyns,, ,13 Jun 2023,Toronto (YYZ),Regina (YQR),AC1921,2:36,08:00,08:31,09:19,,Landed 09:07,KML CSV Play, 
+c-fyns,, ,12 Jun 2023,Saskatoon (YXE),Toronto (YYZ),AC1932,2:56,06:35,06:55,11:43,,Landed 11:50,KML CSV Play, 
+c-fyns,, ,11 Jun 2023,Toronto (YYZ),Saskatoon (YXE),AC1935,2:45,22:35,23:22,00:10,,Landed 00:07,KML CSV Play, 
+c-fyns,, ,11 Jun 2023,Varadero (VRA),Toronto (YYZ),AC1741,3:00,13:10,12:57,16:30,,Landed 15:57,KML CSV Play, 
+c-fyns,, ,11 Jun 2023,Toronto (YYZ),Varadero (VRA),AC1740,2:51,08:35,08:47,11:55,,Landed 11:38,KML CSV Play, 
+c-fyns,, ,10 Jun 2023,Quebec (YQB),Toronto (YYZ),AC1957,1:06,20:30,20:51,22:06,,Landed 21:57,KML CSV Play, 
+c-fyns,, ,10 Jun 2023,Cancun (CUN),Quebec (YQB),AC1799,4:05,14:20,14:31,19:40,,Landed 19:36,KML CSV Play, 
+c-fyns,, ,10 Jun 2023,Quebec (YQB),Cancun (CUN),AC1798,4:14,09:50,10:05,13:20,,Landed 13:19,KML CSV Play, 
+c-fyns,, ,09 Jun 2023,Montreal (YUL),Quebec (YQB),AC1970,0:28,22:00,22:03,22:54,,Landed 22:32,KML CSV Play, 
+c-fyns,, ,09 Jun 2023,Quebec (YQB),Montreal (YUL),AC1965,0:34,14:55,19:29,15:50,,Landed 20:03,KML CSV Play, 
+c-fyns,, ,09 Jun 2023,Montreal (YUL),Quebec (YQB),AC1964,0:28,13:15,17:49,14:09,,Landed 18:16,KML CSV Play, 
+c-fyns,, ,09 Jun 2023,San Jose (SJO),Montreal (YUL),AC1846,4:47,09:10,09:42,16:53,,Landed 16:28,KML CSV Play, 
+c-fyns,, ,08 Jun 2023,Montreal (YUL),San Jose (SJO),AC1847,5:34,17:00,18:40,20:40,,Landed 22:13,KML CSV Play, 
+c-fyns,, ,08 Jun 2023,Quebec (YQB),Montreal (YUL),AC1965,0:37,14:55,16:48,15:50,,Landed 17:25,KML CSV Play, 
+c-fyns,, ,08 Jun 2023,Montreal (YUL),Quebec (YQB),AC1964,0:31,13:15,15:03,14:09,,Landed 15:34,KML CSV Play, 
+c-fyns,, ,08 Jun 2023,Quebec (YQB),Montreal (YUL),AC1963,0:34,11:00,13:10,11:55,,Landed 13:44,KML CSV Play, 
+c-fyns,, ,08 Jun 2023,Montreal (YUL),Quebec (YQB),AC1962,0:29,09:15,11:38,10:09,,Landed 12:07,KML CSV Play, 
+c-fyns,, ,08 Jun 2023,Moncton (YQM),Montreal (YUL),AC1561,1:09,06:40,06:58,07:10,,Landed 07:07,KML CSV Play, 
+c-fyns,, ,07 Jun 2023,Toronto (YYZ),Moncton (YQM),AC1504,1:38,20:50,22:54,23:42,,Landed 01:33,KML CSV Play, 
+c-fyns,, ,07 Jun 2023,Saskatoon (YXE),Toronto (YYZ),AC1936,2:45,16:20,16:24,21:28,,Landed 21:09,KML CSV Play, 
+c-fyns,, ,07 Jun 2023,Toronto (YYZ),Saskatoon (YXE),AC1933,2:56,13:50,14:00,15:25,,Landed 14:57,KML CSV Play, 
+c-fyns,, ,07 Jun 2023,Quebec (YQB),Toronto (YYZ),AC1955,1:07,10:20,10:30,11:56,,Landed 11:37,KML CSV Play, 
+c-fyns,, ,07 Jun 2023,Toronto (YYZ),Quebec (YQB),AC1950,1:05,08:00,08:18,09:23,,Landed 09:23,KML CSV Play, 
+c-fyns,, ,07 Jun 2023,Quebec (YQB),Toronto (YYZ),AC1951,1:08,05:15,05:27,06:50,,Landed 06:34,KML CSV Play, 
+c-fyns,, ,06 Jun 2023,Montreal (YUL),Quebec (YQB),AC1968,0:29,20:00,20:17,20:54,,Landed 20:46,KML CSV Play, 
+c-fyns,, ,06 Jun 2023,Quebec (YQB),Montreal (YUL),AC1967,0:36,18:00,18:14,18:55,,Landed 18:50,KML CSV Play, 
+c-fyns,, ,06 Jun 2023,Toronto (YYZ),Quebec (YQB),AC1952,1:07,15:50,16:04,17:13,,Landed 17:10,KML CSV Play, 
+c-fyns,, ,06 Jun 2023,Saskatoon (YXE),Toronto (YYZ),AC1932,2:48,06:35,06:42,11:43,,Landed 11:31,KML CSV Play, 
+c-fyns,, ,05 Jun 2023,Toronto (YYZ),Saskatoon (YXE),AC1935,3:00,22:35,23:03,00:10,,Landed 00:03,KML CSV Play, 
+c-fyns,, ,05 Jun 2023,Saskatoon (YXE),Toronto (YYZ),AC1936,2:49,16:20,16:38,21:28,,Landed 21:27,KML CSV Play, 
+c-fyns,, ,05 Jun 2023,Toronto (YYZ),Saskatoon (YXE),AC1933,3:01,13:50,14:23,15:25,,Landed 15:24,KML CSV Play, 
+c-fyns,, ,01 Jun 2023,Tampa (TPA),Toronto (YYZ),AC1655,2:23,12:05,15:25,14:51,,Landed 17:48,KML CSV Play, 
+c-fyns,, ,01 Jun 2023,Toronto (YYZ),Tampa (TPA),AC1654,2:22,08:15,11:39,11:01,,Landed 14:02,KML CSV Play, 
+c-fyns,, ,31 May 2023,Regina (YQR),Toronto (YYZ),AC1924,2:33,15:10,15:41,20:04,,Landed 20:14,KML CSV Play, 
+c-fyns,, ,31 May 2023,Toronto (YYZ),Regina (YQR),AC1923,2:48,12:55,13:43,14:18,,Landed 14:31,KML CSV Play, 
+c-fyns,, ,31 May 2023,Quebec (YQB),Toronto (YYZ),AC1955,1:07,10:20,10:42,12:00,,Landed 11:49,KML CSV Play, 
+c-fyns,, ,31 May 2023,Toronto (YYZ),Quebec (YQB),AC1950,1:09,08:00,08:29,09:26,,Landed 09:38,KML CSV Play, 
+c-fyns,, ,31 May 2023,Moncton (YQM),Toronto (YYZ),AC1501,1:41,05:00,05:05,06:20,,Landed 05:46,KML CSV Play, 
+c-fyns,, ,30 May 2023,Toronto (YYZ),Moncton (YQM),AC1504,1:40,20:50,21:25,23:45,,Landed 00:05,KML CSV Play, 
+c-fyns,, ,30 May 2023,Fort Lauderdale (FLL),Toronto (YYZ),AC1623,2:35,13:00,13:56,16:12,,Landed 16:31,KML CSV Play, 
+c-fyns,, ,30 May 2023,Toronto (YYZ),Fort Lauderdale (FLL),AC1622,2:41,08:55,09:40,12:06,,Landed 12:21,KML CSV Play, 
+c-fyns,, ,27 May 2023,Regina (YQR),Toronto (YYZ),AC1922,2:40,10:50,15:05,15:47,,Landed 19:45,KML CSV Play, 
+c-fyns,, ,27 May 2023,Toronto (YYZ),Regina (YQR),AC1921,2:44,08:30,13:11,09:53,,Landed 13:56,KML CSV Play, 
+c-fyns,, ,27 May 2023,Quebec (YQB),Toronto (YYZ),AC1955,1:07,10:20,10:25,12:00,,Landed 11:32,KML CSV Play, 
+c-fyns,, ,27 May 2023,Toronto (YYZ),Quebec (YQB),AC1950,1:05,08:00,08:16,09:26,,Landed 09:21,KML CSV Play, 
+c-fyns,, ,26 May 2023,New Orleans (MSY),Toronto (YYZ),AC1710,2:25,16:55,17:52,20:52,,Landed 21:16,KML CSV Play, 
+c-fyns,, ,26 May 2023,Toronto (YYZ),New Orleans (MSY),AC1711,2:28,14:00,14:38,15:52,,Landed 16:06,KML CSV Play, 
+c-fyns,, ,26 May 2023,Quebec (YQB),Toronto (YYZ),AC1955,1:04,10:20,11:26,12:00,,Landed 12:30,KML CSV Play, 
+c-fyns,, ,26 May 2023,Toronto (YYZ),Quebec (YQB),AC1950,1:16,08:00,08:09,09:26,,Landed 09:25,KML CSV Play, 
+c-fyns,, ,26 May 2023,Moncton (YQM),Toronto (YYZ),AC1501,1:40,05:00,05:08,06:20,,Landed 05:48,KML CSV Play, 
+c-fyns,, ,25 May 2023,Toronto (YYZ),Moncton (YQM),AC1504,1:34,20:50,22:06,23:45,,Landed 00:40,KML CSV Play, 
+c-fyns,, ,25 May 2023,Thunder Bay (YQT),Toronto (YYZ),AC1514,1:26,17:30,18:00,19:10,,Landed 19:26,KML CSV Play, 
+c-fyns,, ,25 May 2023,Toronto (YYZ),Thunder Bay (YQT),AC1513,1:18,14:40,15:31,16:27,,Landed 16:49,KML CSV Play, 
+c-fyns,, ,22 May 2023,Regina (YQR),Toronto (YYZ),AC1924,2:32,15:10,15:20,20:04,,Landed 19:52,KML CSV Play, 
+c-fyns,, ,22 May 2023,Toronto (YYZ),Regina (YQR),AC1923,2:51,12:55,13:20,14:18,,Landed 14:11,KML CSV Play, 
+c-fyns,, ,22 May 2023,Quebec (YQB),Toronto (YYZ),AC1955,1:14,10:20,10:28,12:00,,Landed 11:42,KML CSV Play, 
+c-fyns,, ,22 May 2023,Toronto (YYZ),Quebec (YQB),AC1950,1:01,08:00,08:18,09:26,,Landed 09:20,KML CSV Play, 
+c-fyns,, ,21 May 2023,Quebec (YQB),Toronto (YYZ),AC1959,1:17,20:55,22:55,22:35,,Landed 00:12,KML CSV Play, 
+c-fyns,, ,21 May 2023,Toronto (YYZ),Quebec (YQB),AC1954,1:00,18:30,20:51,19:56,,Landed 21:52,KML CSV Play, 
+c-fyns,, ,21 May 2023,Fort McMurray (YMM),Toronto (YYZ),AC1940,3:03,13:15,13:59,18:59,,Landed 19:03,KML CSV Play, 
+c-fyns,, ,21 May 2023,Toronto (YYZ),Fort McMurray (YMM),AC1941,3:44,10:25,11:07,12:30,,Landed 12:51,KML CSV Play, 
+c-fyns,, ,21 May 2023,Orlando (MCO),Toronto (YYZ),AC1671,2:18,07:10,07:22,09:56,,Landed 09:40,KML CSV Play, 
+c-fyns,, ,20 May 2023,Toronto (YYZ),Orlando (MCO),AC1678,2:18,20:40,21:08,23:29,,Landed 23:26,KML CSV Play, 
+c-fyns,, ,20 May 2023,Halifax (YHZ),Toronto (YYZ),AC1591,2:03,18:00,18:11,19:32,,Landed 19:14,KML CSV Play, 
+c-fyns,, ,20 May 2023,Toronto (YYZ),Halifax (YHZ),AC1538,1:42,14:00,14:11,17:05,,Landed 16:53,KML CSV Play, 
+c-fyns,, ,20 May 2023,Quebec (YQB),Toronto (YYZ),AC1955,1:14,10:20,10:12,12:00,,Landed 11:27,KML CSV Play, 
+c-fyns,, ,20 May 2023,Toronto (YYZ),Quebec (YQB),AC1950,1:02,08:00,08:04,09:26,,Landed 09:06,KML CSV Play, 
+c-fyns,, ,20 May 2023,Quebec (YQB),Toronto (YYZ),AC1951,1:12,05:15,05:26,06:50,,Landed 06:38,KML CSV Play, 
+c-fyns,, ,19 May 2023,Montreal (YUL),Quebec (YQB),AC1970,0:33,22:00,22:22,22:58,,Landed 22:55,KML CSV Play, 
+c-fyns,, ,19 May 2023,Quebec (YQB),Montreal (YUL),AC1967,0:30,17:50,18:28,18:49,,Landed 18:57,KML CSV Play, 
+c-fyns,, ,19 May 2023,Toronto (YYZ),Quebec (YQB),AC1952,1:08,15:30,16:22,16:56,,Landed 17:30,KML CSV Play, 
+c-fyns,, ,19 May 2023,Tampa (TPA),Toronto (YYZ),AC1655,2:35,12:05,12:24,14:54,,Landed 14:59,KML CSV Play, 
+c-fyns,, ,19 May 2023,Toronto (YYZ),Tampa (TPA),AC1654,2:29,08:15,08:37,11:07,,Landed 11:05,KML CSV Play, 
+c-fyns,, ,18 May 2023,Victoria (YYJ),Toronto (YYZ),AC1900,4:05,11:50,13:19,19:21,,Landed 20:24,KML CSV Play, 
+c-fyns,, ,17 May 2023,Saskatoon (YXE),Toronto (YYZ),AC1932,2:40,10:55,11:34,16:05,,Landed 16:15,KML CSV Play, 
+c-fyns,, ,17 May 2023,Toronto (YYZ),Saskatoon (YXE),AC1931,3:11,08:30,09:13,10:05,,Landed 10:24,KML CSV Play, 
+c-fyns,, ,16 May 2023,Saskatoon (YXE),Toronto (YYZ),AC1936,2:38,19:35,19:30,00:47,,Landed 00:08,KML CSV Play, 
+c-fyns,, ,16 May 2023,Toronto (YYZ),Saskatoon (YXE),AC1935,3:12,17:00,17:21,18:40,,Landed 18:33,KML CSV Play, 
+c-fyns,, ,16 May 2023,Winnipeg (YWG),Toronto (YYZ),AC1532,1:54,12:40,12:46,16:04,,Landed 15:41,KML CSV Play, 
+c-fyns,, ,16 May 2023,Toronto (YYZ),Winnipeg (YWG),AC1531,2:20,10:00,10:11,11:40,,Landed 11:31,KML CSV Play, 
+c-fyns,, ,16 May 2023,Quebec (YQB),Toronto (YYZ),AC1953,1:14,06:55,06:58,08:33,,Landed 08:11,KML CSV Play, 
+c-fyns,, ,15 May 2023,Montreal (YUL),Quebec (YQB),AC1966,0:33,17:40,17:56,18:41,,Landed 18:30,KML CSV Play, 
+c-fyns,, ,15 May 2023,Quebec (YQB),Montreal (YUL),AC1965,0:37,14:55,15:46,15:54,,Landed 16:23,KML CSV Play, 
+c-fyns,, ,15 May 2023,Montreal (YUL),Quebec (YQB),AC1964,0:33,13:10,14:12,14:08,,Landed 14:45,KML CSV Play, 
+c-fyns,, ,15 May 2023,Charlottetown (YYG),Montreal (YUL),AC1569,1:31,11:30,11:26,12:15,,Landed 11:57,KML CSV Play, 
+c-fyns,, ,15 May 2023,Montreal (YUL),Charlottetown (YYG),AC1566,1:13,08:05,08:20,10:35,,Landed 10:34,KML CSV Play, 
+c-fyns,, ,14 May 2023,St. John's (YYT),Montreal (YUL),AC1523,2:18,20:45,20:41,22:07,,Landed 21:29,KML CSV Play, 
+c-fyns,, ,14 May 2023,Montreal (YUL),St. John's (YYT),AC1520,2:02,15:55,16:04,19:49,,Landed 19:36,KML CSV Play, 
+c-fyns,, ,14 May 2023,St. John's (YYT),Montreal (YUL),AC1521,2:19,12:35,12:41,13:57,,Landed 13:30,KML CSV Play, 
+c-fyns,, ,14 May 2023,Montreal (YUL),St. John's (YYT),AC1518,2:00,07:55,08:08,11:49,,Landed 11:38,KML CSV Play, 
+c-fyns,, ,13 May 2023,Quebec (YQB),Montreal (YUL),AC1967,0:44,17:50,18:11,18:49,,Landed 18:55,KML CSV Play, 
+c-fyns,, ,13 May 2023,Toronto (YYZ),Quebec (YQB),AC1952,1:07,15:30,15:56,16:56,,Landed 17:03,KML CSV Play, 
+c-fyns,, ,13 May 2023,Quebec (YQB),Toronto (YYZ),AC1955,1:15,10:20,12:39,11:58,,Landed 13:53,KML CSV Play, 
+c-fyns,, ,13 May 2023,Toronto (YYZ),Quebec (YQB),AC1950,1:06,07:50,10:32,09:16,,Landed 11:39,KML CSV Play, 
+c-fyns,, ,12 May 2023,Winnipeg (YWG),Toronto (YYZ),RV1998,1:56,16:30,16:43,19:32,,Landed 19:38,KML CSV Play, 
+c-fyns,, ,12 May 2023,Toronto (YYZ),Winnipeg (YWG),RV1995,2:14,13:00,13:36,14:22,,Landed 14:50,KML CSV Play, 
+c-fyns,, ,12 May 2023,Quebec (YQB),Toronto (YYZ),AC1955,1:08,10:20,10:32,11:58,,Landed 11:40,KML CSV Play, 
+c-fyns,, ,12 May 2023,Toronto (YYZ),Quebec (YQB),AC1950,1:08,07:50,08:26,09:16,,Landed 09:34,KML CSV Play, 
+c-fyns,, ,11 May 2023,Quebec (YQB),Toronto (YYZ),AC1959,1:08,21:10,21:14,22:50,,Landed 22:22,KML CSV Play, 
+c-fyns,, ,11 May 2023,Toronto (YYZ),Quebec (YQB),AC1954,1:09,18:55,19:21,20:21,,Landed 20:30,KML CSV Play, 
+c-fyns,, ,11 May 2023,Moncton (YQM),Toronto (YYZ),AC1503,1:45,12:40,13:43,13:59,,Landed 14:28,KML CSV Play, 
+c-fyns,, ,11 May 2023,Toronto (YYZ),Moncton (YQM),AC1500,1:38,08:45,09:43,11:40,,Landed 12:21,KML CSV Play, 
+c-fyns,, ,11 May 2023,Charlottetown (YYG),Toronto (YYZ),AC1541,1:55,06:25,06:18,07:47,,Landed 07:13,KML CSV Play, 
+c-fyns,, ,10 May 2023,Toronto (YYZ),Charlottetown (YYG),AC1544,1:47,20:50,20:54,23:55,,Landed 23:41,KML CSV Play, 
+c-fyns,, ,10 May 2023,Thunder Bay (YQT),Toronto (YYZ),AC1514,1:11,17:30,17:50,19:10,,Landed 19:01,KML CSV Play, 
+c-fyns,, ,10 May 2023,Toronto (YYZ),Thunder Bay (YQT),AC1513,1:31,14:40,15:04,16:27,,Landed 16:35,KML CSV Play, 
+c-fyns,, ,10 May 2023,Orlando (MCO),Toronto (YYZ),AC1675,2:29,10:55,10:53,13:41,,Landed 13:22,KML CSV Play, 
+c-fyns,, ,10 May 2023,Toronto (YYZ),Orlando (MCO),AC1670,2:08,07:00,07:06,09:46,,Landed 09:14,KML CSV Play, 
+c-fyns,, ,09 May 2023,Quebec (YQB),Toronto (YYZ),AC1959,1:12,21:10,21:35,22:50,,Landed 22:46,KML CSV Play, 
+c-fyns,, ,09 May 2023,Toronto (YYZ),Quebec (YQB),AC1954,1:08,18:55,19:30,20:21,,Landed 20:38,KML CSV Play, 
+c-fyns,, ,09 May 2023,Fort Lauderdale (FLL),Toronto (YYZ),AC1623,2:41,14:00,14:06,17:12,,Landed 16:47,KML CSV Play, 
+c-fyns,, ,09 May 2023,Toronto (YYZ),Fort Lauderdale (FLL),AC1622,2:43,09:30,09:57,12:40,,Landed 12:40,KML CSV Play, 
+c-fyns,, ,08 May 2023,Fort McMurray (YMM),Toronto (YYZ),AC1940,3:25,13:15,14:39,18:55,,Landed 20:04,KML CSV Play, 
+c-fyns,, ,08 May 2023,Toronto (YYZ),Fort McMurray (YMM),AC1941,3:27,10:25,11:44,12:30,,Landed 13:11,KML CSV Play, 
+c-fyns,, ,08 May 2023,Moncton (YQM),Toronto (YYZ),AC1501,1:49,07:15,07:37,08:30,,Landed 08:26,KML CSV Play, 
+c-fyns,, ,07 May 2023,Toronto (YYZ),Moncton (YQM),AC1504,1:30,20:30,20:54,23:25,,Landed 23:24,KML CSV Play, 
+c-fyns,, ,07 May 2023,Fort McMurray (YMM),Toronto (YYZ),AC1940,3:20,13:15,13:19,18:55,,Landed 18:39,KML CSV Play, 
+c-fyns,, ,07 May 2023,Toronto (YYZ),Fort McMurray (YMM),AC1941,3:28,10:25,10:49,12:30,,Landed 12:17,KML CSV Play, 
+c-fyns,, ,07 May 2023,Deer Lake (YDF),Toronto (YYZ),AC1547,2:32,05:35,06:11,07:19,,Landed 07:14,KML CSV Play, 
+c-fyns,, ,06 May 2023,Toronto (YYZ),Deer Lake (YDF),AC1548,2:23,19:55,20:23,00:05,,Landed 00:16,KML CSV Play, 
+c-fyns,, ,06 May 2023,Charlottetown (YYG),Toronto (YYZ),AC1543,1:46,13:55,15:21,15:22,,Landed 16:07,KML CSV Play, 
+c-fyns,, ,06 May 2023,Toronto (YYZ),Charlottetown (YYG),AC1540,1:48,09:55,11:32,13:00,,Landed 14:21,KML CSV Play, 
+c-fyns,, ,06 May 2023,Orlando (MCO),Toronto (YYZ),AC1671,2:23,07:10,07:23,09:56,,Landed 09:46,KML CSV Play, 
+c-fyns,, ,05 May 2023,Toronto (YYZ),Orlando (MCO),AC1678,2:09,20:40,21:32,23:29,,Landed 23:41,KML CSV Play, 
+c-fyns,, ,05 May 2023,Fredericton (YFC),Toronto (YYZ),AC1529,1:34,18:40,19:17,19:39,,Landed 19:51,KML CSV Play, 
+c-fyns,, ,05 May 2023,Toronto (YYZ),Fredericton (YFC),AC1526,1:29,15:05,15:49,17:50,,Landed 18:18,KML CSV Play, 
+c-fyns,, ,05 May 2023,Orlando (MCO),Toronto (YYZ),AC1675,2:18,10:55,11:34,13:41,,Landed 13:52,KML CSV Play, 
+c-fyns,, ,05 May 2023,Toronto (YYZ),Orlando (MCO),AC1670,2:12,07:00,07:24,09:46,,Landed 09:36,KML CSV Play, 
+c-fyns,, ,04 May 2023,Regina (YQR),Toronto (YYZ),AC1926,2:32,19:15,19:07,00:12,,Landed 23:39,KML CSV Play, 
+c-fyns,, ,04 May 2023,Toronto (YYZ),Regina (YQR),AC1925,2:43,16:45,16:53,18:08,,Landed 17:36,KML CSV Play, 
+c-fyns,, ,04 May 2023,Melbourne (MLB),Toronto (YYZ),RV2379,2:32,10:30,10:28,13:10,,Landed 13:00,KML CSV Play, 
+c-fyns,, ,29 Apr 2023,Toronto (YYZ),Melbourne (MLB),RV2378,2:21,06:30,07:00,09:30,,Landed 09:22,KML CSV Play, 
+c-fyns,, ,28 Apr 2023,Sarasota (SRQ),Toronto (YYZ),AC1633,2:18,20:00,20:47,22:56,,Landed 23:05,KML CSV Play, 
+c-fyns,, ,28 Apr 2023,Toronto (YYZ),Sarasota (SRQ),AC1632,2:51,16:05,16:29,19:05,,Landed 19:20,KML CSV Play, 
+c-fyns,, ,27 Apr 2023,St. John's (YYT),Toronto (YYZ),AC1577,2:48,17:20,17:49,19:33,,Landed 19:07,KML CSV Play, 
+c-fyns,, ,27 Apr 2023,Toronto (YYZ),St. John's (YYT),AC1572,2:41,12:00,12:24,16:31,,Landed 16:34,KML CSV Play, 
+c-fyns,, ,26 Apr 2023,Quebec (YQB),Toronto (YYZ),AC1957,1:07,18:40,18:54,20:20,,Landed 20:01,KML CSV Play, 
+c-fyns,, ,26 Apr 2023,Toronto (YYZ),Quebec (YQB),AC1954,1:08,16:20,16:46,17:46,,Landed 17:53,KML CSV Play, 
+c-fyns,, ,25 Apr 2023,Fort Myers (RSW),Toronto (YYZ),AC1667,2:48,16:10,16:20,19:13,,Landed 19:09,KML CSV Play, 
+c-fyns,, ,25 Apr 2023,Toronto (YYZ),Fort Myers (RSW),AC1664,2:36,12:00,12:11,15:09,,Landed 14:47,KML CSV Play, 
+c-fyns,, ,22 Apr 2023,Willemstad (CUR),Toronto (YYZ),AC1865,5:14,16:00,16:18,21:15,,Landed 21:32,KML CSV Play, 
+c-fyns,, ,22 Apr 2023,Toronto (YYZ),Willemstad (CUR),AC1864,4:51,09:30,10:02,14:35,,Landed 14:53,KML CSV Play, 
+c-fyns,, ,21 Apr 2023,Sarasota (SRQ),Toronto (YYZ),AC1633,2:15,20:00,20:32,22:56,,Landed 22:46,KML CSV Play, 
+c-fyns,, ,21 Apr 2023,Toronto (YYZ),Sarasota (SRQ),AC1632,2:40,16:05,16:24,19:05,,Landed 19:04,KML CSV Play, 
+c-fyns,, ,20 Apr 2023,Quebec (YQB),Toronto (YYZ),AC1955,1:15,16:25,16:54,18:05,,Landed 18:10,KML CSV Play, 
+c-fyns,, ,20 Apr 2023,Toronto (YYZ),Quebec (YQB),AC1952,1:06,14:00,14:44,15:26,,Landed 15:50,KML CSV Play, 
+c-fyns,, ,20 Apr 2023,Thunder Bay (YQT),Toronto (YYZ),AC1512,1:16,11:10,11:43,12:50,,Landed 12:59,KML CSV Play, 
+c-fyns,, ,20 Apr 2023,Toronto (YYZ),Thunder Bay (YQT),AC1511,1:24,08:20,09:13,10:07,,Landed 10:37,KML CSV Play, 
+c-fyns,, ,19 Apr 2023,Thunder Bay (YQT),Toronto (YYZ),AC1514,1:12,17:30,17:32,19:10,,Landed 18:44,KML CSV Play, 
+c-fyns,, ,19 Apr 2023,Toronto (YYZ),Thunder Bay (YQT),AC1513,1:39,14:40,14:44,16:27,,Landed 16:23,KML CSV Play, 
+c-fyns,, ,19 Apr 2023,Thunder Bay (YQT),Toronto (YYZ),AC1512,1:13,11:10,11:19,12:50,,Landed 12:32,KML CSV Play, 
+c-fyns,, ,19 Apr 2023,Toronto (YYZ),Thunder Bay (YQT),AC1511,1:34,08:20,08:33,10:07,,Landed 10:07,KML CSV Play, 
+c-fyns,, ,18 Apr 2023,Thunder Bay (YQT),Toronto (YYZ),AC1514,1:13,17:30,19:57,19:10,,Landed 21:10,KML CSV Play, 
+c-fyns,, ,18 Apr 2023,Toronto (YYZ),Thunder Bay (YQT),AC1513,1:27,14:40,17:21,16:27,,Landed 18:48,KML CSV Play, 
+c-fyns,, ,18 Apr 2023,Quebec (YQB),Toronto (YYZ),AC1951,1:14,05:00,05:20,06:40,,Landed 06:34,KML CSV Play, 
+c-fyns,, ,17 Apr 2023,Montreal (YUL),Quebec (YQB),AC1968,0:34,21:25,21:38,22:23,,Landed 22:12,KML CSV Play, 
+c-fyns,, ,17 Apr 2023,Quebec (YQB),Montreal (YUL),AC1967,0:33,19:35,19:32,20:34,,Landed 20:05,KML CSV Play, 
+c-fyns,, ,17 Apr 2023,Montreal (YUL),Quebec (YQB),AC1966,0:31,17:45,18:02,18:46,,Landed 18:32,KML CSV Play, 
+c-fyns,, ,17 Apr 2023,Quebec (YQB),Montreal (YUL),RV1995,0:34,15:20,15:29,16:10,,Landed 16:03,KML CSV Play, 
+c-fyns,, ,17 Apr 2023,Montreal (YUL),Quebec (YQB),AC1964,0:30,13:20,13:33,14:18,,Landed 14:03,KML CSV Play, 
+c-fyns,, ,17 Apr 2023,Quebec (YQB),Montreal (YUL),AC1963,0:35,10:35,10:49,11:34,,Landed 11:23,KML CSV Play, 
+c-fyns,, ,17 Apr 2023,Montreal (YUL),Quebec (YQB),AC1960,0:27,08:35,08:35,09:33,,Landed 09:02,KML CSV Play, 
+c-fyns,, ,17 Apr 2023,Quebec (YQB),Montreal (YUL),AC1961,0:46,06:10,06:21,07:10,,Landed 07:07,KML CSV Play, 
+c-fyns,, ,16 Apr 2023,Montreal (YUL),Quebec (YQB),AC1968,0:27,21:25,23:17,22:23,,Landed 23:44,KML CSV Play, 
+c-fyns,, ,16 Apr 2023,Quebec (YQB),Montreal (YUL),AC1967,0:32,19:35,21:31,20:34,,Landed 22:02,KML CSV Play, 
+c-fyns,, ,16 Apr 2023,Montreal (YUL),Quebec (YQB),AC1966,0:27,17:45,20:13,18:46,,Landed 20:40,KML CSV Play, 
+c-fyns,, ,16 Apr 2023,Quebec (YQB),Montreal (YUL),AC1965,0:36,15:50,18:13,16:49,,Landed 18:49,KML CSV Play, 
+c-fyns,, ,16 Apr 2023,Orlando (MCO),Quebec (YQB),AC1691,2:46,11:40,13:09,15:02,,Landed 15:56,KML CSV Play, 
+c-fyns,, ,16 Apr 2023,Montreal (YUL),Orlando (MCO),AC1634,2:55,07:15,07:40,10:35,,Landed 10:35,KML CSV Play, 
+c-fyns,, ,15 Apr 2023,Cozumel (CZM),Montreal (YUL),AC1749,3:38,11:30,11:07,16:50,,Landed 15:44,KML CSV Play, 
+c-fyns,, ,15 Apr 2023,Montreal (YUL),Cozumel (CZM),AC1748,3:57,07:00,07:04,10:35,,Landed 10:01,KML CSV Play, 
+c-fyns,, ,14 Apr 2023,Tampa (TPA),Montreal (YUL),AC1619,2:41,15:20,15:49,18:32,,Landed 18:31,KML CSV Play, 
+c-fyns,, ,14 Apr 2023,Montreal (YUL),Tampa (TPA),AC1618,2:59,10:55,10:58,14:24,,Landed 13:57,KML CSV Play, 
+c-fyns,, ,13 Apr 2023,Halifax (YHZ),Montreal (YUL),RV2003,1:17,16:35,17:16,17:35,,Landed 17:33,KML CSV Play, 
+c-fyns,, ,13 Apr 2023,Montreal (YUL),Halifax (YHZ),RV2002,1:05,13:15,13:58,16:03,,Landed 16:03,KML CSV Play, 
+c-fyns,, ,13 Apr 2023,Quebec (YQB),Montreal (YUL),AC1963,0:32,10:35,10:38,11:34,,Landed 11:11,KML CSV Play, 
+c-fyns,, ,13 Apr 2023,Montreal (YUL),Quebec (YQB),AC1960,0:33,08:35,08:42,09:33,,Landed 09:16,KML CSV Play, 
+c-fyns,, ,11 Apr 2023,San Salvador (ZSA),Montreal (YUL),AC1801,3:32,13:30,13:21,17:10,,Landed 16:52,KML CSV Play, 
+c-fyns,, ,11 Apr 2023,Montreal (YUL),San Salvador (ZSA),AC1800,3:10,08:55,09:05,12:35,,Landed 12:15,KML CSV Play, 
+c-fyns,, ,10 Apr 2023,Cayo Coco (CCC),Montreal (YUL),AC1751,3:21,20:55,21:47,00:40,,Landed 01:08,KML CSV Play, 
+c-fyns,, ,10 Apr 2023,Montreal (YUL),Cayo Coco (CCC),AC1750,3:21,15:50,17:04,19:45,,Landed 20:25,KML CSV Play, 
+c-fyns,, ,10 Apr 2023,Cancun (CUN),Montreal (YUL),AC1883,3:49,08:50,10:27,14:15,,Landed 15:17,KML CSV Play, 
+c-fyns,, ,09 Apr 2023,Montreal (YUL),Cancun (CUN),AC1884,4:01,16:50,19:11,20:20,,Landed 22:11,KML CSV Play, 
+c-fyns,, ,09 Apr 2023,Orlando (MCO),Montreal (YUL),AC1637,2:37,12:00,15:07,15:06,,Landed 17:45,KML CSV Play, 
+c-fyns,, ,09 Apr 2023,Quebec (YQB),Orlando (MCO),AC1690,3:02,07:40,10:28,11:08,,Landed 13:29,KML CSV Play, 
+c-fyns,, ,08 Apr 2023,Fort Lauderdale (FLL),Quebec (YQB),AC1689,3:02,21:50,22:54,01:32,,Landed 01:56,KML CSV Play, 
+c-fyns,, ,08 Apr 2023,Ottawa (YOW),Fort Lauderdale (FLL),AC1696,3:16,17:25,17:34,20:55,,Landed 20:50,KML CSV Play, 
+c-fyns,, ,08 Apr 2023,Fort Lauderdale (FLL),Ottawa (YOW),AC1697,2:41,12:40,12:56,15:58,,Landed 15:38,KML CSV Play, 
+c-fyns,, ,07 Apr 2023,Ottawa (YOW),Fort Lauderdale (FLL),AC1696,3:15,17:25,18:27,20:55,,Landed 21:42,KML CSV Play, 
+c-fyns,, ,07 Apr 2023,Fort Lauderdale (FLL),Ottawa (YOW),AC1697,2:48,12:40,14:00,15:58,,Landed 16:48,KML CSV Play, 
+c-fyns,, ,07 Apr 2023,Quebec (YQB),Fort Lauderdale (FLL),AC1688,3:44,07:15,08:02,10:53,,Landed 11:46,KML CSV Play, 
+c-fyns,, ,06 Apr 2023,Toronto (YYZ),Quebec (YQB),AC1958,1:01,18:30,18:42,19:56,,Landed 19:43,KML CSV Play, 
+c-fyns,, ,06 Apr 2023,Varadero (VRA),Toronto (YYZ),AC1741,2:59,13:40,13:36,17:05,,Landed 16:35,KML CSV Play, 
+c-fyns,, ,06 Apr 2023,Toronto (YYZ),Varadero (VRA),AC1740,2:59,09:00,09:12,12:25,,Landed 12:11,KML CSV Play, 
+c-fyns,, ,05 Apr 2023,Puerto Plata (POP),Toronto (YYZ),AC1821,4:12,12:20,12:37,16:35,,Landed 16:49,KML CSV Play, 
+c-fyns,, ,05 Apr 2023,Toronto (YYZ),Puerto Plata (POP),AC1820,3:34,07:15,07:56,11:20,,Landed 11:30,KML CSV Play, 
+c-fyns,, ,04 Apr 2023,Cayo Coco (CCC),Toronto (YYZ),AC1755,3:15,13:30,13:51,17:05,,Landed 17:05,KML CSV Play, 
+c-fyns,, ,04 Apr 2023,Toronto (YYZ),Cayo Coco (CCC),AC1754,2:53,08:50,09:36,12:20,,Landed 12:29,KML CSV Play, 
+c-fyns,, ,03 Apr 2023,Punta Cana (PUJ),Toronto (YYZ),AC1795,4:30,10:55,13:21,15:30,,Landed 17:52,KML CSV Play, 
+c-fyns,, ,02 Apr 2023,Toronto (YYZ),Punta Cana (PUJ),AC1796,3:44,18:10,21:07,22:25,,Landed 00:51,KML CSV Play, 
+c-fyns,, ,02 Apr 2023,Varadero (VRA),Toronto (YYZ),AC1741,3:14,13:40,14:02,17:05,,Landed 17:16,KML CSV Play, 
+c-fyns,, ,02 Apr 2023,Toronto (YYZ),Varadero (VRA),AC1740,2:51,09:00,09:28,12:25,,Landed 12:18,KML CSV Play, 
+c-fyns,, ,01 Apr 2023,Tampa (TPA),Toronto (YYZ),AC1659,2:22,16:40,17:21,19:29,,Landed 19:43,KML CSV Play, 
+c-fyns,, ,01 Apr 2023,Toronto (YYZ),Tampa (TPA),AC1656,2:34,12:50,13:02,15:42,,Landed 15:35,KML CSV Play, 
+c-fyns,, ,01 Apr 2023,Saskatoon (YXE),Toronto (YYZ),AC1930,2:46,05:10,05:42,10:22,,Landed 10:28,KML CSV Play, 
+c-fyns,, ,31 Mar 2023,Toronto (YYZ),Saskatoon (YXE),AC1935,3:12,21:05,21:37,22:45,,Landed 22:49,KML CSV Play, 
+c-fyns,, ,31 Mar 2023,Thunder Bay (YQT),Toronto (YYZ),AC1514,1:19,17:30,18:12,19:10,,Landed 19:31,KML CSV Play, 
+c-fyns,, ,31 Mar 2023,Toronto (YYZ),Thunder Bay (YQT),AC1513,1:26,14:40,14:59,16:27,,Landed 16:25,KML CSV Play, 
+c-fyns,, ,30 Mar 2023,Varadero (VRA),Toronto (YYZ),AC1741,3:07,13:40,13:52,17:05,,Landed 16:59,KML CSV Play, 
+c-fyns,, ,30 Mar 2023,Toronto (YYZ),Varadero (VRA),AC1740,2:47,09:00,09:20,12:25,,Landed 12:07,KML CSV Play, 
+c-fyns,, ,29 Mar 2023,Puerto Plata (POP),Toronto (YYZ),AC1821,3:57,12:20,13:13,16:35,,Landed 17:10,KML CSV Play, 
+c-fyns,, ,29 Mar 2023,Toronto (YYZ),Puerto Plata (POP),AC1820,3:35,07:15,07:23,11:20,,Landed 10:58,KML CSV Play, 
+c-fyns,, ,28 Mar 2023,Cozumel (CZM),Toronto (YYZ),AC1779,3:20,16:50,17:15,21:45,,Landed 21:35,KML CSV Play, 
+c-fyns,, ,28 Mar 2023,Toronto (YYZ),Cozumel (CZM),AC1778,3:49,12:50,13:29,15:45,,Landed 16:18,KML CSV Play, 
+c-fyns,, ,28 Mar 2023,Quebec (YQB),Toronto (YYZ),AC1953,1:13,10:30,10:27,12:10,,Landed 11:40,KML CSV Play, 
